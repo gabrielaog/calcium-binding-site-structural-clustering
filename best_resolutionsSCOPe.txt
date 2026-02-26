@@ -1,0 +1,6432 @@
+Superfamily g.68.1:
+  Cluster 2:
+PDB 1nub_2_A - Resolution 2.8 A
+PDB 1nub_3_A - Resolution 2.8 A
+PDB 1nub_4_B - Resolution 2.8 A
+PDB 1nub_6_B - Resolution 2.8 A
+  Cluster 1:
+PDB 1nub_1_A - Resolution 2.8 A
+PDB 1nub_5_B - Resolution 2.8 A
+
+Superfamily g.3.1:
+  Cluster 1:
+PDB 1uha_1_A - Resolution 1.5 A
+
+Superfamily a.133.1:
+  Cluster 7:
+PDB 1g4i_1_A - Resolution 0.97 A
+PDB 1vl9_1_A - Resolution 0.97 A
+  Cluster 2:
+PDB 1vl9_2_A - Resolution 0.97 A
+  Cluster 6:
+PDB 1kp4_1_A - Resolution 1.6 A
+  Cluster 1:
+PDB 2azz_3_A - Resolution 2.2 A
+PDB 2b01_2_A - Resolution 2.2 A
+  Cluster 3:
+PDB 2b96_2_A - Resolution 1.7 A
+  Cluster 5:
+PDB 2wq5_1_A - Resolution 1.65 A
+  Cluster 4:
+PDB 3jr8_1_A - Resolution 2.1 A
+PDB 3jr8_2_AB - Resolution 2.1 A
+PDB 3jr8_3_A - Resolution 2.1 A
+
+Superfamily c.109.1:
+  Cluster 1:
+PDB 1j3b_1_B - Resolution 2.0 A
+PDB 1j3b_2_A - Resolution 2.0 A
+  Cluster 2:
+PDB 1os1_1_A - Resolution 1.8 A
+
+Superfamily g.41.5:
+  Cluster 2:
+PDB 1vzi_5_AB - Resolution 1.15 A
+  Cluster 1:
+PDB 1vzi_3_AB - Resolution 1.15 A
+
+Superfamily a.24.30:
+  Cluster 1:
+PDB 3ung_2_C - Resolution 2.31 A
+
+Superfamily c.1.31:
+  Cluster 2:
+PDB 4n6f_1_B - Resolution 2.25 A
+  Cluster 1:
+PDB 4n6f_2_B - Resolution 2.25 A
+PDB 4n6f_3_A - Resolution 2.25 A
+  Cluster 3:
+PDB 4n6f_4_A - Resolution 2.25 A
+  Cluster 4:
+PDB 4n6f_5_A - Resolution 2.25 A
+
+Superfamily b.21.1:
+  Cluster 1:
+PDB 4k6t_7_EFG - Resolution 2.0 A
+
+Superfamily d.3.1:
+  Cluster 5:
+PDB 4kty_4_A - Resolution 1.98 A
+PDB 4kty_5_B - Resolution 1.98 A
+  Cluster 8:
+PDB 2r9f_1_A - Resolution 1.6 A
+  Cluster 2:
+PDB 2r9f_2_A - Resolution 1.6 A
+  Cluster 4:
+PDB 4kty_1_B - Resolution 1.98 A
+PDB 4kty_3_A - Resolution 1.98 A
+  Cluster 3:
+PDB 4kty_2_BD - Resolution 1.98 A
+PDB 4kty_6_AC - Resolution 1.98 A
+  Cluster 6:
+PDB 2bu3_1_A - Resolution 1.4 A
+PDB 2bu3_2_B - Resolution 1.4 A
+  Cluster 9:
+PDB 3c9e_1_A - Resolution 1.8 A
+  Cluster 7:
+PDB 5mu9_1_A - Resolution 1.3 A
+  Cluster 1:
+PDB 3f5v_1_A - Resolution 1.36 A
+PDB 3f5v_2_B - Resolution 1.36 A
+  Cluster 10:
+PDB 5mu9_2_A - Resolution 1.3 A
+  Cluster 11:
+PDB 6ml1_2_AG - Resolution 1.9 A
+  Cluster 12:
+PDB 6ml1_4_AB - Resolution 1.9 A
+
+Superfamily c.82.1:
+  Cluster 3:
+PDB 4jbe_4_AB - Resolution 1.95 A
+  Cluster 9:
+PDB 3u4j_1_A - Resolution 2.0 A
+  Cluster 4:
+PDB 4jbe_10_AB - Resolution 1.95 A
+PDB 4jbe_2_B - Resolution 1.95 A
+PDB 4jbe_3_A - Resolution 1.95 A
+PDB 4jbe_5_B - Resolution 1.95 A
+PDB 4jbe_6_A - Resolution 1.95 A
+PDB 4jbe_8_A - Resolution 1.95 A
+PDB 4jbe_9_B - Resolution 1.95 A
+  Cluster 5:
+PDB 4jbe_1_A - Resolution 1.95 A
+  Cluster 8:
+PDB 4jbe_7_AB - Resolution 1.95 A
+  Cluster 2:
+PDB 4kna_1_B - Resolution 1.95 A
+PDB 4kna_2_A - Resolution 1.95 A
+  Cluster 7:
+PDB 4pxl_2_A - Resolution 2.25 A
+  Cluster 1:
+PDB 4ywe_10_H - Resolution 2.15 A
+PDB 4ywe_11_B - Resolution 2.15 A
+PDB 4ywe_13_E - Resolution 2.15 A
+PDB 4ywe_14_G - Resolution 2.15 A
+PDB 4ywe_15_A - Resolution 2.15 A
+PDB 4ywe_2_D - Resolution 2.15 A
+PDB 4ywe_4_F - Resolution 2.15 A
+PDB 4ywe_5_C - Resolution 2.15 A
+  Cluster 6:
+PDB 4ywe_7_GH - Resolution 2.15 A
+
+Superfamily c.66.1:
+  Cluster 5:
+PDB 1dct_1_A - Resolution 2.8 A
+PDB 1dct_2_B - Resolution 2.8 A
+  Cluster 8:
+PDB 4c08_3_A - Resolution 1.338 A
+  Cluster 1:
+PDB 1yfj_1_34A - Resolution 2.69 A
+PDB 1yfj_2_12B - Resolution 2.69 A
+  Cluster 10:
+PDB 2idj_1_BD - Resolution 2.35 A
+  Cluster 12:
+PDB 2idj_2_CD - Resolution 2.35 A
+  Cluster 9:
+PDB 2ipx_2_A - Resolution 1.82 A
+  Cluster 11:
+PDB 4c07_1_A - Resolution 1.499 A
+  Cluster 4:
+PDB 4c08_1_A - Resolution 1.338 A
+  Cluster 7:
+PDB 4c08_5_A - Resolution 1.338 A
+  Cluster 2:
+PDB 4c08_4_A - Resolution 1.338 A
+  Cluster 3:
+PDB 4c08_2_A - Resolution 1.338 A
+  Cluster 6:
+PDB 4l7v_1_A - Resolution 2.05 A
+
+Superfamily c.76.1:
+  Cluster 2:
+PDB 1hdh_1_B - Resolution 1.3 A
+PDB 1hdh_2_A - Resolution 1.3 A
+  Cluster 1:
+PDB 1zed_2_A - Resolution 1.57 A
+PDB 3mk1_3_A - Resolution 1.57 A
+
+Superfamily c.26.2:
+  Cluster 3:
+PDB 3q4g_4_A - Resolution 2.4 A
+  Cluster 1:
+PDB 3s3t_1_FH - Resolution 1.9 A
+PDB 3s3t_2_AC - Resolution 1.9 A
+PDB 3s3t_3_EG - Resolution 1.9 A
+PDB 3s3t_4_BD - Resolution 1.9 A
+PDB 3s3t_5_EG - Resolution 1.9 A
+PDB 3s3t_6_BD - Resolution 1.9 A
+PDB 3s3t_7_AC - Resolution 1.9 A
+PDB 3s3t_8_FH - Resolution 1.9 A
+  Cluster 2:
+PDB 5ol2_1_DE - Resolution 3.1 A
+PDB 5ol2_4_AB - Resolution 3.1 A
+
+Superfamily d.58.53:
+  Cluster 1:
+PDB 3ung_2_C - Resolution 2.31 A
+
+Superfamily g.77.1:
+  Cluster 1:
+PDB 2qtw_1_B - Resolution 1.9 A
+  Cluster 2:
+PDB 4ne9_1_BD - Resolution 2.6 A
+
+Superfamily c.19.1:
+  Cluster 1:
+PDB 1cjy_1_A - Resolution 2.5 A
+PDB 1cjy_2_B - Resolution 2.5 A
+
+Superfamily d.129.1:
+  Cluster 3:
+PDB 2noh_2_ABC - Resolution 2.01 A
+  Cluster 1:
+PDB 1lwv_1_AE - Resolution 2.3 A
+  Cluster 5:
+PDB 1lww_1_AE - Resolution 2.1 A
+  Cluster 6:
+PDB 1n39_1_AC - Resolution 2.2 A
+  Cluster 7:
+PDB 1n3a_1_AC - Resolution 2.2 A
+  Cluster 2:
+PDB 2xhi_1_ABC - Resolution 1.55 A
+  Cluster 4:
+PDB 2xhi_2_ABC - Resolution 1.55 A
+  Cluster 8:
+PDB 2i5w_2_A - Resolution 2.6 A
+
+Superfamily d.318.1:
+  Cluster 1:
+PDB 7deo_1_AB - Resolution 2.5 A
+PDB 7deo_2_CD - Resolution 2.5 A
+
+Superfamily d.58.7:
+  Cluster 5:
+PDB 1m5o_15_EF - Resolution 2.2 A
+PDB 1m5o_17_BC - Resolution 2.2 A
+  Cluster 1:
+PDB 1rk8_1_A - Resolution 1.9 A
+  Cluster 7:
+PDB 1m5o_20_BC - Resolution 2.2 A
+  Cluster 8:
+PDB 1m5o_2_EF - Resolution 2.2 A
+  Cluster 2:
+PDB 1m5o_32_BC - Resolution 2.2 A
+  Cluster 6:
+PDB 1m5o_34_EF - Resolution 2.2 A
+  Cluster 9:
+PDB 1m5p_23_BC - Resolution 2.6 A
+  Cluster 3:
+PDB 1m5p_9_EF - Resolution 2.6 A
+  Cluster 4:
+PDB 1rk8_2_A - Resolution 1.9 A
+
+Superfamily d.127.1:
+  Cluster 1:
+PDB 1w2m_1_B - Resolution 2.4 A
+PDB 1w2m_2_D - Resolution 2.4 A
+PDB 1w2m_3_C - Resolution 2.4 A
+PDB 1w2m_4_F - Resolution 2.4 A
+PDB 1w2m_5_A - Resolution 2.4 A
+PDB 1w2m_6_E - Resolution 2.4 A
+  Cluster 2:
+PDB 5wze_9_AB - Resolution 1.783 A
+
+Superfamily f.31.1:
+  Cluster 1:
+PDB 1jb0_21_AL - Resolution 2.5 A
+
+Superfamily a.8.4:
+  Cluster 1:
+PDB 4r5k_1_AB - Resolution 1.7469 A
+  Cluster 3:
+PDB 4r5j_4_D - Resolution 2.361 A
+  Cluster 2:
+PDB 4r5j_5_AC - Resolution 2.361 A
+
+Superfamily a.118.1:
+  Cluster 2:
+PDB 3ibv_1_A - Resolution 3.1 A
+PDB 3ibv_2_B - Resolution 3.1 A
+PDB 3ibv_3_B - Resolution 3.1 A
+  Cluster 1:
+PDB 4i5l_2_DE - Resolution 2.43 A
+PDB 4i5l_5_AB - Resolution 2.43 A
+
+Superfamily c.94.1:
+  Cluster 2:
+PDB 3vlv_1_A - Resolution 1.5 A
+  Cluster 9:
+PDB 2i4b_1_A - Resolution 1.35 A
+  Cluster 10:
+PDB 4eqb_1_A - Resolution 1.5 A
+PDB 4eqb_2_AB - Resolution 1.5 A
+PDB 4eqb_3_AB - Resolution 1.5 A
+PDB 4eqb_4_A - Resolution 1.5 A
+PDB 4eqb_5_B - Resolution 1.5 A
+PDB 4eqb_8_B - Resolution 1.5 A
+  Cluster 1:
+PDB 2zzv_1_A - Resolution 1.4 A
+PDB 2zzv_2_B - Resolution 1.4 A
+  Cluster 5:
+PDB 4eqb_6_B - Resolution 1.5 A
+PDB 4eqb_7_AB - Resolution 1.5 A
+  Cluster 12:
+PDB 4n17_1_A - Resolution 1.501 A
+  Cluster 13:
+PDB 5h6u_2_B - Resolution 2.006 A
+  Cluster 8:
+PDB 5h6u_3_B - Resolution 2.006 A
+PDB 5h6u_6_A - Resolution 2.006 A
+  Cluster 4:
+PDB 6lzq_3_A - Resolution 1.8 A
+  Cluster 11:
+PDB 5i2n_1_B - Resolution 2.12 A
+  Cluster 6:
+PDB 5uve_1_AH - Resolution 2.5 A
+PDB 5uve_2_EG - Resolution 2.5 A
+PDB 5uve_3_BD - Resolution 2.5 A
+PDB 5uve_4_CF - Resolution 2.5 A
+PDB 5uve_5_BD - Resolution 2.5 A
+PDB 5uve_6_CF - Resolution 2.5 A
+PDB 5uve_7_AH - Resolution 2.5 A
+PDB 5uve_8_EG - Resolution 2.5 A
+  Cluster 7:
+PDB 6lzq_1_A - Resolution 1.8 A
+  Cluster 3:
+PDB 6rl1_1_A - Resolution 1.7 A
+
+Superfamily c.106.1:
+  Cluster 1:
+PDB 1j9l_1_A - Resolution 1.9 A
+PDB 1j9l_2_B - Resolution 1.9 A
+  Cluster 2:
+PDB 1j9l_3_A - Resolution 1.9 A
+
+Superfamily a.301.1:
+  Cluster 1:
+PDB 4mbe_1_CD - Resolution 2.612 A
+
+Superfamily e.22.1:
+  Cluster 1:
+PDB 3hl0_1_A - Resolution 1.6 A
+PDB 3hl0_2_B - Resolution 1.6 A
+  Cluster 2:
+PDB 3jzd_1_A - Resolution 2.1 A
+  Cluster 3:
+PDB 3jzd_2_A - Resolution 2.1 A
+
+Superfamily d.15.4:
+  Cluster 3:
+PDB 1v97_2_A - Resolution 1.94 A
+PDB 1v97_8_B - Resolution 1.94 A
+  Cluster 2:
+PDB 1vdv_5_B - Resolution 1.98 A
+PDB 1vdv_7_A - Resolution 1.98 A
+  Cluster 4:
+PDB 1nek_3_B - Resolution 2.6 A
+  Cluster 5:
+PDB 3i9v_6_379 - Resolution 3.1 A
+PDB 3i9v_8_CGH - Resolution 3.1 A
+PDB 3iam_12_37 - Resolution 3.1 A
+PDB 3iam_27_CH - Resolution 3.1 A
+  Cluster 1:
+PDB 3ias_15_U - Resolution 3.15 A
+PDB 3ias_37_3 - Resolution 3.15 A
+PDB 3ias_3_C - Resolution 3.15 A
+PDB 3ias_9_L - Resolution 3.15 A
+  Cluster 6:
+PDB 3l4p_3_A - Resolution 1.45 A
+
+Superfamily b.40.2:
+  Cluster 1:
+PDB 5elb_1_DEHI - Resolution 1.08 A
+PDB 5elb_2_ABFG - Resolution 1.08 A
+PDB 5elb_3_AEGH - Resolution 1.08 A
+PDB 5elb_4_CDIJ - Resolution 1.08 A
+PDB 5elb_5_BCFJ - Resolution 1.08 A
+  Cluster 2:
+PDB 6ial_5_BC - Resolution 1.45 A
+
+Superfamily c.64.1:
+  Cluster 1:
+PDB 2c42_7_B - Resolution 1.78 A
+PDB 2c42_8_A - Resolution 1.78 A
+
+Superfamily b.77.4:
+  Cluster 1:
+PDB 2qp2_2_A - Resolution 2.0 A
+
+Superfamily d.211.1:
+  Cluster 1:
+PDB 5y4f_1_B - Resolution 1.953 A
+
+Superfamily c.69.1:
+  Cluster 14:
+PDB 3r40_1_A - Resolution 1.05 A
+PDB 3r41_2_A - Resolution 1.05 A
+  Cluster 11:
+PDB 1ys1_1_X - Resolution 1.1 A
+  Cluster 7:
+PDB 1iz7_2_A - Resolution 1.58 A
+  Cluster 10:
+PDB 1mpx_1_B - Resolution 1.9 A
+PDB 1mpx_2_A - Resolution 1.9 A
+PDB 1mpx_3_D - Resolution 1.9 A
+PDB 1mpx_4_C - Resolution 1.9 A
+  Cluster 23:
+PDB 1w52_2_X - Resolution 2.99 A
+  Cluster 18:
+PDB 2bfn_1_A - Resolution 1.6 A
+  Cluster 25:
+PDB 2h1i_2_C - Resolution 2.8 A
+  Cluster 2:
+PDB 3b3q_1_AE - Resolution 2.4 A
+PDB 3b3q_2_BF - Resolution 2.4 A
+  Cluster 27:
+PDB 2xqg_1_A - Resolution 2.3 A
+  Cluster 29:
+PDB 2xqj_5_A - Resolution 2.4 A
+  Cluster 15:
+PDB 2xqk_3_A - Resolution 2.4 A
+  Cluster 17:
+PDB 3fcx_1_B - Resolution 1.5 A
+  Cluster 24:
+PDB 3fcx_3_B - Resolution 1.5 A
+  Cluster 3:
+PDB 3fcy_1_A - Resolution 2.1 A
+PDB 3fcy_2_C - Resolution 2.1 A
+  Cluster 21:
+PDB 3r41_1_B - Resolution 1.05 A
+  Cluster 6:
+PDB 5zno_1_A - Resolution 1.60264346898 A
+PDB 5zno_7_B - Resolution 1.60264346898 A
+  Cluster 20:
+PDB 4b0p_7_A - Resolution 2.5 A
+  Cluster 16:
+PDB 4gw3_2_A - Resolution 2.0 A
+  Cluster 19:
+PDB 4nvr_2_C - Resolution 2.22 A
+  Cluster 9:
+PDB 4nvr_3_A - Resolution 2.22 A
+PDB 4nvr_5_B - Resolution 2.22 A
+  Cluster 4:
+PDB 5zrq_4_A - Resolution 1.12 A
+  Cluster 22:
+PDB 5d3k_1_A - Resolution 1.7 A
+  Cluster 5:
+PDB 5w8o_1_A - Resolution 1.47 A
+PDB 5w8o_4_B - Resolution 1.47 A
+  Cluster 1:
+PDB 5w8o_2_AB - Resolution 1.47 A
+PDB 5w8o_6_AB - Resolution 1.47 A
+  Cluster 28:
+PDB 5zno_2_AB - Resolution 1.60264346898 A
+  Cluster 12:
+PDB 5zno_4_A - Resolution 1.60264346898 A
+PDB 5zno_6_B - Resolution 1.60264346898 A
+  Cluster 26:
+PDB 6mzz_1_AB - Resolution 1.8 A
+  Cluster 13:
+PDB 6xs3_1_D - Resolution 2.48 A
+PDB 6xs3_2_B - Resolution 2.48 A
+PDB 6xs3_3_C - Resolution 2.48 A
+PDB 6xs3_4_E - Resolution 2.48 A
+PDB 6xs3_6_F - Resolution 2.48 A
+PDB 6xs3_7_A - Resolution 2.48 A
+  Cluster 8:
+PDB 6xs3_5_B - Resolution 2.48 A
+PDB 6xs3_8_BC - Resolution 2.48 A
+
+Superfamily d.278.1:
+  Cluster 1:
+PDB 2osd_1_A - Resolution 2.3 A
+
+Superfamily b.101.1:
+  Cluster 1:
+PDB 4udm_1_B - Resolution 2.96 A
+  Cluster 2:
+PDB 4udm_2_AB - Resolution 2.96 A
+
+Superfamily c.51.2:
+  Cluster 2:
+PDB 2ivz_1_BF - Resolution 2.0 A
+PDB 2ivz_2_AE - Resolution 2.0 A
+PDB 2ivz_3_DH - Resolution 2.0 A
+PDB 2ivz_7_CG - Resolution 2.0 A
+  Cluster 1:
+PDB 2ivz_4_A - Resolution 2.0 A
+PDB 2ivz_5_C - Resolution 2.0 A
+PDB 2ivz_6_D - Resolution 2.0 A
+
+Superfamily b.34.14:
+  Cluster 1:
+PDB 1yvu_1_A - Resolution 2.9 A
+
+Superfamily c.127.1:
+  Cluster 1:
+PDB 3iqe_2_CEF - Resolution 1.8 A
+PDB 3iqe_3_B - Resolution 1.8 A
+PDB 3iqe_7_D - Resolution 1.8 A
+  Cluster 3:
+PDB 3iqe_5_B - Resolution 1.8 A
+  Cluster 2:
+PDB 3iqf_7_IK - Resolution 2.1 A
+
+Superfamily g.12.1:
+  Cluster 1:
+PDB 2fcw_5_AB - Resolution 1.26 A
+PDB 2fcw_6_AB - Resolution 1.26 A
+  Cluster 9:
+PDB 1n7d_10_A - Resolution 3.7 A
+  Cluster 8:
+PDB 1n7d_11_A - Resolution 3.7 A
+  Cluster 12:
+PDB 1n7d_2_A - Resolution 3.7 A
+  Cluster 11:
+PDB 1n7d_5_A - Resolution 3.7 A
+  Cluster 16:
+PDB 1n7d_6_A - Resolution 3.7 A
+  Cluster 13:
+PDB 1n7d_7_A - Resolution 3.7 A
+  Cluster 17:
+PDB 1n7d_8_A - Resolution 3.7 A
+  Cluster 10:
+PDB 1n7d_9_A - Resolution 3.7 A
+  Cluster 4:
+PDB 1v9u_1_15 - Resolution 3.6 A
+  Cluster 18:
+PDB 2gtl_1_AFGM - Resolution 3.5 A
+
+Superfamily c.149.1:
+  Cluster 1:
+PDB 2d00_1_BDE - Resolution 2.2 A
+PDB 2d00_2_BCE - Resolution 2.2 A
+PDB 2d00_3_CE - Resolution 2.2 A
+PDB 2d00_4_ADF - Resolution 2.2 A
+
+Superfamily f.23.38:
+  Cluster 1:
+PDB 3wu2_73_AEFJV - Resolution 1.9 A
+  Cluster 3:
+PDB 5b66_74_AEFV - Resolution 1.85 A
+  Cluster 2:
+PDB 5ws5_57_AFV - Resolution 2.35 A
+PDB 5ws6_33_FV - Resolution 2.35 A
+
+Superfamily d.120.1:
+  Cluster 1:
+PDB 3x34_2_A - Resolution 0.76 A
+
+Superfamily d.129.3:
+  Cluster 1:
+PDB 2qim_1_A - Resolution 1.35 A
+
+Superfamily a.238.1:
+  Cluster 1:
+PDB 2d4c_1_A - Resolution 2.4 A
+
+Superfamily h.1.25:
+  Cluster 1:
+PDB 4y99_3_AB - Resolution 2.0 A
+
+Superfamily b.69.4:
+  Cluster 3:
+PDB 1gxr_1_A - Resolution 1.65 A
+  Cluster 4:
+PDB 1yfq_1_A - Resolution 1.1 A
+  Cluster 1:
+PDB 1yfq_2_A - Resolution 1.1 A
+  Cluster 5:
+PDB 1yfq_3_A - Resolution 1.1 A
+  Cluster 2:
+PDB 1yfq_4_A - Resolution 1.1 A
+
+Superfamily b.1.8:
+  Cluster 3:
+PDB 1ej8_1_A - Resolution 1.55 A
+  Cluster 2:
+PDB 1hl5_12_H - Resolution 1.8 A
+PDB 1hl5_15_C - Resolution 1.8 A
+PDB 1hl5_5_D - Resolution 1.8 A
+  Cluster 1:
+PDB 1sxn_1_A - Resolution 1.9 A
+PDB 1sxn_2_B - Resolution 1.9 A
+
+Superfamily a.13.1:
+  Cluster 1:
+PDB 2fcw_5_AB - Resolution 1.26 A
+PDB 2fcw_6_AB - Resolution 1.26 A
+
+Superfamily a.46.2:
+  Cluster 1:
+PDB 1brw_1_A - Resolution 2.1 A
+PDB 1brw_2_B - Resolution 2.1 A
+
+Superfamily d.64.2:
+  Cluster 1:
+PDB 2g0i_1_A - Resolution 1.85 A
+PDB 2g0i_2_B - Resolution 1.85 A
+
+Superfamily a.29.2:
+  Cluster 1:
+PDB 4uix_1_B - Resolution 1.58 A
+PDB 4uix_2_A - Resolution 1.58 A
+  Cluster 2:
+PDB 5i89_1_A - Resolution 1.07 A
+
+Superfamily a.124.1:
+  Cluster 5:
+PDB 1olp_10_BC - Resolution 2.5 A
+PDB 1olp_14_A - Resolution 2.5 A
+PDB 1olp_4_B - Resolution 2.5 A
+  Cluster 7:
+PDB 1olp_11_CD - Resolution 2.5 A
+  Cluster 1:
+PDB 2wxu_7_A - Resolution 1.8 A
+  Cluster 6:
+PDB 2wxu_3_A - Resolution 1.8 A
+PDB 2wxu_8_A - Resolution 1.8 A
+  Cluster 3:
+PDB 5fbb_10_A - Resolution 1.75 A
+PDB 5fbb_6_AB - Resolution 1.75 A
+  Cluster 2:
+PDB 5fbb_3_B - Resolution 1.75 A
+PDB 5fbb_8_AB - Resolution 1.75 A
+  Cluster 4:
+PDB 5fbb_5_AB - Resolution 1.75 A
+
+Superfamily d.58.5:
+  Cluster 1:
+PDB 1ul3_1_B - Resolution 2.0 A
+PDB 1ul3_2_C - Resolution 2.0 A
+  Cluster 2:
+PDB 6mm2_1_A - Resolution 1.04 A
+
+Superfamily c.1.4:
+  Cluster 2:
+PDB 5cpl_1_B - Resolution 1.57 A
+  Cluster 1:
+PDB 6uff_10_E - Resolution 2.007 A
+PDB 6uff_11_CG - Resolution 2.007 A
+PDB 6uff_12_D - Resolution 2.007 A
+PDB 6uff_4_A - Resolution 2.007 A
+  Cluster 3:
+PDB 6uff_1_E - Resolution 2.007 A
+PDB 6uff_2_D - Resolution 2.007 A
+PDB 6uff_3_CG - Resolution 2.007 A
+PDB 6uff_5_CG - Resolution 2.007 A
+PDB 6uff_6_A - Resolution 2.007 A
+PDB 6uff_7_B - Resolution 2.007 A
+PDB 6uff_8_H - Resolution 2.007 A
+PDB 6uff_9_F - Resolution 2.007 A
+
+Superfamily d.98.1:
+  Cluster 1:
+PDB 1jtg_1_CD - Resolution 1.73 A
+PDB 1jtg_2_AB - Resolution 1.73 A
+
+Superfamily a.130.1:
+  Cluster 1:
+PDB 2h9d_1_CD - Resolution 1.95 A
+
+Superfamily b.80.1:
+  Cluster 4:
+PDB 5amv_1_A - Resolution 1.57 A
+  Cluster 7:
+PDB 1ee6_1_A - Resolution 2.3 A
+  Cluster 2:
+PDB 1h80_10_A - Resolution 1.6 A
+PDB 1h80_7_B - Resolution 1.6 A
+  Cluster 6:
+PDB 1h80_2_B - Resolution 1.6 A
+PDB 1h80_9_A - Resolution 1.6 A
+  Cluster 1:
+PDB 1h80_3_B - Resolution 1.6 A
+PDB 1h80_5_A - Resolution 1.6 A
+  Cluster 5:
+PDB 1ofl_1_A - Resolution 1.7 A
+  Cluster 8:
+PDB 1ru4_1_A - Resolution 1.6 A
+  Cluster 3:
+PDB 2vfm_1_A - Resolution 1.5 A
+PDB 2vfn_1_A - Resolution 1.5 A
+PDB 2vfo_1_A - Resolution 1.5 A
+
+Superfamily c.1.19:
+  Cluster 1:
+PDB 5yrv_10_G - Resolution 1.55 A
+PDB 5yrv_12_A - Resolution 1.55 A
+PDB 5yrv_5_J - Resolution 1.55 A
+PDB 5yrv_7_D - Resolution 1.55 A
+
+Superfamily d.133.1:
+  Cluster 2:
+PDB 1v97_2_A - Resolution 1.94 A
+PDB 1v97_8_B - Resolution 1.94 A
+  Cluster 1:
+PDB 1vdv_5_B - Resolution 1.98 A
+PDB 1vdv_7_A - Resolution 1.98 A
+  Cluster 4:
+PDB 3etr_7_C - Resolution 2.2 A
+  Cluster 3:
+PDB 3l4p_3_A - Resolution 1.45 A
+
+Superfamily d.58.4:
+  Cluster 2:
+PDB 2cyy_1_A - Resolution 1.8 A
+  Cluster 3:
+PDB 2cyy_2_A - Resolution 1.8 A
+  Cluster 1:
+PDB 2cyy_3_A - Resolution 1.8 A
+
+Superfamily b.40.6:
+  Cluster 1:
+PDB 1gun_4_ABC - Resolution 1.83 A
+  Cluster 2:
+PDB 1o7l_1_BCD - Resolution 2.75 A
+
+Superfamily g.3.13:
+  Cluster 1:
+PDB 1tx6_2_BCI - Resolution 2.2 A
+
+Superfamily a.7.3:
+  Cluster 1:
+PDB 1qlb_10_A - Resolution 2.33 A
+PDB 1qlb_11_D - Resolution 2.33 A
+
+Superfamily c.10.2:
+  Cluster 1:
+PDB 1d0b_1_A - Resolution 1.86 A
+PDB 1d0b_2_A - Resolution 1.86 A
+  Cluster 2:
+PDB 2omy_2_AB - Resolution 1.7 A
+  Cluster 4:
+PDB 1jl5_2_A - Resolution 2.1 A
+  Cluster 7:
+PDB 1o6t_2_A - Resolution 1.6 A
+  Cluster 3:
+PDB 1o6v_1_A - Resolution 1.5 A
+PDB 1o6v_2_B - Resolution 1.5 A
+  Cluster 6:
+PDB 2omv_2_A - Resolution 1.9 A
+  Cluster 5:
+PDB 2omx_1_AB - Resolution 1.7 A
+
+Superfamily b.121.5:
+  Cluster 1:
+PDB 1c8d_1_A - Resolution 3.0 A
+PDB 1c8f_2_A - Resolution 3.0 A
+PDB 1c8g_1_A - Resolution 3.0 A
+  Cluster 2:
+PDB 1z1c_1_ABC - Resolution 3.5 A
+
+Superfamily g.75.1:
+  Cluster 1:
+PDB 1ux6_1_A - Resolution 1.9 A
+PDB 1ux6_3_A - Resolution 1.9 A
+PDB 1ux6_4_A - Resolution 1.9 A
+  Cluster 2:
+PDB 1ux6_2_A - Resolution 1.9 A
+  Cluster 4:
+PDB 1ux6_5_A - Resolution 1.9 A
+  Cluster 3:
+PDB 1ux6_6_A - Resolution 1.9 A
+  Cluster 5:
+PDB 1ux6_7_A - Resolution 1.9 A
+
+Superfamily c.111.1:
+  Cluster 1:
+PDB 1zud_1_12 - Resolution 1.98 A
+  Cluster 2:
+PDB 1zud_3_13 - Resolution 1.98 A
+
+Superfamily d.41.1:
+  Cluster 2:
+PDB 1v97_2_A - Resolution 1.94 A
+PDB 1v97_8_B - Resolution 1.94 A
+  Cluster 1:
+PDB 1vdv_5_B - Resolution 1.98 A
+PDB 1vdv_7_A - Resolution 1.98 A
+  Cluster 4:
+PDB 3etr_7_C - Resolution 2.2 A
+  Cluster 3:
+PDB 3l4p_3_A - Resolution 1.45 A
+
+Superfamily c.8.5:
+  Cluster 1:
+PDB 1gn1_1_CGH - Resolution 2.8 A
+PDB 1gn1_2_EF - Resolution 2.8 A
+
+Superfamily b.18.1:
+  Cluster 19:
+PDB 4bj0_1_A - Resolution 1.0 A
+  Cluster 18:
+PDB 1w0n_2_A - Resolution 0.8 A
+  Cluster 16:
+PDB 6xlr_2_A - Resolution 1.23 A
+  Cluster 13:
+PDB 1k3i_1_A - Resolution 1.4 A
+  Cluster 15:
+PDB 4ywa_1_ABD - Resolution 1.192 A
+PDB 4ywa_2_CD - Resolution 1.192 A
+  Cluster 3:
+PDB 1mpx_1_B - Resolution 1.9 A
+PDB 1mpx_2_A - Resolution 1.9 A
+PDB 1mpx_3_D - Resolution 1.9 A
+PDB 1mpx_4_C - Resolution 1.9 A
+  Cluster 8:
+PDB 1nkg_1_A - Resolution 1.5 A
+  Cluster 6:
+PDB 2o8o_1_AB - Resolution 1.35 A
+PDB 2o8o_2_AB - Resolution 1.35 A
+PDB 4hpk_1_AB - Resolution 1.35 A
+PDB 4hpk_2_AB - Resolution 1.35 A
+  Cluster 10:
+PDB 5jxg_9_A - Resolution 1.8 A
+  Cluster 20:
+PDB 4z2a_2_A - Resolution 1.89 A
+  Cluster 21:
+PDB 5jxg_4_A - Resolution 1.8 A
+  Cluster 24:
+PDB 1sdd_2_AB - Resolution 2.8 A
+  Cluster 25:
+PDB 1uww_1_A - Resolution 1.4 A
+  Cluster 4:
+PDB 1uww_2_A - Resolution 1.4 A
+PDB 1uww_6_B - Resolution 1.4 A
+  Cluster 22:
+PDB 1uww_4_A - Resolution 1.4 A
+  Cluster 23:
+PDB 1ux7_1_A - Resolution 1.5 A
+  Cluster 7:
+PDB 1uyx_3_AB - Resolution 1.47 A
+PDB 1uyx_4_A - Resolution 1.47 A
+PDB 1uyy_2_AB - Resolution 1.47 A
+PDB 1uyy_3_A - Resolution 1.47 A
+  Cluster 9:
+PDB 1v0a_1_A - Resolution 1.98 A
+  Cluster 17:
+PDB 1wmd_1_A - Resolution 1.3 A
+  Cluster 11:
+PDB 1wmd_2_A - Resolution 1.3 A
+  Cluster 14:
+PDB 1wmd_3_A - Resolution 1.3 A
+  Cluster 1:
+PDB 2qqm_1_A - Resolution 2.0 A
+  Cluster 5:
+PDB 2vng_1_A - Resolution 1.4 A
+PDB 2vng_2_B - Resolution 1.4 A
+  Cluster 2:
+PDB 2y6h_1_A - Resolution 1.08 A
+  Cluster 12:
+PDB 5jxg_8_A - Resolution 1.8 A
+
+Superfamily b.68.1:
+  Cluster 2:
+PDB 6hfc_2_A - Resolution 1.29 A
+  Cluster 4:
+PDB 1l7f_2_A - Resolution 1.8 A
+  Cluster 5:
+PDB 1l7g_1_A - Resolution 1.85 A
+  Cluster 6:
+PDB 1l7h_3_A - Resolution 1.85 A
+  Cluster 7:
+PDB 2qwf_2_A - Resolution 1.9 A
+  Cluster 8:
+PDB 2qwg_2_A - Resolution 1.8 A
+  Cluster 9:
+PDB 3ti3_4_AB - Resolution 1.8 A
+  Cluster 10:
+PDB 4dgr_2_A - Resolution 1.551 A
+  Cluster 1:
+PDB 4hiz_13_AB - Resolution 1.601 A
+PDB 4hiz_14_BC - Resolution 1.601 A
+PDB 4hiz_1_AC - Resolution 1.601 A
+  Cluster 11:
+PDB 4i00_1_A - Resolution 1.6 A
+  Cluster 3:
+PDB 4mc7_1_ABCD - Resolution 2.99 A
+  Cluster 12:
+PDB 6heb_2_A - Resolution 1.75 A
+  Cluster 13:
+PDB 6hfc_3_A - Resolution 1.29 A
+
+Superfamily b.74.1:
+  Cluster 1:
+PDB 4cnw_1_B - Resolution 2.03 A
+
+Superfamily b.2.9:
+  Cluster 5:
+PDB 4n2b_2_A - Resolution 1.69 A
+  Cluster 3:
+PDB 4n2k_2_A - Resolution 1.57 A
+  Cluster 2:
+PDB 2dew_3_X - Resolution 2.1 A
+PDB 2dex_1_X - Resolution 2.1 A
+PDB 3b1u_2_A - Resolution 2.1 A
+  Cluster 1:
+PDB 4n2k_1_A - Resolution 1.57 A
+  Cluster 6:
+PDB 4x8c_1_A - Resolution 3.1 A
+  Cluster 4:
+PDB 4x8c_2_A - Resolution 3.1 A
+
+Superfamily a.35.1:
+  Cluster 1:
+PDB 1rio_1_AT - Resolution 2.3 A
+  Cluster 2:
+PDB 2jcg_1_A - Resolution 2.6 A
+
+Superfamily d.81.1:
+  Cluster 1:
+PDB 1h93_1_A - Resolution 2.2 A
+
+Superfamily f.23.32:
+  Cluster 1:
+PDB 3wu2_73_AEFJV - Resolution 1.9 A
+
+Superfamily f.26.1:
+  Cluster 2:
+PDB 5b66_13_acd - Resolution 1.85 A
+PDB 5b66_1_ACD - Resolution 1.85 A
+  Cluster 5:
+PDB 5b66_56_BDM - Resolution 1.85 A
+  Cluster 3:
+PDB 3wu2_73_AEFJV - Resolution 1.9 A
+  Cluster 1:
+PDB 3wmm_3_MPQRS - Resolution 3.008 A
+  Cluster 4:
+PDB 7c52_4_CM - Resolution 2.89 A
+
+Superfamily b.52.2:
+  Cluster 2:
+PDB 1g8k_12_EG - Resolution 1.64 A
+PDB 1g8k_28_AC - Resolution 1.64 A
+PDB 1g8k_31_EG - Resolution 1.64 A
+PDB 1g8k_3_AC - Resolution 1.64 A
+  Cluster 3:
+PDB 1g8k_15_CD - Resolution 1.64 A
+PDB 1g8k_24_AB - Resolution 1.64 A
+PDB 1g8k_32_EF - Resolution 1.64 A
+PDB 1g8k_6_GH - Resolution 1.64 A
+  Cluster 6:
+PDB 1h0h_10_K - Resolution 1.8 A
+PDB 1h0h_12_A - Resolution 1.8 A
+  Cluster 7:
+PDB 3i9v_6_379 - Resolution 3.1 A
+PDB 3i9v_8_CGH - Resolution 3.1 A
+PDB 3iam_12_37 - Resolution 3.1 A
+PDB 3iam_27_CH - Resolution 3.1 A
+  Cluster 1:
+PDB 3ias_15_U - Resolution 3.15 A
+PDB 3ias_37_3 - Resolution 3.15 A
+PDB 3ias_3_C - Resolution 3.15 A
+PDB 3ias_9_L - Resolution 3.15 A
+
+Superfamily d.65.1:
+  Cluster 1:
+PDB 3n1f_1_AD - Resolution 1.6 A
+PDB 3n1f_2_BC - Resolution 1.6 A
+  Cluster 2:
+PDB 3n1f_5_ABCD - Resolution 1.6 A
+  Cluster 3:
+PDB 3n1o_4_C - Resolution 2.55 A
+
+Superfamily c.41.1:
+  Cluster 9:
+PDB 1gci_1_A - Resolution 0.78 A
+PDB 1gci_2_A - Resolution 0.78 A
+  Cluster 7:
+PDB 2ixt_4_B - Resolution 0.8 A
+PDB 2ixt_8_A - Resolution 0.8 A
+PDB 3d43_4_A - Resolution 0.8 A
+PDB 3d43_5_B - Resolution 0.8 A
+  Cluster 5:
+PDB 2ixt_2_B - Resolution 0.8 A
+PDB 2ixt_3_A - Resolution 0.8 A
+PDB 3d43_1_A - Resolution 0.8 A
+PDB 3d43_6_B - Resolution 0.8 A
+  Cluster 8:
+PDB 2ixt_6_B - Resolution 0.8 A
+PDB 2ixt_7_A - Resolution 0.8 A
+PDB 3d43_3_B - Resolution 0.8 A
+PDB 3d43_7_A - Resolution 0.8 A
+  Cluster 3:
+PDB 1r0r_2_E - Resolution 1.1 A
+  Cluster 11:
+PDB 1r0r_3_E - Resolution 1.1 A
+  Cluster 6:
+PDB 5wsl_1_AB - Resolution 1.5 A
+PDB 5wsl_3_A - Resolution 1.5 A
+PDB 5wsl_4_BC - Resolution 1.5 A
+  Cluster 10:
+PDB 1v6c_4_B - Resolution 1.8 A
+  Cluster 2:
+PDB 2w2n_1_AE - Resolution 2.3 A
+  Cluster 4:
+PDB 2xrm_1_A - Resolution 2.6 A
+  Cluster 12:
+PDB 3dyb_1_A - Resolution 1.32 A
+  Cluster 1:
+PDB 6o44_1_A - Resolution 1.83 A
+PDB 6o44_4_B - Resolution 1.83 A
+
+Superfamily a.4.5:
+  Cluster 6:
+PDB 1o7l_1_BCD - Resolution 2.75 A
+  Cluster 2:
+PDB 2cyy_1_A - Resolution 1.8 A
+  Cluster 7:
+PDB 2cyy_2_A - Resolution 1.8 A
+  Cluster 1:
+PDB 2cyy_3_A - Resolution 1.8 A
+  Cluster 4:
+PDB 2esh_1_A - Resolution 2.3 A
+
+Superfamily b.109.1:
+  Cluster 1:
+PDB 2bib_1_A - Resolution 1.92 A
+
+Superfamily d.171.1:
+  Cluster 4:
+PDB 2wnp_1_F - Resolution 1.21 A
+  Cluster 1:
+PDB 1fzg_4_ABC - Resolution 2.5 A
+PDB 1fzg_7_DEF - Resolution 2.5 A
+  Cluster 2:
+PDB 1re3_1_CG - Resolution 2.45 A
+  Cluster 3:
+PDB 4r9j_3_A - Resolution 2.1 A
+  Cluster 5:
+PDB 2j3f_4_A - Resolution 2.8 A
+
+Superfamily g.8.1:
+  Cluster 1:
+PDB 2fi3_2_I - Resolution 1.58 A
+PDB 2fi4_2_I - Resolution 1.58 A
+PDB 2fi5_2_I - Resolution 1.58 A
+
+Superfamily b.42.4:
+  Cluster 1:
+PDB 1ava_1_BD - Resolution 1.9 A
+PDB 1ava_3_AC - Resolution 1.9 A
+  Cluster 3:
+PDB 1ava_2_AC - Resolution 1.9 A
+PDB 1ava_4_BD - Resolution 1.9 A
+  Cluster 4:
+PDB 1s0e_2_A - Resolution 1.9 A
+  Cluster 5:
+PDB 1s0e_3_A - Resolution 1.9 A
+  Cluster 7:
+PDB 2np0_1_A - Resolution 2.62 A
+  Cluster 6:
+PDB 2nyy_1_A - Resolution 2.61 A
+  Cluster 2:
+PDB 3bx1_4_BC - Resolution 1.85 A
+PDB 3bx1_6_AD - Resolution 1.85 A
+
+Superfamily c.78.2:
+  Cluster 1:
+PDB 1iu9_1_A - Resolution 2.04 A
+  Cluster 2:
+PDB 3ojc_1_A - Resolution 1.75 A
+  Cluster 3:
+PDB 3ojc_2_A - Resolution 1.75 A
+  Cluster 4:
+PDB 3ojc_3_A - Resolution 1.75 A
+
+Superfamily b.1.2:
+  Cluster 5:
+PDB 6r2w_3_LT - Resolution 1.25 A
+  Cluster 6:
+PDB 1tdq_1_AB - Resolution 2.6 A
+  Cluster 1:
+PDB 3n1f_1_AD - Resolution 1.6 A
+PDB 3n1f_2_BC - Resolution 1.6 A
+  Cluster 7:
+PDB 3n1f_4_C - Resolution 1.6 A
+  Cluster 2:
+PDB 3n1f_5_ABCD - Resolution 1.6 A
+  Cluster 3:
+PDB 4lxo_1_AB - Resolution 1.42 A
+PDB 4lxo_2_AB - Resolution 1.42 A
+  Cluster 4:
+PDB 4zma_6_LT - Resolution 2.3 A
+
+Superfamily b.17.1:
+  Cluster 1:
+PDB 3n08_2_A - Resolution 1.25 A
+  Cluster 2:
+PDB 3n08_1_A - Resolution 1.25 A
+  Cluster 3:
+PDB 3n08_3_A - Resolution 1.25 A
+
+Superfamily b.68.3:
+  Cluster 3:
+PDB 3amr_4_A - Resolution 1.25 A
+PDB 3amr_5_A - Resolution 1.25 A
+  Cluster 1:
+PDB 3amr_3_A - Resolution 1.25 A
+PDB 3amr_6_A - Resolution 1.25 A
+  Cluster 2:
+PDB 3amr_1_A - Resolution 1.25 A
+  Cluster 4:
+PDB 3amr_2_A - Resolution 1.25 A
+
+Superfamily c.1.21:
+  Cluster 1:
+PDB 2e7f_1_A - Resolution 2.2 A
+PDB 2e7f_2_B - Resolution 2.2 A
+
+Superfamily a.47.4:
+  Cluster 1:
+PDB 5buo_4_A - Resolution 2.31 A
+
+Superfamily b.1.29:
+  Cluster 1:
+PDB 1ayo_1_B - Resolution 1.9 A
+
+Superfamily d.115.1:
+  Cluster 2:
+PDB 1snn_2_AB - Resolution 1.55 A
+PDB 1snn_4_AB - Resolution 1.55 A
+PDB 1snn_5_A - Resolution 1.55 A
+  Cluster 1:
+PDB 1snn_1_A - Resolution 1.55 A
+
+Superfamily b.70.1:
+  Cluster 1:
+PDB 1flg_1_A - Resolution 2.6 A
+PDB 1flg_2_B - Resolution 2.6 A
+  Cluster 2:
+PDB 1w6s_1_C - Resolution 1.2 A
+PDB 1w6s_2_A - Resolution 1.2 A
+
+Superfamily d.79.4:
+  Cluster 1:
+PDB 5cm7_1_AB - Resolution 1.55 A
+PDB 5cm7_2_AB - Resolution 1.55 A
+
+Superfamily c.95.1:
+  Cluster 2:
+PDB 3goa_2_B - Resolution 1.7 A
+  Cluster 1:
+PDB 3goa_3_B - Resolution 1.7 A
+  Cluster 5:
+PDB 4ewg_1_B - Resolution 2.25 A
+  Cluster 7:
+PDB 4f32_1_A - Resolution 1.9 A
+  Cluster 3:
+PDB 6bn2_3_A - Resolution 1.65 A
+  Cluster 4:
+PDB 6bn2_1_A - Resolution 1.65 A
+  Cluster 6:
+PDB 6bn2_2_A - Resolution 1.65 A
+
+Superfamily c.55.1:
+  Cluster 2:
+PDB 4cbu_2_A - Resolution 1.3 A
+  Cluster 6:
+PDB 6i4e_1_A - Resolution 1.22 A
+PDB 6i4e_2_AG - Resolution 1.22 A
+  Cluster 4:
+PDB 1hkb_1_B - Resolution 2.8 A
+PDB 1hkb_2_A - Resolution 2.8 A
+PDB 1hkb_3_A - Resolution 2.8 A
+PDB 1hkb_4_B - Resolution 2.8 A
+  Cluster 5:
+PDB 1nbw_1_CD - Resolution 2.4 A
+PDB 1nbw_2_AB - Resolution 2.4 A
+  Cluster 3:
+PDB 1ngi_1_A - Resolution 2.15 A
+  Cluster 7:
+PDB 1t6c_1_A - Resolution 1.53 A
+  Cluster 1:
+PDB 3cj9_1_A - Resolution 1.8 A
+  Cluster 8:
+PDB 4pkh_12_F - Resolution 2.15 A
+
+Superfamily d.165.1:
+  Cluster 1:
+PDB 1j4g_1_B - Resolution 2.0 A
+PDB 1j4g_2_A - Resolution 2.0 A
+PDB 1j4g_3_C - Resolution 2.0 A
+PDB 1j4g_4_D - Resolution 2.0 A
+
+Superfamily c.56.2:
+  Cluster 3:
+PDB 5ue1_1_A - Resolution 1.14 A
+PDB 5ue1_3_A - Resolution 1.14 A
+  Cluster 1:
+PDB 1lvu_2_AD - Resolution 2.05 A
+PDB 1lvu_3_CE - Resolution 2.05 A
+PDB 1lvu_6_BF - Resolution 2.05 A
+  Cluster 2:
+PDB 1lvu_4_AE - Resolution 2.05 A
+PDB 1lvu_7_BD - Resolution 2.05 A
+  Cluster 4:
+PDB 5ue1_2_AB - Resolution 1.14 A
+
+Superfamily e.6.1:
+  Cluster 3:
+PDB 1w07_1_A - Resolution 2.0 A
+  Cluster 2:
+PDB 4o5m_1_A - Resolution 2.2 A
+  Cluster 1:
+PDB 5ol2_2_F - Resolution 3.1 A
+PDB 5ol2_3_C - Resolution 3.1 A
+
+Superfamily a.66.1:
+  Cluster 1:
+PDB 1tad_1_B - Resolution 1.7 A
+PDB 1tad_2_C - Resolution 1.7 A
+PDB 1tad_3_A - Resolution 1.7 A
+
+Superfamily a.8.10:
+  Cluster 1:
+PDB 2gf4_1_A - Resolution 2.07 A
+PDB 2gf4_2_B - Resolution 2.07 A
+
+Superfamily c.23.1:
+  Cluster 2:
+PDB 3to5_1_A - Resolution 1.65 A
+  Cluster 1:
+PDB 1srr_1_C - Resolution 1.9 A
+PDB 1srr_2_A - Resolution 1.9 A
+
+Superfamily b.61.7:
+  Cluster 1:
+PDB 2gtl_11_FN - Resolution 3.5 A
+PDB 2gtl_12_BM - Resolution 3.5 A
+PDB 2gtl_2_JO - Resolution 3.5 A
+  Cluster 2:
+PDB 2gtl_1_AFGM - Resolution 3.5 A
+
+Superfamily d.58.29:
+  Cluster 1:
+PDB 4wp9_1_AB - Resolution 1.382 A
+PDB 4wp9_4_AB - Resolution 1.382 A
+  Cluster 2:
+PDB 4wp9_2_A - Resolution 1.382 A
+
+Superfamily c.80.1:
+  Cluster 5:
+PDB 3hjb_10_A - Resolution 1.5 A
+PDB 3hjb_11_D - Resolution 1.5 A
+PDB 3hjb_1_D - Resolution 1.5 A
+PDB 3hjb_2_D - Resolution 1.5 A
+PDB 3hjb_5_B - Resolution 1.5 A
+PDB 3hjb_6_C - Resolution 1.5 A
+PDB 3hjb_8_A - Resolution 1.5 A
+PDB 3hjb_9_A - Resolution 1.5 A
+  Cluster 2:
+PDB 3hjb_7_AB - Resolution 1.5 A
+  Cluster 1:
+PDB 4em6_1_AC - Resolution 1.9 A
+PDB 4em6_2_BD - Resolution 1.9 A
+  Cluster 4:
+PDB 4em6_3_BD - Resolution 1.9 A
+PDB 4em6_4_AC - Resolution 1.9 A
+  Cluster 6:
+PDB 4em6_5_AC - Resolution 1.9 A
+  Cluster 3:
+PDB 4em6_6_AC - Resolution 1.9 A
+PDB 4em6_7_BD - Resolution 1.9 A
+
+Superfamily b.40.3:
+  Cluster 2:
+PDB 3v96_4_AB - Resolution 1.9 A
+  Cluster 1:
+PDB 3v96_3_AB - Resolution 1.9 A
+
+Superfamily d.323.1:
+  Cluster 1:
+PDB 2gjv_1_C - Resolution 2.39 A
+PDB 2gjv_2_F - Resolution 2.39 A
+PDB 2gjv_3_D - Resolution 2.39 A
+PDB 2gjv_4_D - Resolution 2.39 A
+PDB 2gjv_6_E - Resolution 2.39 A
+PDB 2gjv_7_B - Resolution 2.39 A
+PDB 2gjv_8_A - Resolution 2.39 A
+  Cluster 2:
+PDB 2gjv_5_AB - Resolution 2.39 A
+
+Superfamily d.96.1:
+  Cluster 1:
+PDB 4du6_1_B - Resolution 2.106 A
+PDB 4du6_2_D - Resolution 2.106 A
+PDB 4du6_3_C - Resolution 2.106 A
+
+Superfamily a.52.1:
+  Cluster 1:
+PDB 1tmq_1_AB - Resolution 2.5 A
+
+Superfamily a.1.2:
+  Cluster 1:
+PDB 1nek_3_B - Resolution 2.6 A
+
+Superfamily d.104.1:
+  Cluster 1:
+PDB 3bju_1_C - Resolution 2.31 A
+PDB 3bju_2_A - Resolution 2.31 A
+PDB 3bju_3_B - Resolution 2.31 A
+PDB 3bju_4_D - Resolution 2.31 A
+
+Superfamily d.58.18:
+  Cluster 1:
+PDB 2pc6_1_A - Resolution 2.5 A
+PDB 2pc6_2_BC - Resolution 2.5 A
+PDB 2pc6_3_C - Resolution 2.5 A
+
+Superfamily d.168.1:
+  Cluster 1:
+PDB 1qlb_10_A - Resolution 2.33 A
+PDB 1qlb_11_D - Resolution 2.33 A
+
+Superfamily c.8.6:
+  Cluster 1:
+PDB 1nbw_1_CD - Resolution 2.4 A
+PDB 1nbw_2_AB - Resolution 2.4 A
+
+Superfamily f.60.1:
+  Cluster 1:
+PDB 3tew_1_A - Resolution 1.45 A
+
+Superfamily b.85.6:
+  Cluster 1:
+PDB 6fgc_1_A - Resolution 1.5 A
+PDB 6fgd_2_A - Resolution 1.5 A
+
+Superfamily b.121.6:
+  Cluster 1:
+PDB 4mby_10_FJ - Resolution 1.48 A
+PDB 4mby_1_AB - Resolution 1.48 A
+PDB 4mby_2_AE - Resolution 1.48 A
+PDB 4mby_3_HI - Resolution 1.48 A
+PDB 4mby_4_CD - Resolution 1.48 A
+PDB 4mby_5_IJ - Resolution 1.48 A
+PDB 4mby_6_BC - Resolution 1.48 A
+PDB 4mby_7_DE - Resolution 1.48 A
+PDB 4mby_8_FG - Resolution 1.48 A
+PDB 4mby_9_GH - Resolution 1.48 A
+
+Superfamily a.8.3:
+  Cluster 2:
+PDB 1k1x_1_AB - Resolution 2.4 A
+PDB 1k1x_3_AB - Resolution 2.4 A
+PDB 1k1y_1_AB - Resolution 2.4 A
+PDB 1k1y_2_AB - Resolution 2.4 A
+  Cluster 1:
+PDB 1k1x_2_B - Resolution 2.4 A
+PDB 1k1y_3_B - Resolution 2.4 A
+
+Superfamily b.3.5:
+  Cluster 2:
+PDB 3kpt_1_B - Resolution 2.102 A
+
+Superfamily c.1.1:
+  Cluster 3:
+PDB 3pf3_1_A - Resolution 2.098 A
+  Cluster 1:
+PDB 4y90_2_B - Resolution 2.1 A
+  Cluster 4:
+PDB 4y90_4_D - Resolution 2.1 A
+  Cluster 2:
+PDB 5bmw_3_A - Resolution 1.86 A
+
+Superfamily a.137.15:
+  Cluster 1:
+PDB 2es4_1_AD - Resolution 1.85 A
+PDB 2es4_2_BE - Resolution 1.85 A
+
+Superfamily b.15.1:
+  Cluster 1:
+PDB 4yl9_1_D - Resolution 2.353 A
+PDB 4yl9_3_B - Resolution 2.353 A
+  Cluster 2:
+PDB 4yl9_2_B - Resolution 2.353 A
+
+Superfamily d.86.1:
+  Cluster 1:
+PDB 6fc2_1_AC - Resolution 1.92 A
+
+Superfamily a.118.8:
+  Cluster 4:
+PDB 1w3b_1_A - Resolution 2.85 A
+  Cluster 8:
+PDB 2i6h_1_A - Resolution 1.75 A
+  Cluster 5:
+PDB 2i6h_2_AB - Resolution 1.75 A
+  Cluster 6:
+PDB 2i6h_3_AB - Resolution 1.75 A
+  Cluster 3:
+PDB 3ckc_1_A - Resolution 1.5 A
+PDB 3ckc_2_B - Resolution 1.5 A
+  Cluster 7:
+PDB 4f53_2_A - Resolution 2.25 A
+  Cluster 1:
+PDB 4g26_2_A - Resolution 1.75 A
+  Cluster 2:
+PDB 4g26_5_A - Resolution 1.75 A
+  Cluster 9:
+PDB 4g26_6_A - Resolution 1.75 A
+
+Superfamily d.41.3:
+  Cluster 1:
+PDB 1brw_1_A - Resolution 2.1 A
+PDB 1brw_2_B - Resolution 2.1 A
+
+Superfamily d.15.7:
+  Cluster 1:
+PDB 3fil_1_AB - Resolution 0.88 A
+
+Superfamily c.67.1:
+  Cluster 2:
+PDB 4hvk_1_A - Resolution 1.43 A
+PDB 4hvk_2_A - Resolution 1.43 A
+  Cluster 3:
+PDB 3jtx_1_AB - Resolution 1.91 A
+  Cluster 1:
+PDB 4b9b_1_CE - Resolution 1.64 A
+PDB 4b9b_2_AG - Resolution 1.64 A
+PDB 4b9b_3_DF - Resolution 1.64 A
+PDB 4b9b_4_BH - Resolution 1.64 A
+  Cluster 4:
+PDB 4lnm_1_AB - Resolution 2.1 A
+
+Superfamily b.84.2:
+  Cluster 1:
+PDB 3rup_1_B - Resolution 1.99 A
+PDB 3rup_2_A - Resolution 1.99 A
+
+Superfamily c.1.15:
+  Cluster 1:
+PDB 1mnz_1_A - Resolution 0.99 A
+  Cluster 2:
+PDB 5vr0_1_A - Resolution 1.7 A
+PDB 5vr0_2_A - Resolution 1.7 A
+  Cluster 3:
+PDB 5vr0_4_A - Resolution 1.7 A
+
+Superfamily d.92.2:
+  Cluster 2:
+PDB 2cho_1_B - Resolution 1.85 A
+PDB 2cho_2_A - Resolution 1.85 A
+  Cluster 1:
+PDB 2v5c_4_B - Resolution 2.1 A
+PDB 2v5c_8_A - Resolution 2.1 A
+
+Superfamily a.118.9:
+  Cluster 1:
+PDB 2bf0_1_X - Resolution 2.3 A
+
+Superfamily c.53.2:
+  Cluster 4:
+PDB 1g5c_11_AE - Resolution 2.1 A
+PDB 1g5c_12_A - Resolution 2.1 A
+  Cluster 1:
+PDB 1g5c_4_B - Resolution 2.1 A
+  Cluster 3:
+PDB 1g5c_6_C - Resolution 2.1 A
+PDB 1g5c_8_A - Resolution 2.1 A
+  Cluster 2:
+PDB 1g5c_7_EF - Resolution 2.1 A
+
+Superfamily a.25.1:
+  Cluster 1:
+PDB 6b8f_1_A - Resolution 1.06 A
+PDB 6b8f_2_A - Resolution 1.06 A
+PDB 6b8f_3_A - Resolution 1.06 A
+PDB 6b8f_6_A - Resolution 1.06 A
+PDB 6b8f_8_A - Resolution 1.06 A
+PDB 6b8f_9_A - Resolution 1.06 A
+  Cluster 2:
+PDB 2cf7_2_CHJ - Resolution 1.5 A
+  Cluster 3:
+PDB 2xjm_7_K - Resolution 2.3 A
+  Cluster 4:
+PDB 2xjo_4_K - Resolution 2.1 A
+  Cluster 5:
+PDB 3a68_66_BFV - Resolution 1.8 A
+  Cluster 6:
+PDB 5l8g_54_P - Resolution 2.974 A
+  Cluster 7:
+PDB 6b8f_5_A - Resolution 1.06 A
+  Cluster 8:
+PDB 6b8g_8_A - Resolution 1.13 A
+  Cluster 9:
+PDB 6b8g_9_A - Resolution 1.13 A
+
+Superfamily c.6.2:
+  Cluster 1:
+PDB 1k1x_1_AB - Resolution 2.4 A
+PDB 1k1x_3_AB - Resolution 2.4 A
+PDB 1k1y_1_AB - Resolution 2.4 A
+PDB 1k1y_2_AB - Resolution 2.4 A
+  Cluster 2:
+PDB 2vyo_1_A - Resolution 1.5 A
+PDB 2vyo_5_A - Resolution 1.5 A
+  Cluster 3:
+PDB 2vyo_4_A - Resolution 1.5 A
+
+Superfamily b.130.1:
+  Cluster 1:
+PDB 4r5k_1_AB - Resolution 1.7469 A
+  Cluster 3:
+PDB 4r5j_4_D - Resolution 2.361 A
+  Cluster 2:
+PDB 4r5j_5_AC - Resolution 2.361 A
+
+Superfamily a.204.1:
+  Cluster 1:
+PDB 2yay_1_A - Resolution 1.86 A
+
+Superfamily c.6.1:
+  Cluster 1:
+PDB 1oc6_1_A - Resolution 1.5 A
+  Cluster 2:
+PDB 1ocn_1_A - Resolution 1.31 A
+  Cluster 3:
+PDB 1ocn_2_A - Resolution 1.31 A
+
+Superfamily a.29.16:
+  Cluster 1:
+PDB 2rld_1_A - Resolution 1.7 A
+PDB 2rld_2_D - Resolution 1.7 A
+PDB 2rld_3_C - Resolution 1.7 A
+
+Superfamily a.8.1:
+  Cluster 1:
+PDB 6fgo_1_AF - Resolution 2.5 A
+PDB 6fgo_2_H - Resolution 2.5 A
+PDB 6fgo_3_E - Resolution 2.5 A
+PDB 6fgo_4_G - Resolution 2.5 A
+
+Superfamily c.1.8:
+  Cluster 15:
+PDB 5u3a_1_A - Resolution 0.95 A
+  Cluster 1:
+PDB 2qpu_3_B - Resolution 1.7 A
+PDB 2qpu_4_A - Resolution 1.7 A
+PDB 2qpu_7_C - Resolution 1.7 A
+  Cluster 24:
+PDB 2fhf_2_A - Resolution 1.65 A
+  Cluster 13:
+PDB 1e43_3_A - Resolution 1.7 A
+  Cluster 10:
+PDB 1d3c_2_A - Resolution 1.78 A
+  Cluster 29:
+PDB 1dhk_1_AB - Resolution 1.85 A
+  Cluster 4:
+PDB 1h5v_5_A - Resolution 1.1 A
+  Cluster 21:
+PDB 1h5v_1_A - Resolution 1.1 A
+  Cluster 14:
+PDB 5z0u_1_A - Resolution 1.37 A
+  Cluster 23:
+PDB 1qho_3_A - Resolution 1.7 A
+PDB 1qhp_3_A - Resolution 1.7 A
+  Cluster 6:
+PDB 1qhz_1_A - Resolution 1.95 A
+  Cluster 3:
+PDB 1ur4_1_A - Resolution 2.2 A
+PDB 1ur4_2_B - Resolution 2.2 A
+  Cluster 5:
+PDB 6taa_1_A - Resolution 2.1 A
+  Cluster 8:
+PDB 2fhf_1_A - Resolution 1.65 A
+  Cluster 7:
+PDB 2vrj_2_A - Resolution 1.9 A
+  Cluster 2:
+PDB 2jep_1_B - Resolution 1.4 A
+PDB 2jep_2_A - Resolution 1.4 A
+  Cluster 16:
+PDB 2uwf_1_A - Resolution 2.1 A
+  Cluster 27:
+PDB 2uwf_2_A - Resolution 2.1 A
+  Cluster 28:
+PDB 2uwf_3_A - Resolution 2.1 A
+  Cluster 19:
+PDB 3n9k_1_A - Resolution 1.7 A
+  Cluster 18:
+PDB 3qgv_1_A - Resolution 2.1 A
+  Cluster 26:
+PDB 3qgv_3_A - Resolution 2.1 A
+  Cluster 20:
+PDB 4jcm_7_A - Resolution 1.65 A
+  Cluster 9:
+PDB 4w8l_1_C - Resolution 1.76 A
+PDB 4w8l_2_A - Resolution 1.76 A
+PDB 4w8l_3_B - Resolution 1.76 A
+  Cluster 12:
+PDB 4y7e_1_A - Resolution 1.5 A
+PDB 4y7e_2_B - Resolution 1.5 A
+  Cluster 11:
+PDB 4y7e_3_AB - Resolution 1.5 A
+PDB 4y7e_4_A - Resolution 1.5 A
+PDB 4y7e_5_B - Resolution 1.5 A
+  Cluster 22:
+PDB 5d9n_2_A - Resolution 1.86 A
+  Cluster 17:
+PDB 6idn_1_A - Resolution 1.5 A
+  Cluster 30:
+PDB 6q3r_7_A - Resolution 2.69 A
+  Cluster 25:
+PDB 7k4w_1_A - Resolution 1.9 A
+
+Superfamily b.1.13:
+  Cluster 2:
+PDB 1vzi_5_AB - Resolution 1.15 A
+  Cluster 1:
+PDB 1vzi_3_AB - Resolution 1.15 A
+
+Superfamily a.110.1:
+  Cluster 1:
+PDB 1b4n_1_B - Resolution 2.4 A
+PDB 1b4n_4_A - Resolution 2.4 A
+PDB 1b4n_6_C - Resolution 2.4 A
+PDB 1b4n_8_D - Resolution 2.4 A
+
+Superfamily d.379.1:
+  Cluster 1:
+PDB 2nxp_1_H - Resolution 2.17 A
+PDB 2nxp_2_EF - Resolution 2.17 A
+PDB 2nxp_3_AB - Resolution 2.17 A
+PDB 2nxp_4_G - Resolution 2.17 A
+PDB 2nxp_5_CD - Resolution 2.17 A
+PDB 2nxp_6_EF - Resolution 2.17 A
+PDB 2nxp_7_CD - Resolution 2.17 A
+PDB 2nxp_8_ABCD - Resolution 2.17 A
+
+Superfamily d.144.1:
+  Cluster 10:
+PDB 6y82_3_A - Resolution 1.44 A
+PDB 6y82_4_A - Resolution 1.44 A
+  Cluster 8:
+PDB 2c0t_3_A - Resolution 2.15 A
+PDB 2c0t_4_B - Resolution 2.15 A
+  Cluster 4:
+PDB 1nw1_1_A - Resolution 2.02 A
+PDB 1nw1_2_B - Resolution 2.02 A
+  Cluster 3:
+PDB 1u5q_2_A - Resolution 2.1 A
+PDB 1u5r_1_A - Resolution 2.1 A
+  Cluster 22:
+PDB 1u5r_2_B - Resolution 2.1 A
+  Cluster 18:
+PDB 2auh_1_A - Resolution 3.2 A
+  Cluster 19:
+PDB 2j7t_1_A - Resolution 2.0 A
+  Cluster 5:
+PDB 2j7t_2_A - Resolution 2.0 A
+PDB 4equ_2_AB - Resolution 2.0 A
+PDB 4equ_4_AB - Resolution 2.0 A
+  Cluster 20:
+PDB 2j7t_3_A - Resolution 2.0 A
+  Cluster 21:
+PDB 2j7t_5_A - Resolution 2.0 A
+  Cluster 12:
+PDB 2x0g_3_AB - Resolution 2.2 A
+  Cluster 6:
+PDB 2yab_1_AB - Resolution 1.9 A
+  Cluster 13:
+PDB 3d94_1_A - Resolution 2.3 A
+  Cluster 1:
+PDB 3is5_2_CD - Resolution 2.55 A
+PDB 3is5_3_AB - Resolution 2.55 A
+PDB 3is5_6_EF - Resolution 2.55 A
+  Cluster 2:
+PDB 4ej7_3_B - Resolution 2.29 A
+PDB 4ej7_6_C - Resolution 2.29 A
+PDB 4ej7_8_AC - Resolution 2.29 A
+  Cluster 15:
+PDB 3uix_1_A - Resolution 2.2 A
+  Cluster 23:
+PDB 4equ_3_B - Resolution 2.0 A
+  Cluster 14:
+PDB 4ll5_1_A - Resolution 2.0 A
+  Cluster 9:
+PDB 5m06_1_B - Resolution 2.0 A
+  Cluster 11:
+PDB 6y82_1_A - Resolution 1.44 A
+  Cluster 17:
+PDB 6y82_2_A - Resolution 1.44 A
+  Cluster 7:
+PDB 7ax4_1_A - Resolution 2.12 A
+PDB 7ax4_2_B - Resolution 2.12 A
+
+Superfamily a.60.12:
+  Cluster 10:
+PDB 1zqv_1_A - Resolution 2.7 A
+  Cluster 5:
+PDB 1zqc_2_A - Resolution 3.2 A
+  Cluster 2:
+PDB 4k4h_10_MNP - Resolution 2.1 A
+PDB 4k4h_12_EFG - Resolution 2.1 A
+PDB 4k4h_13_ABD - Resolution 2.1 A
+PDB 4k4h_17_ABC - Resolution 2.1 A
+PDB 4k4h_18_MNO - Resolution 2.1 A
+PDB 4k4h_6_IJK - Resolution 2.1 A
+  Cluster 8:
+PDB 4kld_3_APT - Resolution 1.916 A
+  Cluster 6:
+PDB 4k4h_8_ABM - Resolution 2.1 A
+  Cluster 1:
+PDB 4k4h_14_IJKL - Resolution 2.1 A
+PDB 4k4h_1_MNOP - Resolution 2.1 A
+  Cluster 7:
+PDB 4k4g_1_EFG - Resolution 2.15 A
+  Cluster 9:
+PDB 4k4g_4_AJK - Resolution 2.15 A
+  Cluster 11:
+PDB 4k4g_8_IJL - Resolution 2.15 A
+  Cluster 4:
+PDB 4k4h_11_M - Resolution 2.1 A
+  Cluster 3:
+PDB 4k4h_2_E - Resolution 2.1 A
+PDB 4k4h_9_A - Resolution 2.1 A
+  Cluster 12:
+PDB 4k4i_13_MN - Resolution 2.25 A
+  Cluster 13:
+PDB 4k4i_21_IJ - Resolution 2.25 A
+
+Superfamily e.52.1:
+  Cluster 2:
+PDB 2p1r_10_BC - Resolution 2.5 A
+PDB 2p1r_11_AD - Resolution 2.5 A
+  Cluster 3:
+PDB 2p1r_12_B - Resolution 2.5 A
+PDB 2p1r_1_A - Resolution 2.5 A
+PDB 2p1r_4_C - Resolution 2.5 A
+PDB 2p1r_7_D - Resolution 2.5 A
+  Cluster 1:
+PDB 2p1r_3_C - Resolution 2.5 A
+PDB 2p1r_5_A - Resolution 2.5 A
+PDB 2p1r_6_D - Resolution 2.5 A
+PDB 2p1r_9_B - Resolution 2.5 A
+
+Superfamily a.24.3:
+  Cluster 1:
+PDB 6dyc_2_B - Resolution 1.33 A
+
+Superfamily b.66.1:
+  Cluster 4:
+PDB 1gen_1_A - Resolution 2.15 A
+  Cluster 2:
+PDB 1su3_12_A - Resolution 2.2 A
+PDB 1su3_8_B - Resolution 2.2 A
+  Cluster 3:
+PDB 1su3_1_A - Resolution 2.2 A
+PDB 1su3_4_B - Resolution 2.2 A
+  Cluster 1:
+PDB 4g0d_17_C - Resolution 2.54 A
+PDB 4g0d_19_B - Resolution 2.54 A
+  Cluster 5:
+PDB 4g0d_24_ACY - Resolution 2.54 A
+
+Superfamily d.58.30:
+  Cluster 3:
+PDB 5etp_1_A - Resolution 1.05 A
+  Cluster 2:
+PDB 5etp_4_A - Resolution 1.05 A
+  Cluster 4:
+PDB 5etp_5_A - Resolution 1.05 A
+  Cluster 1:
+PDB 5etl_1_CD - Resolution 1.82 A
+PDB 5etl_5_AB - Resolution 1.82 A
+  Cluster 5:
+PDB 5etl_7_A - Resolution 1.82 A
+  Cluster 6:
+PDB 5eto_3_A - Resolution 1.07 A
+
+Superfamily a.39.1:
+  Cluster 2:
+PDB 2pvb_1_A - Resolution 0.91 A
+PDB 2pvb_2_A - Resolution 0.91 A
+  Cluster 3:
+PDB 2zrs_15_GH - Resolution 3.1 A
+
+Superfamily d.58.9:
+  Cluster 2:
+PDB 4nas_1_AB - Resolution 1.92 A
+PDB 4nas_2_AB - Resolution 1.92 A
+PDB 4nas_5_CD - Resolution 1.92 A
+PDB 4nas_7_CD - Resolution 1.92 A
+  Cluster 1:
+PDB 4nas_3_B - Resolution 1.92 A
+PDB 4nas_4_A - Resolution 1.92 A
+PDB 4nas_6_C - Resolution 1.92 A
+  Cluster 3:
+PDB 6hun_1_A - Resolution 1.802 A
+
+Superfamily d.79.1:
+  Cluster 6:
+PDB 2b33_1_B - Resolution 2.3 A
+  Cluster 7:
+PDB 2otm_4_ABC - Resolution 1.85 A
+  Cluster 4:
+PDB 5v4d_3_ABCEF - Resolution 1.6 A
+PDB 5v4d_5_ABDEF - Resolution 1.6 A
+  Cluster 2:
+PDB 5v4d_2_A - Resolution 1.6 A
+PDB 5v4d_6_E - Resolution 1.6 A
+  Cluster 5:
+PDB 5v4d_1_E - Resolution 1.6 A
+  Cluster 3:
+PDB 5v4d_4_B - Resolution 1.6 A
+  Cluster 1:
+PDB 6buo_1_A - Resolution 1.85 A
+PDB 6buo_2_C - Resolution 1.85 A
+PDB 6buo_3_B - Resolution 1.85 A
+PDB 6buo_4_D - Resolution 1.85 A
+
+Superfamily e.7.1:
+  Cluster 2:
+PDB 1ka1_1_A - Resolution 1.3 A
+  Cluster 1:
+PDB 1lbz_3_B - Resolution 2.2 A
+PDB 1lbz_4_A - Resolution 2.2 A
+  Cluster 3:
+PDB 3d1r_3_A - Resolution 1.85 A
+
+Superfamily b.1.15:
+  Cluster 3:
+PDB 3ije_4_A - Resolution 2.9 A
+PDB 4g1m_3_A - Resolution 2.9 A
+  Cluster 4:
+PDB 5ffg_1_A - Resolution 2.25 A
+PDB 5ffg_2_A - Resolution 2.25 A
+PDB 5ffg_4_A - Resolution 2.25 A
+PDB 5ffg_6_A - Resolution 2.25 A
+  Cluster 2:
+PDB 1jv2_3_B - Resolution 3.1 A
+PDB 1u8c_5_B - Resolution 3.1 A
+  Cluster 1:
+PDB 4um9_1_ABE - Resolution 2.5 A
+PDB 4um9_2_CDF - Resolution 2.5 A
+
+Superfamily a.127.1:
+  Cluster 2:
+PDB 4apb_2_B - Resolution 1.94 A
+  Cluster 1:
+PDB 4apb_1_A - Resolution 1.94 A
+PDB 4apb_3_D - Resolution 1.94 A
+
+Superfamily d.79.2:
+  Cluster 1:
+PDB 5xdt_1_A - Resolution 1.3 A
+  Cluster 2:
+PDB 5jh7_4_CD - Resolution 2.25 A
+  Cluster 3:
+PDB 5jh7_5_A - Resolution 2.25 A
+  Cluster 4:
+PDB 5lyj_1_AE - Resolution 2.397 A
+  Cluster 5:
+PDB 5m7e_1_B - Resolution 2.046 A
+  Cluster 6:
+PDB 5m7g_6_C - Resolution 2.248 A
+  Cluster 7:
+PDB 5m8d_1_B - Resolution 2.25 A
+  Cluster 8:
+PDB 6f7c_4_C - Resolution 2.002 A
+
+Superfamily b.36.1:
+  Cluster 1:
+PDB 2pkt_1_A - Resolution 1.5 A
+  Cluster 3:
+PDB 2pkt_2_A - Resolution 1.5 A
+  Cluster 2:
+PDB 3r68_1_A - Resolution 1.3 A
+
+Superfamily c.87.1:
+  Cluster 5:
+PDB 1jix_1_A - Resolution 1.65 A
+  Cluster 1:
+PDB 3dzc_1_A - Resolution 2.35 A
+  Cluster 2:
+PDB 3dzc_2_B - Resolution 2.35 A
+  Cluster 4:
+PDB 4r9v_1_A - Resolution 2.3 A
+  Cluster 3:
+PDB 4r9v_2_A - Resolution 2.3 A
+
+Superfamily d.14.1:
+  Cluster 2:
+PDB 1mu5_1_A - Resolution 2.0 A
+  Cluster 3:
+PDB 1mu5_2_A - Resolution 2.0 A
+  Cluster 1:
+PDB 1z0w_1_A - Resolution 1.2 A
+PDB 1z0w_2_A - Resolution 1.2 A
+
+Superfamily e.8.1:
+  Cluster 22:
+PDB 1clq_1_ADE - Resolution 2.7 A
+  Cluster 9:
+PDB 1jx4_2_APT - Resolution 1.7 A
+  Cluster 12:
+PDB 1clq_4_A - Resolution 2.7 A
+  Cluster 4:
+PDB 4j2a_2_A - Resolution 1.8 A
+  Cluster 10:
+PDB 1clq_6_A - Resolution 2.7 A
+  Cluster 20:
+PDB 1clq_8_ADE - Resolution 2.7 A
+  Cluster 18:
+PDB 1rdr_2_A - Resolution 2.4 A
+  Cluster 11:
+PDB 1s0m_6_BEF - Resolution 2.7 A
+  Cluster 1:
+PDB 1uvn_1_EF - Resolution 3.0 A
+PDB 1uvn_4_AB - Resolution 3.0 A
+PDB 1uvn_9_CD - Resolution 3.0 A
+  Cluster 2:
+PDB 1uvn_5_AB - Resolution 3.0 A
+PDB 1uvn_7_CD - Resolution 3.0 A
+PDB 1uvn_8_EF - Resolution 3.0 A
+  Cluster 13:
+PDB 2wtf_4_B - Resolution 2.5 A
+  Cluster 8:
+PDB 2wtf_5_B - Resolution 2.5 A
+PDB 2wtf_9_A - Resolution 2.5 A
+  Cluster 6:
+PDB 2wtf_6_B - Resolution 2.5 A
+  Cluster 15:
+PDB 2xgp_2_A - Resolution 2.7 A
+  Cluster 7:
+PDB 2ykn_1_A - Resolution 2.12 A
+  Cluster 17:
+PDB 3gv5_3_DEF - Resolution 2.0 A
+  Cluster 19:
+PDB 3gv5_4_BT - Resolution 2.0 A
+  Cluster 3:
+PDB 3ngi_3_A - Resolution 1.886 A
+  Cluster 14:
+PDB 3ndk_1_A - Resolution 2.0 A
+  Cluster 16:
+PDB 3s9h_4_A - Resolution 1.95 A
+  Cluster 21:
+PDB 4dtu_3_APT - Resolution 1.86 A
+  Cluster 5:
+PDB 4khw_7_A - Resolution 2.371 A
+  Cluster 23:
+PDB 4ki6_5_A - Resolution 2.55 A
+
+Superfamily b.69.3:
+  Cluster 4:
+PDB 5i5m_1_AB - Resolution 1.37 A
+PDB 5i5m_2_AB - Resolution 1.37 A
+  Cluster 3:
+PDB 1fwx_13_AB - Resolution 1.6 A
+PDB 1fwx_18_AB - Resolution 1.6 A
+PDB 1fwx_19_CD - Resolution 1.6 A
+PDB 1fwx_4_CD - Resolution 1.6 A
+  Cluster 5:
+PDB 1fwx_15_B - Resolution 1.6 A
+PDB 1fwx_2_A - Resolution 1.6 A
+  Cluster 10:
+PDB 1fwx_3_C - Resolution 1.6 A
+  Cluster 1:
+PDB 2iwk_30_AB - Resolution 1.7 A
+  Cluster 12:
+PDB 2iwk_10_AB - Resolution 1.7 A
+  Cluster 9:
+PDB 2iwk_11_AB - Resolution 1.7 A
+  Cluster 2:
+PDB 2iwk_17_A - Resolution 1.7 A
+PDB 2iwk_37_B - Resolution 1.7 A
+  Cluster 13:
+PDB 2iwk_23_A - Resolution 1.7 A
+  Cluster 11:
+PDB 2iwk_24_AB - Resolution 1.7 A
+  Cluster 7:
+PDB 2iwk_29_AB - Resolution 1.7 A
+  Cluster 6:
+PDB 2iwk_2_A - Resolution 1.7 A
+  Cluster 8:
+PDB 2iwk_46_A - Resolution 1.7 A
+  Cluster 14:
+PDB 2iwk_4_AB - Resolution 1.7 A
+
+Superfamily d.22.1:
+  Cluster 1:
+PDB 6u1a_2_A - Resolution 1.09 A
+  Cluster 3:
+PDB 4gf6_1_B - Resolution 1.1 A
+PDB 4gf6_4_B - Resolution 1.1 A
+PDB 4gf6_5_B - Resolution 1.1 A
+PDB 4gf6_6_B - Resolution 1.1 A
+  Cluster 2:
+PDB 4gf6_3_B - Resolution 1.1 A
+  Cluster 5:
+PDB 4eul_1_A - Resolution 1.35 A
+  Cluster 4:
+PDB 4l1i_1_A - Resolution 1.2 A
+
+Superfamily c.57.1:
+  Cluster 1:
+PDB 6fgc_1_A - Resolution 1.5 A
+PDB 6fgd_2_A - Resolution 1.5 A
+
+Superfamily d.41.5:
+  Cluster 1:
+PDB 2wp4_1_B - Resolution 2.49 A
+
+Superfamily c.31.1:
+  Cluster 2:
+PDB 1q6z_4_A - Resolution 1.0 A
+PDB 2fn3_2_A - Resolution 1.0 A
+  Cluster 3:
+PDB 1q6z_1_A - Resolution 1.0 A
+PDB 1q6z_3_A - Resolution 1.0 A
+PDB 2fn3_3_A - Resolution 1.0 A
+PDB 2fn3_4_A - Resolution 1.0 A
+  Cluster 4:
+PDB 4juf_5_B - Resolution 2.148 A
+  Cluster 1:
+PDB 4mpr_4_A - Resolution 1.401 A
+  Cluster 5:
+PDB 4qel_2_A - Resolution 1.432 A
+
+Superfamily a.183.1:
+  Cluster 1:
+PDB 2ozb_2_E - Resolution 2.6 A
+  Cluster 2:
+PDB 2ozb_3_B - Resolution 2.6 A
+
+Superfamily b.40.4:
+  Cluster 6:
+PDB 1je5_1_B - Resolution 1.9 A
+  Cluster 9:
+PDB 1t9h_3_A - Resolution 1.6 A
+  Cluster 5:
+PDB 1t9h_5_A - Resolution 1.6 A
+  Cluster 8:
+PDB 1t9h_6_A - Resolution 1.6 A
+  Cluster 7:
+PDB 2es2_1_A - Resolution 1.78 A
+  Cluster 10:
+PDB 2es2_2_A - Resolution 1.78 A
+  Cluster 2:
+PDB 2hax_1_AC - Resolution 1.29 A
+  Cluster 11:
+PDB 2ix0_2_A - Resolution 2.44 A
+  Cluster 1:
+PDB 3bju_1_C - Resolution 2.31 A
+PDB 3bju_2_A - Resolution 2.31 A
+PDB 3bju_3_B - Resolution 2.31 A
+PDB 3bju_4_D - Resolution 2.31 A
+  Cluster 3:
+PDB 3lgj_1_A - Resolution 2.5 A
+  Cluster 4:
+PDB 5gqo_1_A - Resolution 2.5 A
+
+Superfamily h.1.1:
+  Cluster 1:
+PDB 1pwb_1_A - Resolution 1.4 A
+PDB 1pwb_2_C - Resolution 1.4 A
+PDB 1pwb_3_B - Resolution 1.4 A
+  Cluster 2:
+PDB 1hup_1_A - Resolution 2.5 A
+
+Superfamily d.316.1:
+  Cluster 2:
+PDB 2i52_10_BF - Resolution 2.08 A
+PDB 2i52_2_D - Resolution 2.08 A
+PDB 2i52_5_E - Resolution 2.08 A
+PDB 2i52_6_C - Resolution 2.08 A
+  Cluster 1:
+PDB 2i52_1_ABCD - Resolution 2.08 A
+PDB 2i52_3_ABCD - Resolution 2.08 A
+PDB 2i52_8_EF - Resolution 2.08 A
+  Cluster 4:
+PDB 2i52_4_EF - Resolution 2.08 A
+  Cluster 3:
+PDB 2i52_7_BD - Resolution 2.08 A
+PDB 2i52_9_C - Resolution 2.08 A
+
+Superfamily c.23.5:
+  Cluster 3:
+PDB 1ag9_1_B - Resolution 1.8 A
+  Cluster 4:
+PDB 2fzv_1_A - Resolution 1.7 A
+  Cluster 10:
+PDB 1ag9_4_A - Resolution 1.8 A
+  Cluster 7:
+PDB 1b1c_1_A - Resolution 1.93 A
+  Cluster 5:
+PDB 3esx_2_B - Resolution 2.31 A
+  Cluster 9:
+PDB 3esx_3_B - Resolution 2.31 A
+  Cluster 1:
+PDB 3qe2_1_A - Resolution 1.75 A
+  Cluster 6:
+PDB 3svl_1_AB - Resolution 2.2 A
+  Cluster 2:
+PDB 5lji_1_AC - Resolution 2.07 A
+  Cluster 8:
+PDB 5lji_4_C - Resolution 2.07 A
+
+Superfamily d.130.1:
+  Cluster 1:
+PDB 3rv2_1_AB - Resolution 2.0 A
+PDB 3rv2_2_AB - Resolution 2.0 A
+  Cluster 2:
+PDB 3s82_2_B - Resolution 1.73 A
+PDB 3s82_4_B - Resolution 1.73 A
+PDB 3s82_5_A - Resolution 1.73 A
+  Cluster 3:
+PDB 3s82_1_A - Resolution 1.73 A
+
+Superfamily a.137.10:
+  Cluster 1:
+PDB 4i4t_1_AE - Resolution 1.8 A
+  Cluster 2:
+PDB 5lyj_1_AE - Resolution 2.397 A
+
+Superfamily b.67.4:
+  Cluster 1:
+PDB 6nax_1_B - Resolution 1.551 A
+PDB 6nax_2_A - Resolution 1.551 A
+
+Superfamily e.41.1:
+  Cluster 1:
+PDB 1k90_2_BE - Resolution 2.75 A
+PDB 1k90_3_AD - Resolution 2.75 A
+PDB 1k90_4_CF - Resolution 2.75 A
+PDB 1k90_5_AD - Resolution 2.75 A
+PDB 1k90_6_BE - Resolution 2.75 A
+PDB 1k90_9_CF - Resolution 2.75 A
+
+Superfamily b.82.3:
+  Cluster 3:
+PDB 5c6c_1_A - Resolution 2.05 A
+  Cluster 1:
+PDB 5c6c_9_B - Resolution 2.05 A
+  Cluster 4:
+PDB 5jax_1_A - Resolution 1.486 A
+  Cluster 2:
+PDB 5jax_2_A - Resolution 1.486 A
+
+Superfamily g.9.1:
+  Cluster 1:
+PDB 3lms_1_AB - Resolution 2.5 A
+
+Superfamily d.48.1:
+  Cluster 3:
+PDB 1u94_1_A - Resolution 1.9 A
+  Cluster 1:
+PDB 1u94_2_A - Resolution 1.9 A
+  Cluster 2:
+PDB 1u94_3_A - Resolution 1.9 A
+
+Superfamily d.109.1:
+  Cluster 1:
+PDB 5faf_1_A - Resolution 1.05 A
+PDB 5faf_2_A - Resolution 1.05 A
+  Cluster 2:
+PDB 6i4e_2_AG - Resolution 1.22 A
+  Cluster 4:
+PDB 7c2g_4_G - Resolution 1.71 A
+  Cluster 3:
+PDB 7c2g_6_G - Resolution 1.71 A
+
+Superfamily d.150.1:
+  Cluster 1:
+PDB 1f7l_1_A - Resolution 1.5 A
+  Cluster 2:
+PDB 1f7l_2_A - Resolution 1.5 A
+
+Superfamily d.126.1:
+  Cluster 5:
+PDB 4n2b_2_A - Resolution 1.69 A
+  Cluster 3:
+PDB 4n2k_2_A - Resolution 1.57 A
+  Cluster 2:
+PDB 2dew_3_X - Resolution 2.1 A
+PDB 2dex_1_X - Resolution 2.1 A
+PDB 3b1u_2_A - Resolution 2.1 A
+  Cluster 1:
+PDB 4n2k_1_A - Resolution 1.57 A
+  Cluster 6:
+PDB 4x8c_1_A - Resolution 3.1 A
+  Cluster 4:
+PDB 4x8c_2_A - Resolution 3.1 A
+
+Superfamily c.1.9:
+  Cluster 1:
+PDB 4inf_1_CD - Resolution 1.48 A
+PDB 4inf_2_AB - Resolution 1.48 A
+PDB 4inf_3_CD - Resolution 1.48 A
+PDB 4inf_4_AB - Resolution 1.48 A
+  Cluster 2:
+PDB 4lfy_1_AB - Resolution 1.8 A
+PDB 4lfy_5_AB - Resolution 1.8 A
+
+Superfamily c.120.1:
+  Cluster 1:
+PDB 2fe1_1_A - Resolution 2.2 A
+  Cluster 3:
+PDB 4g26_2_A - Resolution 1.75 A
+  Cluster 2:
+PDB 4g26_5_A - Resolution 1.75 A
+  Cluster 4:
+PDB 4g26_6_A - Resolution 1.75 A
+
+Superfamily a.123.1:
+  Cluster 1:
+PDB 2b50_1_B - Resolution 2.0 A
+PDB 2b50_2_A - Resolution 2.0 A
+  Cluster 2:
+PDB 4oj4_2_A - Resolution 2.3 A
+
+Superfamily d.387.1:
+  Cluster 2:
+PDB 6dxg_1_A - Resolution 1.905 A
+  Cluster 3:
+PDB 6mx3_1_B - Resolution 1.362 A
+  Cluster 1:
+PDB 5cfr_1_AB - Resolution 2.85 A
+PDB 5cfr_3_AB - Resolution 2.85 A
+
+Superfamily a.102.2:
+  Cluster 1:
+PDB 1x9d_1_A - Resolution 1.41 A
+
+Superfamily a.79.1:
+  Cluster 1:
+PDB 1tzw_1_A - Resolution 1.6 A
+
+Superfamily c.36.1:
+  Cluster 4:
+PDB 5xvt_1_A - Resolution 0.85 A
+  Cluster 3:
+PDB 2c42_7_B - Resolution 1.78 A
+PDB 2c42_8_A - Resolution 1.78 A
+  Cluster 5:
+PDB 1q6z_1_A - Resolution 1.0 A
+PDB 1q6z_3_A - Resolution 1.0 A
+PDB 2fn3_3_A - Resolution 1.0 A
+PDB 2fn3_4_A - Resolution 1.0 A
+  Cluster 6:
+PDB 4juf_5_B - Resolution 2.148 A
+  Cluster 1:
+PDB 4mpr_4_A - Resolution 1.401 A
+  Cluster 8:
+PDB 4qel_2_A - Resolution 1.432 A
+  Cluster 2:
+PDB 5vrb_10_CD - Resolution 1.85 A
+PDB 5vrb_2_ABC - Resolution 1.85 A
+PDB 5vrb_6_AB - Resolution 1.85 A
+PDB 5vrb_8_CD - Resolution 1.85 A
+  Cluster 7:
+PDB 5vrb_11_A - Resolution 1.85 A
+
+Superfamily b.115.1:
+  Cluster 1:
+PDB 4ce8_1_CD - Resolution 0.9 A
+PDB 4ce8_2_CD - Resolution 0.9 A
+PDB 4ce8_3_AB - Resolution 0.9 A
+PDB 4ce8_4_AB - Resolution 0.9 A
+
+Superfamily b.3.2:
+  Cluster 1:
+PDB 5m0y_1_B - Resolution 1.5 A
+PDB 5m0y_2_AB - Resolution 1.5 A
+
+Superfamily a.65.1:
+  Cluster 2:
+PDB 1yii_1_A - Resolution 1.42 A
+PDB 1yii_2_A - Resolution 1.42 A
+PDB 1yii_3_A - Resolution 1.42 A
+PDB 2hyv_1_A - Resolution 1.42 A
+PDB 2hyv_2_A - Resolution 1.42 A
+PDB 2hyv_3_A - Resolution 1.42 A
+PDB 2hyv_4_A - Resolution 1.42 A
+  Cluster 3:
+PDB 1avc_3_A - Resolution 2.9 A
+  Cluster 1:
+PDB 2h0l_2_A - Resolution 2.59 A
+
+Superfamily b.68.2:
+  Cluster 3:
+PDB 1cru_1_B - Resolution 1.5 A
+PDB 1cru_3_A - Resolution 1.5 A
+  Cluster 2:
+PDB 1cru_2_AB - Resolution 1.5 A
+PDB 1cru_6_AB - Resolution 1.5 A
+  Cluster 1:
+PDB 1cru_4_B - Resolution 1.5 A
+PDB 1cru_5_A - Resolution 1.5 A
+
+Superfamily b.5.1:
+  Cluster 1:
+PDB 1bvn_1_PT - Resolution 2.5 A
+
+Superfamily d.108.1:
+  Cluster 7:
+PDB 5f47_2_B - Resolution 1.497 A
+PDB 5f47_7_AB - Resolution 1.497 A
+  Cluster 10:
+PDB 1yle_1_A - Resolution 1.7 A
+  Cluster 1:
+PDB 2fxf_1_AB - Resolution 2.0 A
+PDB 2fxf_4_AB - Resolution 2.0 A
+  Cluster 3:
+PDB 5f47_3_A - Resolution 1.497 A
+PDB 5f47_6_B - Resolution 1.497 A
+  Cluster 11:
+PDB 4jwp_1_B - Resolution 2.0 A
+  Cluster 4:
+PDB 4jwp_3_B - Resolution 2.0 A
+  Cluster 6:
+PDB 4ncz_4_B - Resolution 1.89 A
+PDB 4ncz_5_AC - Resolution 1.89 A
+  Cluster 5:
+PDB 5f47_1_AB - Resolution 1.497 A
+PDB 5f47_8_AB - Resolution 1.497 A
+  Cluster 8:
+PDB 5f47_4_AB - Resolution 1.497 A
+  Cluster 2:
+PDB 5f47_5_A - Resolution 1.497 A
+  Cluster 9:
+PDB 6ag5_1_A - Resolution 2.32 A
+
+Superfamily c.26.1:
+  Cluster 3:
+PDB 1g8f_5_A - Resolution 1.95 A
+  Cluster 6:
+PDB 1g8f_7_A - Resolution 1.95 A
+  Cluster 2:
+PDB 1g8f_8_A - Resolution 1.95 A
+  Cluster 13:
+PDB 2h2a_1_A - Resolution 2.1 A
+  Cluster 7:
+PDB 3hfj_2_A - Resolution 2.02 A
+PDB 3hfj_3_B - Resolution 2.02 A
+  Cluster 5:
+PDB 3n9i_1_B - Resolution 1.95 A
+  Cluster 9:
+PDB 4f3r_1_BC - Resolution 2.25 A
+  Cluster 1:
+PDB 4ruk_1_ACF - Resolution 2.2 A
+PDB 4ruk_2_BDE - Resolution 2.2 A
+  Cluster 10:
+PDB 5l7p_1_A - Resolution 1.9 A
+  Cluster 8:
+PDB 5nsf_1_A - Resolution 2.426 A
+PDB 5nsf_2_B - Resolution 2.426 A
+  Cluster 11:
+PDB 5nsf_3_AC - Resolution 2.426 A
+  Cluster 4:
+PDB 5ts2_1_AD - Resolution 2.3 A
+  Cluster 12:
+PDB 5ts2_2_E - Resolution 2.3 A
+
+Superfamily f.55.1:
+  Cluster 1:
+PDB 5b66_13_acd - Resolution 1.85 A
+  Cluster 2:
+PDB 2axt_70_CKX - Resolution 3.0 A
+  Cluster 3:
+PDB 5b66_50_cky - Resolution 1.85 A
+PDB 5b66_56_BDM - Resolution 1.85 A
+
+Superfamily b.69.5:
+  Cluster 4:
+PDB 1jtd_1_B - Resolution 2.3 A
+  Cluster 3:
+PDB 1jtd_2_B - Resolution 2.3 A
+  Cluster 1:
+PDB 1jtd_4_B - Resolution 2.3 A
+  Cluster 2:
+PDB 1jtd_5_B - Resolution 2.3 A
+
+Superfamily d.98.2:
+  Cluster 1:
+PDB 3db7_1_A - Resolution 1.4 A
+  Cluster 2:
+PDB 3db7_2_A - Resolution 1.4 A
+
+Superfamily a.4.1:
+  Cluster 1:
+PDB 2id3_1_A - Resolution 1.7 A
+PDB 2id3_2_AB - Resolution 1.7 A
+PDB 2id3_3_B - Resolution 1.7 A
+PDB 2id3_4_A - Resolution 1.7 A
+PDB 2id3_5_B - Resolution 1.7 A
+PDB 2id3_6_A - Resolution 1.7 A
+PDB 2id3_7_B - Resolution 1.7 A
+  Cluster 2:
+PDB 3ukg_1_A - Resolution 2.95 A
+
+Superfamily b.3.6:
+  Cluster 1:
+PDB 5umh_1_A - Resolution 1.35 A
+
+Superfamily f.24.1:
+  Cluster 1:
+PDB 2gsm_10_C - Resolution 2.0 A
+PDB 2gsm_9_A - Resolution 2.0 A
+
+Superfamily f.3.1:
+  Cluster 8:
+PDB 3wmm_15_UVWXY - Resolution 3.008 A
+  Cluster 5:
+PDB 3wmm_19_STUVW - Resolution 3.008 A
+  Cluster 9:
+PDB 3wmm_20_FGIJK - Resolution 3.008 A
+  Cluster 15:
+PDB 3wmm_21_123YZ - Resolution 3.008 A
+PDB 3wmm_58_1WXYZ - Resolution 3.008 A
+  Cluster 6:
+PDB 3wmm_26_12345 - Resolution 3.008 A
+PDB 3wmm_5_09ABD - Resolution 3.008 A
+  Cluster 11:
+PDB 3wmm_27_EFGI - Resolution 3.008 A
+  Cluster 2:
+PDB 3wmm_39_34567 - Resolution 3.008 A
+  Cluster 14:
+PDB 3wmm_3_MPQRS - Resolution 3.008 A
+  Cluster 3:
+PDB 3wmm_43_QRSTU - Resolution 3.008 A
+  Cluster 12:
+PDB 3wmm_46_ABDEF - Resolution 3.008 A
+  Cluster 7:
+PDB 3wmm_50_NOPQ - Resolution 3.008 A
+  Cluster 13:
+PDB 3wmm_53_089A - Resolution 3.008 A
+  Cluster 1:
+PDB 3wmm_55_56789 - Resolution 3.008 A
+  Cluster 10:
+PDB 3wmm_9_JKNO - Resolution 3.008 A
+  Cluster 4:
+PDB 5y5s_14_34567 - Resolution 1.9 A
+PDB 5y5s_19_56789 - Resolution 1.9 A
+PDB 5y5s_20_09ABD - Resolution 1.9 A
+PDB 5y5s_21_QRSTU - Resolution 1.9 A
+PDB 5y5s_23_123YZ - Resolution 1.9 A
+PDB 5y5s_24_UVWXY - Resolution 1.9 A
+PDB 5y5s_27_ABDEF - Resolution 1.9 A
+PDB 5y5s_28_12345 - Resolution 1.9 A
+PDB 5y5s_2_0789A - Resolution 1.9 A
+PDB 5y5s_32_IJKNO - Resolution 1.9 A
+PDB 5y5s_3_STUVW - Resolution 1.9 A
+PDB 5y5s_40_OPQRS - Resolution 1.9 A
+PDB 5y5s_41_DEFGI - Resolution 1.9 A
+PDB 5y5s_42_KNOPQ - Resolution 1.9 A
+PDB 5y5s_5_1WXYZ - Resolution 1.9 A
+PDB 5y5s_7_FGIJK - Resolution 1.9 A
+
+Superfamily d.26.2:
+  Cluster 1:
+PDB 4udm_2_AB - Resolution 2.96 A
+
+Superfamily d.139.1:
+  Cluster 1:
+PDB 5cm7_1_AB - Resolution 1.55 A
+PDB 5cm7_2_AB - Resolution 1.55 A
+
+Superfamily c.100.1:
+  Cluster 1:
+PDB 3s4y_1_AB - Resolution 1.8 A
+PDB 3s4y_2_AB - Resolution 1.8 A
+
+Superfamily b.68.5:
+  Cluster 3:
+PDB 1n7d_10_A - Resolution 3.7 A
+  Cluster 1:
+PDB 1n7d_11_A - Resolution 3.7 A
+  Cluster 6:
+PDB 1n7d_2_A - Resolution 3.7 A
+  Cluster 2:
+PDB 1n7d_5_A - Resolution 3.7 A
+  Cluster 8:
+PDB 1n7d_6_A - Resolution 3.7 A
+  Cluster 5:
+PDB 1n7d_7_A - Resolution 3.7 A
+  Cluster 7:
+PDB 1n7d_8_A - Resolution 3.7 A
+  Cluster 4:
+PDB 1n7d_9_A - Resolution 3.7 A
+
+Superfamily c.2.1:
+  Cluster 13:
+PDB 6oz7_1_E - Resolution 1.36 A
+PDB 6oz7_2_H - Resolution 1.36 A
+PDB 6oz7_3_B - Resolution 1.36 A
+PDB 6oz7_4_C - Resolution 1.36 A
+PDB 6oz7_5_G - Resolution 1.36 A
+PDB 6oz7_6_F - Resolution 1.36 A
+PDB 6oz7_7_DG - Resolution 1.36 A
+PDB 6oz7_8_A - Resolution 1.36 A
+  Cluster 4:
+PDB 2aef_1_AB - Resolution 1.7 A
+PDB 2aef_2_AB - Resolution 1.7 A
+  Cluster 1:
+PDB 1q7b_2_AD - Resolution 2.05 A
+PDB 1q7b_4_BC - Resolution 2.05 A
+  Cluster 2:
+PDB 1q7b_3_CD - Resolution 2.05 A
+PDB 1q7b_5_CD - Resolution 2.05 A
+PDB 1q7b_6_AB - Resolution 2.05 A
+PDB 1q7b_8_AB - Resolution 2.05 A
+  Cluster 5:
+PDB 4b7u_1_C - Resolution 1.88 A
+PDB 4b7u_2_D - Resolution 1.88 A
+PDB 4b7u_3_B - Resolution 1.88 A
+PDB 4b7u_4_A - Resolution 1.88 A
+  Cluster 10:
+PDB 2yz7_1_EFGH - Resolution 2.19 A
+PDB 2yz7_2_EFGH - Resolution 2.19 A
+PDB 2yz7_3_ABCD - Resolution 2.19 A
+PDB 2yz7_4_ABCD - Resolution 2.19 A
+  Cluster 6:
+PDB 3pk0_2_A - Resolution 1.75 A
+PDB 3pk0_4_B - Resolution 1.75 A
+  Cluster 11:
+PDB 4l75_1_CD - Resolution 2.393 A
+PDB 4l75_2_EF - Resolution 2.393 A
+PDB 4l75_3_AB - Resolution 2.393 A
+PDB 4l75_4_EF - Resolution 2.393 A
+PDB 4l75_5_AB - Resolution 2.393 A
+PDB 4l75_6_CD - Resolution 2.393 A
+  Cluster 8:
+PDB 3s55_2_F - Resolution 2.1 A
+PDB 3s55_6_BE - Resolution 2.1 A
+  Cluster 12:
+PDB 3wmw_1_A - Resolution 2.25 A
+PDB 3wmw_2_B - Resolution 2.25 A
+  Cluster 9:
+PDB 4gkb_1_AB - Resolution 1.5 A
+PDB 4gkb_2_AB - Resolution 1.5 A
+PDB 4gkb_3_CD - Resolution 1.5 A
+  Cluster 14:
+PDB 4h15_9_BCD - Resolution 1.45 A
+  Cluster 3:
+PDB 4ln1_1_BD - Resolution 1.9 A
+PDB 4ln1_5_AC - Resolution 1.9 A
+  Cluster 7:
+PDB 4ln1_2_AC - Resolution 1.9 A
+PDB 4ln1_3_AC - Resolution 1.9 A
+PDB 4ln1_4_BD - Resolution 1.9 A
+PDB 4ln1_6_BD - Resolution 1.9 A
+
+Superfamily d.58.48:
+  Cluster 1:
+PDB 1s99_1_A - Resolution 1.65 A
+
+Superfamily b.108.1:
+  Cluster 1:
+PDB 4hiz_11_A - Resolution 1.601 A
+PDB 4hiz_8_C - Resolution 1.601 A
+PDB 4hiz_9_B - Resolution 1.601 A
+  Cluster 2:
+PDB 4hiz_13_AB - Resolution 1.601 A
+PDB 4hiz_14_BC - Resolution 1.601 A
+PDB 4hiz_1_AC - Resolution 1.601 A
+
+Superfamily d.131.1:
+  Cluster 4:
+PDB 2io4_1_BD - Resolution 2.6 A
+  Cluster 2:
+PDB 4k3l_11_B - Resolution 1.5 A
+PDB 4k3l_5_A - Resolution 1.5 A
+PDB 4k3l_7_B - Resolution 1.5 A
+PDB 4k3l_8_B - Resolution 1.5 A
+PDB 4k3l_9_B - Resolution 1.5 A
+  Cluster 6:
+PDB 4k3l_3_A - Resolution 1.5 A
+  Cluster 5:
+PDB 4k3l_6_B - Resolution 1.5 A
+  Cluster 1:
+PDB 4pnv_7_AB - Resolution 1.86 A
+  Cluster 7:
+PDB 4n9a_1_AB - Resolution 1.9 A
+  Cluster 3:
+PDB 4pnv_3_A - Resolution 1.86 A
+
+Superfamily a.56.1:
+  Cluster 2:
+PDB 1v97_2_A - Resolution 1.94 A
+PDB 1v97_8_B - Resolution 1.94 A
+  Cluster 1:
+PDB 1vdv_5_B - Resolution 1.98 A
+PDB 1vdv_7_A - Resolution 1.98 A
+  Cluster 3:
+PDB 3l4p_3_A - Resolution 1.45 A
+
+Superfamily c.91.1:
+  Cluster 1:
+PDB 1j3b_1_B - Resolution 2.0 A
+PDB 1j3b_2_A - Resolution 2.0 A
+  Cluster 2:
+PDB 1kkl_1_CJ - Resolution 2.8 A
+PDB 1kkl_2_B - Resolution 2.8 A
+PDB 1kkl_3_AH - Resolution 2.8 A
+PDB 1kkm_1_BCJ - Resolution 2.8 A
+PDB 1kkm_2_ACH - Resolution 2.8 A
+PDB 1kkm_3_ABI - Resolution 2.8 A
+  Cluster 3:
+PDB 1os1_1_A - Resolution 1.8 A
+
+Superfamily c.51.3:
+  Cluster 1:
+PDB 1nbw_1_CD - Resolution 2.4 A
+PDB 1nbw_2_AB - Resolution 2.4 A
+
+Superfamily b.89.1:
+  Cluster 1:
+PDB 1lom_1_A - Resolution 1.72 A
+  Cluster 2:
+PDB 1lom_2_A - Resolution 1.72 A
+
+Superfamily a.41.1:
+  Cluster 1:
+PDB 4xhu_1_A - Resolution 2.089 A
+
+Superfamily e.17.1:
+  Cluster 1:
+PDB 4m0j_1_B - Resolution 2.05 A
+
+Superfamily e.1.1:
+  Cluster 3:
+PDB 1hle_1_A - Resolution 1.95 A
+  Cluster 4:
+PDB 1jmj_1_A - Resolution 2.35 A
+  Cluster 1:
+PDB 1ova_1_AB - Resolution 1.95 A
+  Cluster 2:
+PDB 4dy7_3_F - Resolution 2.8 A
+
+Superfamily f.17.3:
+  Cluster 2:
+PDB 2hn2_12_BC - Resolution 3.7 A
+PDB 2hn2_1_AB - Resolution 3.7 A
+PDB 2hn2_4_AE - Resolution 3.7 A
+PDB 2hn2_7_CD - Resolution 3.7 A
+  Cluster 3:
+PDB 2hn2_13_A - Resolution 3.7 A
+  Cluster 1:
+PDB 2hn2_2_AE - Resolution 3.7 A
+PDB 2hn2_3_DE - Resolution 3.7 A
+PDB 2hn2_5_AB - Resolution 3.7 A
+PDB 2hn2_6_CD - Resolution 3.7 A
+PDB 2hn2_8_BC - Resolution 3.7 A
+
+Superfamily d.15.12:
+  Cluster 1:
+PDB 3dhg_11_F - Resolution 1.85 A
+PDB 3dhg_7_C - Resolution 1.85 A
+  Cluster 2:
+PDB 3rmk_14_F - Resolution 1.95 A
+
+Superfamily g.32.1:
+  Cluster 2:
+PDB 6r2w_1_L - Resolution 1.25 A
+PDB 6r2w_2_L - Resolution 1.25 A
+  Cluster 1:
+PDB 6r2w_3_LT - Resolution 1.25 A
+  Cluster 3:
+PDB 2ec9_2_L - Resolution 2.0 A
+
+Superfamily c.42.1:
+  Cluster 2:
+PDB 1t64_1_A - Resolution 1.9 A
+  Cluster 1:
+PDB 1t64_4_B - Resolution 1.9 A
+PDB 1t64_7_A - Resolution 1.9 A
+
+Superfamily a.89.1:
+  Cluster 2:
+PDB 3sqg_1_AD - Resolution 2.1 A
+PDB 3sqg_4_G - Resolution 2.1 A
+  Cluster 4:
+PDB 5a8k_10_D - Resolution 1.41 A
+PDB 5a8k_17_A - Resolution 1.41 A
+PDB 5a8k_19_D - Resolution 1.41 A
+PDB 5a8k_1_D - Resolution 1.41 A
+PDB 5a8k_5_A - Resolution 1.41 A
+PDB 5a8k_7_E - Resolution 1.41 A
+  Cluster 3:
+PDB 5a8k_14_AC - Resolution 1.41 A
+PDB 5a8k_6_DF - Resolution 1.41 A
+  Cluster 1:
+PDB 5a8k_15_ACD - Resolution 1.41 A
+PDB 5a8k_4_ADF - Resolution 1.41 A
+  Cluster 5:
+PDB 5a8k_20_B - Resolution 1.41 A
+
+Superfamily d.26.1:
+  Cluster 1:
+PDB 4dz2_1_B - Resolution 2.0 A
+PDB 4dz2_2_A - Resolution 2.0 A
+PDB 4dz3_1_AB - Resolution 2.0 A
+PDB 4dz3_2_AB - Resolution 2.0 A
+
+Superfamily d.208.1:
+  Cluster 1:
+PDB 1j5u_1_A - Resolution 2.0 A
+
+Superfamily c.23.12:
+  Cluster 1:
+PDB 4u6s_1_A - Resolution 2.1 A
+
+Superfamily d.129.2:
+  Cluster 1:
+PDB 5jn5_1_B - Resolution 1.75 A
+PDB 5jn5_2_A - Resolution 1.75 A
+
+Superfamily b.68.6:
+  Cluster 4:
+PDB 1pjx_2_A - Resolution 0.85 A
+PDB 3o4p_1_A - Resolution 0.85 A
+  Cluster 2:
+PDB 1pjx_1_A - Resolution 0.85 A
+PDB 3o4p_2_A - Resolution 0.85 A
+  Cluster 3:
+PDB 3sre_1_A - Resolution 1.99 A
+  Cluster 1:
+PDB 2dg1_11_E - Resolution 1.72 A
+PDB 2dg1_1_CD - Resolution 1.72 A
+PDB 2dg1_3_F - Resolution 1.72 A
+PDB 2dg1_6_BF - Resolution 1.72 A
+PDB 2dg1_8_CD - Resolution 1.72 A
+PDB 2dg1_9_A - Resolution 1.72 A
+
+Superfamily j.69.1:
+
+Superfamily a.156.1:
+  Cluster 5:
+PDB 1mu5_1_A - Resolution 2.0 A
+  Cluster 1:
+PDB 1mu5_2_A - Resolution 2.0 A
+  Cluster 4:
+PDB 1q39_1_A - Resolution 2.8 A
+  Cluster 2:
+PDB 1q39_2_A - Resolution 2.8 A
+  Cluster 3:
+PDB 1q39_4_A - Resolution 2.8 A
+
+Superfamily d.243.1:
+  Cluster 1:
+PDB 2a8k_1_AD - Resolution 1.5 A
+PDB 2a8k_2_BC - Resolution 1.5 A
+
+Superfamily b.1.1:
+  Cluster 12:
+PDB 6c74_1_A - Resolution 1.358 A
+  Cluster 21:
+PDB 1nl0_1_GH - Resolution 2.2 A
+  Cluster 1:
+PDB 2adj_1_AB - Resolution 2.9 A
+  Cluster 4:
+PDB 3agv_1_BU - Resolution 2.15 A
+PDB 3agv_2_AS - Resolution 2.15 A
+  Cluster 5:
+PDB 3c6l_1_ACD - Resolution 3.4 A
+PDB 3c6l_2_EFGH - Resolution 3.4 A
+  Cluster 13:
+PDB 3fct_3_A - Resolution 2.4 A
+  Cluster 2:
+PDB 3i9g_3_HL - Resolution 1.9 A
+  Cluster 17:
+PDB 3l7f_1_ADL - Resolution 2.6 A
+  Cluster 3:
+PDB 3q3g_1_ABE - Resolution 2.7 A
+PDB 3q3g_2_JKL - Resolution 2.7 A
+PDB 3q3g_4_FHI - Resolution 2.7 A
+PDB 3q3g_5_CDG - Resolution 2.7 A
+  Cluster 18:
+PDB 3s35_2_HLX - Resolution 2.2 A
+  Cluster 20:
+PDB 3s35_6_HX - Resolution 2.2 A
+  Cluster 8:
+PDB 4lvn_3_AC - Resolution 2.25 A
+  Cluster 15:
+PDB 4m7z_1_CL - Resolution 2.75 A
+  Cluster 19:
+PDB 4zfg_1_AHL - Resolution 2.27 A
+  Cluster 16:
+PDB 5aze_1_HL - Resolution 2.2 A
+  Cluster 22:
+PDB 5d6c_1_AB - Resolution 1.72 A
+  Cluster 10:
+PDB 5jdj_2_AHKO - Resolution 1.738 A
+  Cluster 11:
+PDB 5jdj_5_BDN - Resolution 1.738 A
+  Cluster 14:
+PDB 5jym_4_AB - Resolution 2.45 A
+  Cluster 7:
+PDB 5ks9_3_GH - Resolution 2.55 A
+PDB 5ks9_4_EF - Resolution 2.55 A
+  Cluster 6:
+PDB 5th9_10_BI - Resolution 2.999 A
+PDB 5th9_11_AH - Resolution 2.999 A
+PDB 5th9_13_CJ - Resolution 2.999 A
+  Cluster 9:
+PDB 7deo_1_AB - Resolution 2.5 A
+PDB 7deo_2_CD - Resolution 2.5 A
+
+Superfamily a.126.1:
+  Cluster 3:
+PDB 4jk4_1_A - Resolution 2.653 A
+PDB 4jk4_5_B - Resolution 2.653 A
+  Cluster 2:
+PDB 4jk4_2_A - Resolution 2.653 A
+PDB 4jk4_3_B - Resolution 2.653 A
+  Cluster 1:
+PDB 4jk4_4_B - Resolution 2.653 A
+PDB 4jk4_6_A - Resolution 2.653 A
+
+Superfamily a.292.1:
+  Cluster 1:
+PDB 3mli_1_D - Resolution 2.9 A
+
+Superfamily b.103.1:
+  Cluster 1:
+PDB 6fgc_1_A - Resolution 1.5 A
+PDB 6fgd_2_A - Resolution 1.5 A
+
+Superfamily d.142.1:
+  Cluster 3:
+PDB 3rup_1_B - Resolution 1.99 A
+PDB 3rup_2_A - Resolution 1.99 A
+  Cluster 1:
+PDB 3r5x_2_B - Resolution 2.0 A
+  Cluster 4:
+PDB 3r5x_4_C - Resolution 2.0 A
+  Cluster 2:
+PDB 3r5x_6_D - Resolution 2.0 A
+
+Superfamily f.67.1:
+  Cluster 1:
+PDB 6n25_1_ADE - Resolution 2.7 A
+PDB 6n25_2_CDE - Resolution 2.7 A
+PDB 6n25_3_ABE - Resolution 2.7 A
+PDB 6n25_4_BCD - Resolution 2.7 A
+PDB 6n25_5_ABC - Resolution 2.7 A
+
+Superfamily b.45.1:
+  Cluster 1:
+PDB 4r82_1_A - Resolution 1.659 A
+PDB 4r82_4_B - Resolution 1.659 A
+  Cluster 2:
+PDB 4r82_2_AB - Resolution 1.659 A
+
+Superfamily b.7.1:
+  Cluster 2:
+PDB 1tjx_1_A - Resolution 1.04 A
+PDB 1uow_1_A - Resolution 1.04 A
+  Cluster 1:
+PDB 2zkm_1_X - Resolution 1.62 A
+  Cluster 3:
+PDB 1w15_3_A - Resolution 1.93 A
+  Cluster 4:
+PDB 1w15_4_A - Resolution 1.93 A
+  Cluster 5:
+PDB 4lt7_1_A - Resolution 2.5 A
+
+Superfamily e.3.1:
+  Cluster 9:
+PDB 4op5_1_A - Resolution 1.05 A
+  Cluster 1:
+PDB 1jtg_1_CD - Resolution 1.73 A
+PDB 1jtg_2_AB - Resolution 1.73 A
+  Cluster 2:
+PDB 1k6s_1_AB - Resolution 2.03 A
+PDB 1k6s_3_AB - Resolution 2.03 A
+  Cluster 18:
+PDB 1k6s_2_A - Resolution 2.03 A
+  Cluster 10:
+PDB 1w5d_2_A - Resolution 2.1 A
+  Cluster 14:
+PDB 1w5d_3_A - Resolution 2.1 A
+  Cluster 13:
+PDB 3lez_3_A - Resolution 1.25 A
+  Cluster 8:
+PDB 3lez_4_A - Resolution 1.25 A
+  Cluster 17:
+PDB 3lez_5_A - Resolution 1.25 A
+  Cluster 19:
+PDB 3lez_6_A - Resolution 1.25 A
+  Cluster 3:
+PDB 3wrz_10_AB - Resolution 1.8 A
+PDB 3ws1_8_AB - Resolution 1.8 A
+  Cluster 6:
+PDB 3wrz_11_B - Resolution 1.8 A
+PDB 3wrz_3_A - Resolution 1.8 A
+PDB 3wrz_6_AC - Resolution 1.8 A
+PDB 3ws1_3_A - Resolution 1.8 A
+PDB 3ws1_6_B - Resolution 1.8 A
+PDB 3ws1_9_C - Resolution 1.8 A
+  Cluster 5:
+PDB 3wrz_2_AC - Resolution 1.8 A
+PDB 3wrz_5_AB - Resolution 1.8 A
+PDB 3ws1_4_AB - Resolution 1.8 A
+  Cluster 11:
+PDB 5e2f_1_A - Resolution 1.3 A
+  Cluster 15:
+PDB 5e2f_2_B - Resolution 1.3 A
+  Cluster 12:
+PDB 5e2f_3_A - Resolution 1.3 A
+  Cluster 7:
+PDB 6p96_2_A - Resolution 1.6 A
+  Cluster 4:
+PDB 6p97_4_A - Resolution 1.8 A
+  Cluster 16:
+PDB 6p98_3_A - Resolution 1.75 A
+
+Superfamily b.2.2:
+  Cluster 1:
+PDB 3zuc_1_A - Resolution 1.001 A
+  Cluster 2:
+PDB 5gxx_1_A - Resolution 1.5 A
+PDB 5gxx_4_B - Resolution 1.5 A
+  Cluster 3:
+PDB 4uyp_3_ABC - Resolution 1.49 A
+PDB 4uyp_4_ACD - Resolution 1.49 A
+  Cluster 4:
+PDB 4uyq_3_A - Resolution 1.81 A
+
+Superfamily d.122.1:
+  Cluster 5:
+PDB 1mu5_1_A - Resolution 2.0 A
+  Cluster 1:
+PDB 1mu5_2_A - Resolution 2.0 A
+  Cluster 6:
+PDB 4bae_1_D - Resolution 2.35 A
+  Cluster 3:
+PDB 4bae_2_C - Resolution 2.35 A
+  Cluster 7:
+PDB 4bae_3_A - Resolution 2.35 A
+  Cluster 4:
+PDB 6tck_1_B - Resolution 1.6 A
+  Cluster 2:
+PDB 6ttg_1_A - Resolution 1.7 A
+
+Superfamily e.76.1:
+  Cluster 1:
+PDB 5i2m_1_C - Resolution 2.4 A
+  Cluster 2:
+PDB 6tit_1_A - Resolution 2.07 A
+
+Superfamily a.104.1:
+  Cluster 4:
+PDB 2wm4_2_A - Resolution 2.11 A
+  Cluster 2:
+PDB 3a51_10_E - Resolution 2.0 A
+PDB 3a51_1_D - Resolution 2.0 A
+PDB 3a51_5_C - Resolution 2.0 A
+PDB 3a51_7_A - Resolution 2.0 A
+  Cluster 3:
+PDB 5tl8_1_A - Resolution 1.71 A
+  Cluster 1:
+PDB 3a51_9_AD - Resolution 2.0 A
+  Cluster 5:
+PDB 5tl8_3_A - Resolution 1.71 A
+
+Superfamily b.40.5:
+  Cluster 5:
+PDB 1i40_2_A - Resolution 1.1 A
+  Cluster 1:
+PDB 1i40_3_A - Resolution 1.1 A
+  Cluster 4:
+PDB 1i40_4_A - Resolution 1.1 A
+  Cluster 2:
+PDB 4z72_2_A - Resolution 2.352 A
+  Cluster 3:
+PDB 4z72_3_A - Resolution 2.352 A
+
+Superfamily a.245.1:
+  Cluster 1:
+PDB 5jv3_1_D - Resolution 2.006 A
+
+Superfamily b.3.1:
+  Cluster 5:
+PDB 3bmv_1_A - Resolution 1.6 A
+PDB 3bmw_2_A - Resolution 1.6 A
+  Cluster 9:
+PDB 3bmv_2_A - Resolution 1.6 A
+PDB 3bmw_1_A - Resolution 1.6 A
+  Cluster 12:
+PDB 1vem_1_A - Resolution 1.85 A
+  Cluster 6:
+PDB 1d3c_2_A - Resolution 1.78 A
+  Cluster 1:
+PDB 1nkg_1_A - Resolution 1.5 A
+  Cluster 3:
+PDB 1qho_3_A - Resolution 1.7 A
+PDB 1qhp_3_A - Resolution 1.7 A
+  Cluster 10:
+PDB 2fhf_4_A - Resolution 1.65 A
+  Cluster 2:
+PDB 2fhf_5_A - Resolution 1.65 A
+  Cluster 8:
+PDB 2fhf_3_A - Resolution 1.65 A
+  Cluster 7:
+PDB 2fhf_1_A - Resolution 1.65 A
+  Cluster 4:
+PDB 2fhf_2_A - Resolution 1.65 A
+  Cluster 11:
+PDB 4jcl_1_A - Resolution 1.7 A
+  Cluster 13:
+PDB 4jcl_4_A - Resolution 1.7 A
+  Cluster 14:
+PDB 4jcm_7_A - Resolution 1.65 A
+
+Superfamily f.1.4:
+  Cluster 1:
+PDB 4cin_1_A - Resolution 2.693 A
+  Cluster 2:
+PDB 4cin_2_B - Resolution 2.693 A
+
+Superfamily f.4.7:
+  Cluster 1:
+PDB 5dl7_1_A - Resolution 1.75 A
+PDB 5dl7_4_A - Resolution 1.75 A
+  Cluster 5:
+PDB 5dl7_2_A - Resolution 1.75 A
+  Cluster 4:
+PDB 5dl7_3_A - Resolution 1.75 A
+  Cluster 3:
+PDB 5dl8_1_B - Resolution 2.2 A
+PDB 5dl8_3_A - Resolution 2.2 A
+  Cluster 2:
+PDB 5dl8_2_B - Resolution 2.2 A
+PDB 5dl8_4_A - Resolution 2.2 A
+
+Superfamily f.4.3:
+  Cluster 2:
+PDB 1a0s_1_P - Resolution 2.4 A
+PDB 1a0s_2_Q - Resolution 2.4 A
+PDB 1a0s_3_R - Resolution 2.4 A
+PDB 1a0t_1_Q - Resolution 2.4 A
+PDB 1a0t_2_R - Resolution 2.4 A
+PDB 1a0t_3_P - Resolution 2.4 A
+PDB 1oh2_1_Q - Resolution 2.4 A
+PDB 1oh2_2_P - Resolution 2.4 A
+PDB 1oh2_3_R - Resolution 2.4 A
+  Cluster 3:
+PDB 2fgq_3_X - Resolution 1.45 A
+  Cluster 1:
+PDB 2mpr_1_ABC - Resolution 2.4 A
+  Cluster 5:
+PDB 2gsk_2_A - Resolution 2.1 A
+  Cluster 6:
+PDB 1nqh_1_A - Resolution 3.1 A
+  Cluster 4:
+PDB 2fgq_1_X - Resolution 1.45 A
+  Cluster 7:
+PDB 2fgq_2_X - Resolution 1.45 A
+  Cluster 8:
+PDB 2fgr_3_A - Resolution 1.5 A
+  Cluster 12:
+PDB 2por_1_A - Resolution 1.8 A
+  Cluster 11:
+PDB 2por_2_A - Resolution 1.8 A
+  Cluster 13:
+PDB 2por_3_A - Resolution 1.8 A
+  Cluster 10:
+PDB 3m8d_2_A - Resolution 2.44 A
+  Cluster 9:
+PDB 3pgs_1_A - Resolution 1.9 A
+
+Superfamily h.1.32:
+  Cluster 1:
+PDB 2gtl_11_FN - Resolution 3.5 A
+PDB 2gtl_12_BM - Resolution 3.5 A
+PDB 2gtl_2_JO - Resolution 3.5 A
+  Cluster 2:
+PDB 2gtl_1_AFGM - Resolution 3.5 A
+
+Superfamily e.79.1:
+  Cluster 1:
+PDB 3god_3_B - Resolution 2.17 A
+PDB 3god_4_A - Resolution 2.17 A
+
+Superfamily g.39.1:
+  Cluster 1:
+PDB 1q39_1_A - Resolution 2.8 A
+  Cluster 3:
+PDB 1q39_2_A - Resolution 2.8 A
+  Cluster 4:
+PDB 1q39_4_A - Resolution 2.8 A
+  Cluster 2:
+PDB 2ds5_3_B - Resolution 1.5 A
+
+Superfamily f.4.1:
+  Cluster 2:
+PDB 5b5e_51_BMO - Resolution 1.87 A
+  Cluster 3:
+PDB 5b66_26_O - Resolution 1.85 A
+
+Superfamily a.86.1:
+  Cluster 1:
+PDB 1nol_2_A - Resolution 2.4 A
+
+Superfamily d.92.1:
+  Cluster 16:
+PDB 1y93_2_A - Resolution 1.03 A
+PDB 1y93_4_A - Resolution 1.03 A
+  Cluster 13:
+PDB 5d7w_1_A - Resolution 1.1 A
+PDB 5d7w_4_A - Resolution 1.1 A
+  Cluster 10:
+PDB 1kap_4_P - Resolution 1.64 A
+  Cluster 8:
+PDB 1c7k_2_A - Resolution 1.0 A
+  Cluster 6:
+PDB 5jvi_1_E - Resolution 1.12 A
+  Cluster 9:
+PDB 1g9k_5_A - Resolution 1.96 A
+  Cluster 5:
+PDB 2ovx_2_B - Resolution 2.0 A
+PDB 2ovx_3_A - Resolution 2.0 A
+PDB 2ovz_10_B - Resolution 2.0 A
+PDB 2ovz_3_A - Resolution 2.0 A
+  Cluster 15:
+PDB 1s0e_2_A - Resolution 1.9 A
+  Cluster 19:
+PDB 1utt_1_A - Resolution 2.2 A
+  Cluster 25:
+PDB 2a7g_6_E - Resolution 1.85 A
+  Cluster 2:
+PDB 2ddf_2_A - Resolution 1.7 A
+  Cluster 20:
+PDB 2np0_1_A - Resolution 2.62 A
+  Cluster 24:
+PDB 2nyy_1_A - Resolution 2.61 A
+  Cluster 3:
+PDB 4wk7_2_A - Resolution 1.24 A
+  Cluster 17:
+PDB 3deb_2_A - Resolution 1.95 A
+  Cluster 22:
+PDB 3e11_1_AB - Resolution 1.8 A
+  Cluster 21:
+PDB 3zuk_2_B - Resolution 2.6 A
+  Cluster 1:
+PDB 5am9_3_C - Resolution 1.8 A
+PDB 5am9_4_B - Resolution 1.8 A
+  Cluster 14:
+PDB 6tt3_1_B - Resolution 1.7 A
+PDB 6tt3_2_A - Resolution 1.7 A
+  Cluster 7:
+PDB 6zpq_11_D - Resolution 1.85 A
+PDB 6zpq_12_A - Resolution 1.85 A
+PDB 6zpq_5_B - Resolution 1.85 A
+PDB 6zpq_9_C - Resolution 1.85 A
+
+Superfamily c.1.7:
+  Cluster 3:
+PDB 2clp_2_G - Resolution 3.0 A
+  Cluster 1:
+PDB 3b3d_2_B - Resolution 2.3 A
+  Cluster 2:
+PDB 3b3d_3_C - Resolution 2.3 A
+  Cluster 4:
+PDB 3b3d_4_A - Resolution 2.3 A
+
+Superfamily b.12.1:
+  Cluster 5:
+PDB 1gpl_1_A - Resolution 2.01 A
+  Cluster 2:
+PDB 1olp_10_BC - Resolution 2.5 A
+PDB 1olp_14_A - Resolution 2.5 A
+PDB 1olp_4_B - Resolution 2.5 A
+  Cluster 4:
+PDB 1olp_11_CD - Resolution 2.5 A
+  Cluster 1:
+PDB 2wxu_7_A - Resolution 1.8 A
+  Cluster 3:
+PDB 2wxu_3_A - Resolution 1.8 A
+PDB 2wxu_8_A - Resolution 1.8 A
+  Cluster 6:
+PDB 1w52_2_X - Resolution 2.99 A
+  Cluster 7:
+PDB 2ppl_4_A - Resolution 2.2 A
+
+Superfamily a.139.1:
+  Cluster 3:
+PDB 5nrm_1_B - Resolution 1.4 A
+PDB 5nrm_3_B - Resolution 1.4 A
+  Cluster 4:
+PDB 5nrm_2_B - Resolution 1.4 A
+
+Superfamily c.52.1:
+  Cluster 6:
+PDB 1j24_1_A - Resolution 1.78 A
+  Cluster 2:
+PDB 1dfm_1_ABCD - Resolution 1.5 A
+PDB 1dfm_2_ABCD - Resolution 1.5 A
+  Cluster 10:
+PDB 1dmu_1_AF - Resolution 2.2 A
+  Cluster 8:
+PDB 1dmu_3_A - Resolution 2.2 A
+  Cluster 5:
+PDB 1f0o_1_ABCD - Resolution 2.5 A
+PDB 1f0o_2_ABCD - Resolution 2.5 A
+  Cluster 7:
+PDB 1tw8_5_BEF - Resolution 2.8 A
+  Cluster 1:
+PDB 2pfj_1_ABYZ - Resolution 3.1 A
+PDB 2pfj_2_ABYZ - Resolution 3.1 A
+  Cluster 4:
+PDB 3slp_1_A - Resolution 2.3 A
+PDB 3slp_2_C - Resolution 2.3 A
+PDB 3slp_3_BE - Resolution 2.3 A
+  Cluster 3:
+PDB 3v20_1_AC - Resolution 2.35 A
+PDB 3v20_2_BD - Resolution 2.35 A
+  Cluster 9:
+PDB 4m5v_1_A - Resolution 1.8 A
+
+Superfamily g.16.2:
+  Cluster 1:
+PDB 1tye_1_AB - Resolution 2.9 A
+PDB 1tye_5_EF - Resolution 2.9 A
+PDB 1tye_7_CD - Resolution 2.9 A
+  Cluster 2:
+PDB 1u8c_5_B - Resolution 3.1 A
+
+Superfamily c.1.30:
+  Cluster 1:
+PDB 1x8c_1_B - Resolution 2.1 A
+
+Superfamily a.22.1:
+  Cluster 1:
+PDB 1wws_1_CD - Resolution 1.9 A
+PDB 1wws_2_GH - Resolution 1.9 A
+PDB 1wws_3_EF - Resolution 1.9 A
+PDB 1wws_5_AB - Resolution 1.9 A
+  Cluster 2:
+PDB 1wws_6_AB - Resolution 1.9 A
+
+Superfamily b.85.4:
+  Cluster 1:
+PDB 2xce_1_DEF - Resolution 1.85 A
+PDB 2xce_7_ABC - Resolution 1.85 A
+  Cluster 2:
+PDB 2xce_2_AB - Resolution 1.85 A
+PDB 2xce_3_DE - Resolution 1.85 A
+PDB 2xce_4_EF - Resolution 1.85 A
+PDB 2xce_5_BCF - Resolution 1.85 A
+PDB 2xce_6_AC - Resolution 1.85 A
+PDB 2xce_8_BDF - Resolution 1.85 A
+
+Superfamily b.33.1:
+  Cluster 1:
+PDB 1g8k_15_CD - Resolution 1.64 A
+PDB 1g8k_24_AB - Resolution 1.64 A
+PDB 1g8k_32_EF - Resolution 1.64 A
+PDB 1g8k_6_GH - Resolution 1.64 A
+  Cluster 2:
+PDB 3fou_10_A - Resolution 2.1 A
+PDB 3fou_9_B - Resolution 2.1 A
+
+Superfamily a.96.1:
+  Cluster 1:
+PDB 2noh_2_ABC - Resolution 2.01 A
+  Cluster 3:
+PDB 1lwv_1_AE - Resolution 2.3 A
+  Cluster 6:
+PDB 1lww_1_AE - Resolution 2.1 A
+  Cluster 7:
+PDB 1n39_1_AC - Resolution 2.2 A
+  Cluster 8:
+PDB 1n3a_1_AC - Resolution 2.2 A
+  Cluster 4:
+PDB 3g0q_2_AC - Resolution 2.2 A
+  Cluster 5:
+PDB 2xhi_1_ABC - Resolution 1.55 A
+  Cluster 2:
+PDB 2xhi_2_ABC - Resolution 1.55 A
+  Cluster 9:
+PDB 2i5w_2_A - Resolution 2.6 A
+
+Superfamily d.54.1:
+  Cluster 1:
+PDB 4hpn_1_A - Resolution 1.6 A
+PDB 4hpn_2_A - Resolution 1.6 A
+
+Superfamily d.151.1:
+  Cluster 3:
+PDB 2a40_2_E - Resolution 1.8 A
+PDB 2a40_6_B - Resolution 1.8 A
+PDB 3w3d_2_B - Resolution 1.8 A
+  Cluster 1:
+PDB 4awn_1_A - Resolution 1.95 A
+  Cluster 7:
+PDB 1atn_4_D - Resolution 2.8 A
+  Cluster 5:
+PDB 2ddr_1_A - Resolution 1.4 A
+PDB 2ddr_3_B - Resolution 1.4 A
+PDB 2ddr_5_C - Resolution 1.4 A
+PDB 2ddr_6_D - Resolution 1.4 A
+  Cluster 2:
+PDB 2ddr_2_B - Resolution 1.4 A
+PDB 2ddr_4_A - Resolution 1.4 A
+PDB 2ddr_7_D - Resolution 1.4 A
+PDB 2ddr_8_C - Resolution 1.4 A
+  Cluster 4:
+PDB 5cfe_2_A - Resolution 1.84 A
+  Cluster 6:
+PDB 5cfe_3_A - Resolution 1.84 A
+
+Superfamily c.30.1:
+  Cluster 3:
+PDB 3rup_1_B - Resolution 1.99 A
+PDB 3rup_2_A - Resolution 1.99 A
+  Cluster 1:
+PDB 3r5x_2_B - Resolution 2.0 A
+  Cluster 4:
+PDB 3r5x_4_C - Resolution 2.0 A
+  Cluster 2:
+PDB 3r5x_6_D - Resolution 2.0 A
+
+Superfamily c.97.1:
+  Cluster 1:
+PDB 1p6o_4_B - Resolution 1.14 A
+  Cluster 2:
+PDB 1p6o_3_AB - Resolution 1.14 A
+
+Superfamily d.15.1:
+  Cluster 1:
+PDB 4pih_1_B - Resolution 1.5 A
+PDB 4pih_2_A - Resolution 1.5 A
+PDB 4pih_3_B - Resolution 1.5 A
+  Cluster 2:
+PDB 4ii3_12_AB - Resolution 2.9 A
+
+Superfamily c.47.1:
+  Cluster 8:
+PDB 4hoj_1_A - Resolution 1.4 A
+PDB 4hoj_2_A - Resolution 1.4 A
+  Cluster 10:
+PDB 1px7_1_B - Resolution 2.03 A
+  Cluster 13:
+PDB 1xzo_12_A - Resolution 1.702 A
+  Cluster 1:
+PDB 1xzo_15_B - Resolution 1.702 A
+  Cluster 15:
+PDB 1xzo_2_A - Resolution 1.702 A
+  Cluster 16:
+PDB 1xzo_4_AB - Resolution 1.702 A
+  Cluster 6:
+PDB 2a2r_1_B - Resolution 1.4 A
+  Cluster 9:
+PDB 2p5r_1_A - Resolution 2.45 A
+  Cluster 12:
+PDB 2p5r_2_A - Resolution 2.45 A
+  Cluster 2:
+PDB 2p5r_3_AB - Resolution 2.45 A
+  Cluster 4:
+PDB 5djl_3_B - Resolution 1.8 A
+  Cluster 7:
+PDB 3us3_2_A - Resolution 1.738 A
+  Cluster 3:
+PDB 3us3_4_A - Resolution 1.738 A
+  Cluster 11:
+PDB 4k0g_1_A - Resolution 1.4 A
+  Cluster 5:
+PDB 5e4w_1_AD - Resolution 2.8 A
+PDB 5e4w_2_BC - Resolution 2.8 A
+  Cluster 14:
+PDB 6khx_1_FI - Resolution 2.58 A
+
+Superfamily b.23.1:
+  Cluster 1:
+PDB 1nzi_1_AB - Resolution 1.5 A
+PDB 1nzi_2_AB - Resolution 1.5 A
+  Cluster 2:
+PDB 2qqm_1_A - Resolution 2.0 A
+
+Superfamily d.38.1:
+  Cluster 4:
+PDB 1y7u_1_A - Resolution 2.8 A
+  Cluster 3:
+PDB 1yli_1_A - Resolution 1.95 A
+  Cluster 1:
+PDB 1yli_3_AB - Resolution 1.95 A
+  Cluster 6:
+PDB 1yli_4_B - Resolution 1.95 A
+  Cluster 5:
+PDB 2ess_1_A - Resolution 1.9 A
+  Cluster 2:
+PDB 2gf6_1_ABC - Resolution 1.91 A
+
+Superfamily e.18.1:
+  Cluster 4:
+PDB 4kn9_11_MT - Resolution 1.4 A
+PDB 4kn9_13_LS - Resolution 1.4 A
+  Cluster 2:
+PDB 4kn9_10_L - Resolution 1.4 A
+PDB 4kn9_8_M - Resolution 1.4 A
+  Cluster 1:
+PDB 4kl8_12_MT - Resolution 1.52 A
+  Cluster 3:
+PDB 4ko2_15_MS - Resolution 1.6 A
+  Cluster 5:
+PDB 4upe_12_BR - Resolution 1.8 A
+
+Superfamily d.153.1:
+  Cluster 3:
+PDB 1gk9_1_AB - Resolution 1.3 A
+  Cluster 4:
+PDB 1jn9_1_AB - Resolution 2.3 A
+  Cluster 5:
+PDB 1jn9_3_A - Resolution 2.3 A
+  Cluster 6:
+PDB 1jn9_4_A - Resolution 2.3 A
+  Cluster 1:
+PDB 2dg5_1_ABC - Resolution 1.6 A
+PDB 2dg5_2_ACD - Resolution 1.6 A
+  Cluster 2:
+PDB 4e56_1_A - Resolution 2.2 A
+PDB 4e56_2_AB - Resolution 2.2 A
+
+Superfamily e.23.1:
+  Cluster 2:
+PDB 1t5h_1_X - Resolution 2.002 A
+  Cluster 12:
+PDB 3fce_1_A - Resolution 1.9 A
+  Cluster 1:
+PDB 3o83_1_A - Resolution 1.9 A
+PDB 3o83_3_B - Resolution 1.9 A
+  Cluster 6:
+PDB 3o83_2_B - Resolution 1.9 A
+PDB 3o83_5_A - Resolution 1.9 A
+  Cluster 8:
+PDB 3o83_4_B - Resolution 1.9 A
+  Cluster 3:
+PDB 3u16_2_B - Resolution 2.1 A
+PDB 3u16_5_A - Resolution 2.1 A
+PDB 3u17_4_A - Resolution 2.1 A
+PDB 3u17_5_B - Resolution 2.1 A
+  Cluster 10:
+PDB 5buq_1_B - Resolution 1.98 A
+  Cluster 5:
+PDB 5u95_1_AB - Resolution 2.25 A
+PDB 5u95_5_D - Resolution 2.25 A
+  Cluster 4:
+PDB 5u95_2_B - Resolution 2.25 A
+PDB 5u95_3_BC - Resolution 2.25 A
+PDB 5u95_4_AD - Resolution 2.25 A
+  Cluster 9:
+PDB 5x8f_13_B - Resolution 1.763 A
+  Cluster 7:
+PDB 5x8f_39_A - Resolution 1.763 A
+  Cluster 11:
+PDB 5x8f_47_AC - Resolution 1.763 A
+
+Superfamily b.69.13:
+  Cluster 1:
+PDB 2cn3_1_B - Resolution 1.95 A
+PDB 2cn3_2_A - Resolution 1.95 A
+  Cluster 2:
+PDB 5jwz_1_B - Resolution 1.695 A
+PDB 5jwz_3_A - Resolution 1.695 A
+  Cluster 3:
+PDB 5jwz_2_A - Resolution 1.695 A
+
+Superfamily d.79.3:
+  Cluster 1:
+PDB 1sds_2_CF - Resolution 1.8 A
+PDB 1sds_5_AD - Resolution 1.8 A
+PDB 1sds_6_BE - Resolution 1.8 A
+PDB 1sds_8_CF - Resolution 1.8 A
+  Cluster 2:
+PDB 2ozb_1_A - Resolution 2.6 A
+
+Superfamily d.58.61:
+  Cluster 1:
+PDB 2raq_10_EFG - Resolution 3.11 A
+PDB 2raq_11_CDE - Resolution 3.11 A
+PDB 2raq_14_BCD - Resolution 3.11 A
+PDB 2raq_2_ABG - Resolution 3.11 A
+PDB 2raq_3_ABC - Resolution 3.11 A
+PDB 2raq_4_AFG - Resolution 3.11 A
+PDB 2raq_8_DEF - Resolution 3.11 A
+  Cluster 3:
+PDB 2raq_12_E - Resolution 3.11 A
+PDB 2raq_7_B - Resolution 3.11 A
+PDB 2raq_9_A - Resolution 3.11 A
+  Cluster 2:
+PDB 2raq_13_DE - Resolution 3.11 A
+PDB 2raq_1_AB - Resolution 3.11 A
+PDB 2raq_5_AG - Resolution 3.11 A
+PDB 2raq_6_EF - Resolution 3.11 A
+
+Superfamily a.7.12:
+  Cluster 1:
+PDB 2bko_1_A - Resolution 1.9 A
+PDB 2bko_4_A - Resolution 1.9 A
+  Cluster 4:
+PDB 2bko_2_A - Resolution 1.9 A
+  Cluster 2:
+PDB 2bko_3_A - Resolution 1.9 A
+  Cluster 3:
+PDB 2bko_5_A - Resolution 1.9 A
+
+Superfamily b.122.1:
+  Cluster 1:
+PDB 1g8f_5_A - Resolution 1.95 A
+  Cluster 3:
+PDB 1g8f_7_A - Resolution 1.95 A
+  Cluster 2:
+PDB 1g8f_8_A - Resolution 1.95 A
+  Cluster 4:
+PDB 2hd9_1_A - Resolution 1.35 A
+
+Superfamily c.1.18:
+  Cluster 2:
+PDB 1djx_2_B - Resolution 2.3 A
+PDB 1djx_3_A - Resolution 2.3 A
+  Cluster 4:
+PDB 5t9c_2_E - Resolution 1.48 A
+  Cluster 3:
+PDB 1t6m_1_A - Resolution 2.107 A
+PDB 1t6m_4_B - Resolution 2.107 A
+  Cluster 1:
+PDB 1t6m_2_A - Resolution 2.107 A
+PDB 1t6m_3_B - Resolution 2.107 A
+
+Superfamily c.8.4:
+  Cluster 1:
+PDB 5o5t_2_A - Resolution 1.43 A
+
+Superfamily f.23.37:
+  Cluster 1:
+PDB 5ws6_70_CI - Resolution 2.35 A
+
+Superfamily b.61.1:
+  Cluster 1:
+PDB 4cpi_1_AC - Resolution 1.54 A
+PDB 4cpi_2_D - Resolution 1.54 A
+
+Superfamily d.58.31:
+  Cluster 2:
+PDB 3sqg_1_AD - Resolution 2.1 A
+PDB 3sqg_4_G - Resolution 2.1 A
+  Cluster 4:
+PDB 5a8k_10_D - Resolution 1.41 A
+PDB 5a8k_17_A - Resolution 1.41 A
+PDB 5a8k_19_D - Resolution 1.41 A
+PDB 5a8k_1_D - Resolution 1.41 A
+PDB 5a8k_5_A - Resolution 1.41 A
+PDB 5a8k_7_E - Resolution 1.41 A
+  Cluster 3:
+PDB 5a8k_14_AC - Resolution 1.41 A
+PDB 5a8k_6_DF - Resolution 1.41 A
+  Cluster 1:
+PDB 5a8k_15_ACD - Resolution 1.41 A
+PDB 5a8k_4_ADF - Resolution 1.41 A
+  Cluster 5:
+PDB 5a8k_20_B - Resolution 1.41 A
+  Cluster 6:
+PDB 5a8k_8_F - Resolution 1.41 A
+
+Superfamily b.69.1:
+  Cluster 2:
+PDB 1k3i_1_A - Resolution 1.4 A
+  Cluster 1:
+PDB 6xlr_2_A - Resolution 1.23 A
+
+Superfamily d.32.1:
+  Cluster 3:
+PDB 1ecs_1_A - Resolution 1.7 A
+  Cluster 2:
+PDB 4ghg_1_B - Resolution 1.5 A
+  Cluster 4:
+PDB 2wl3_4_AC - Resolution 2.2 A
+  Cluster 1:
+PDB 5zsx_1_A - Resolution 2.2 A
+
+Superfamily d.200.1:
+  Cluster 1:
+PDB 1jv2_3_B - Resolution 3.1 A
+PDB 1u8c_5_B - Resolution 3.1 A
+
+Superfamily a.46.3:
+  Cluster 1:
+PDB 2g42_1_B - Resolution 2.28 A
+
+Superfamily c.72.3:
+  Cluster 1:
+PDB 1u7w_1_AB - Resolution 2.5 A
+PDB 1u7w_2_AB - Resolution 2.5 A
+PDB 1u7w_3_C - Resolution 2.5 A
+
+Superfamily c.84.1:
+  Cluster 1:
+PDB 5jn5_1_B - Resolution 1.75 A
+PDB 5jn5_2_A - Resolution 1.75 A
+
+Superfamily b.82.7:
+  Cluster 1:
+PDB 1su4_1_A - Resolution 2.4 A
+PDB 2zbd_1_A - Resolution 2.4 A
+  Cluster 2:
+PDB 3ar2_1_A - Resolution 2.5 A
+
+Superfamily c.124.1:
+  Cluster 1:
+PDB 3nze_1_B - Resolution 1.697 A
+  Cluster 2:
+PDB 3nze_2_B - Resolution 1.697 A
+
+Superfamily d.159.1:
+  Cluster 5:
+PDB 4f0z_4_AB - Resolution 1.7 A
+  Cluster 1:
+PDB 1uf3_10_CD - Resolution 2.1 A
+PDB 1uf3_12_AB - Resolution 2.1 A
+PDB 1uf3_5_EF - Resolution 2.1 A
+PDB 1uf3_6_GH - Resolution 2.1 A
+  Cluster 2:
+PDB 1uf3_11_H - Resolution 2.1 A
+PDB 1uf3_13_D - Resolution 2.1 A
+PDB 1uf3_1_A - Resolution 2.1 A
+PDB 1uf3_2_B - Resolution 2.1 A
+PDB 1uf3_3_E - Resolution 2.1 A
+PDB 1uf3_4_G - Resolution 2.1 A
+PDB 1uf3_7_C - Resolution 2.1 A
+PDB 1uf3_9_F - Resolution 2.1 A
+  Cluster 3:
+PDB 1uf3_14_AF - Resolution 2.1 A
+PDB 1uf3_8_DG - Resolution 2.1 A
+  Cluster 4:
+PDB 4or9_5_AB - Resolution 2.23 A
+
+Superfamily f.23.35:
+  Cluster 1:
+PDB 5b66_39_bm - Resolution 1.85 A
+
+Superfamily b.19.1:
+  Cluster 2:
+PDB 1qhd_1_A - Resolution 1.95 A
+  Cluster 4:
+PDB 1qhd_3_A - Resolution 1.95 A
+  Cluster 5:
+PDB 1qhd_4_A - Resolution 1.95 A
+  Cluster 7:
+PDB 1qhd_5_A - Resolution 1.95 A
+  Cluster 6:
+PDB 1qhd_6_A - Resolution 1.95 A
+  Cluster 3:
+PDB 4ln6_1_I - Resolution 2.12 A
+PDB 4ln6_2_E - Resolution 2.12 A
+PDB 4ln6_3_AK - Resolution 2.12 A
+PDB 4ln6_4_C - Resolution 2.12 A
+PDB 4ln6_5_EG - Resolution 2.12 A
+PDB 4ln6_6_A - Resolution 2.12 A
+  Cluster 1:
+PDB 6twi_1_BEF - Resolution 2.27 A
+PDB 6twi_2_ABD - Resolution 2.27 A
+PDB 6twi_3_CDEF - Resolution 2.27 A
+
+Superfamily a.48.2:
+  Cluster 1:
+PDB 5o5t_2_A - Resolution 1.43 A
+
+Superfamily b.43.4:
+  Cluster 2:
+PDB 3fpk_3_B - Resolution 1.7 A
+  Cluster 1:
+PDB 3qe2_1_A - Resolution 1.75 A
+
+Superfamily b.68.10:
+  Cluster 1:
+PDB 3uc1_1_A - Resolution 1.65 A
+
+Superfamily b.67.3:
+  Cluster 1:
+PDB 1s1d_1_B - Resolution 1.6 A
+PDB 1s1d_2_A - Resolution 1.6 A
+
+Superfamily b.81.1:
+  Cluster 2:
+PDB 1v3w_3_A - Resolution 1.5 A
+PDB 1v3w_4_A - Resolution 1.5 A
+  Cluster 5:
+PDB 1hm0_6_B - Resolution 2.3 A
+  Cluster 1:
+PDB 1hm9_2_B - Resolution 1.75 A
+PDB 1hm9_3_A - Resolution 1.75 A
+  Cluster 3:
+PDB 1v3w_1_A - Resolution 1.5 A
+  Cluster 4:
+PDB 3ect_1_A - Resolution 2.51 A
+  Cluster 6:
+PDB 4r37_3_AB - Resolution 1.9 A
+
+Superfamily c.93.1:
+  Cluster 1:
+PDB 2fvy_1_A - Resolution 0.92 A
+  Cluster 4:
+PDB 1jx6_1_A - Resolution 1.5 A
+PDB 4wut_1_A - Resolution 1.5 A
+PDB 4wut_2_A - Resolution 1.5 A
+  Cluster 3:
+PDB 5c5c_1_A - Resolution 1.862 A
+  Cluster 6:
+PDB 3ip7_1_A - Resolution 1.7 A
+  Cluster 2:
+PDB 4q6b_3_A - Resolution 1.667 A
+  Cluster 9:
+PDB 4q6b_1_A - Resolution 1.667 A
+  Cluster 5:
+PDB 4yp9_2_B - Resolution 2.7 A
+  Cluster 8:
+PDB 5c5c_2_A - Resolution 1.862 A
+  Cluster 7:
+PDB 5kc8_2_A - Resolution 1.751 A
+
+Superfamily c.78.1:
+  Cluster 1:
+PDB 3csu_1_B - Resolution 1.88 A
+  Cluster 2:
+PDB 1ekx_2_C - Resolution 1.95 A
+  Cluster 3:
+PDB 3csu_2_C - Resolution 1.88 A
+  Cluster 4:
+PDB 5vmq_1_C - Resolution 2.012 A
+
+Superfamily a.83.1:
+  Cluster 1:
+PDB 1qh4_1_D - Resolution 1.41 A
+
+Superfamily c.1.33:
+  Cluster 1:
+PDB 2w27_1_B - Resolution 2.8 A
+PDB 2w27_2_A - Resolution 2.8 A
+
+Superfamily a.30.1:
+  Cluster 2:
+PDB 1f4n_2_A - Resolution 1.9 A
+  Cluster 1:
+PDB 1f4n_3_B - Resolution 1.9 A
+  Cluster 3:
+PDB 1f4n_1_A - Resolution 1.9 A
+
+Superfamily f.68.1:
+  Cluster 1:
+PDB 4wis_2_A - Resolution 3.3 A
+
+Superfamily d.113.1:
+  Cluster 1:
+PDB 3g0q_2_AC - Resolution 2.2 A
+  Cluster 2:
+PDB 2i8t_1_A - Resolution 1.3 A
+PDB 2i8t_2_B - Resolution 1.3 A
+
+Superfamily a.76.1:
+  Cluster 1:
+PDB 2ev5_1_A - Resolution 2.0 A
+PDB 2ev5_2_B - Resolution 2.0 A
+
+Superfamily b.104.1:
+  Cluster 1:
+PDB 1jhn_1_A - Resolution 2.9 A
+
+Superfamily d.110.1:
+  Cluster 1:
+PDB 3u4l_2_AP - Resolution 2.4 A
+
+Superfamily d.166.1:
+  Cluster 2:
+PDB 4xhu_1_A - Resolution 2.089 A
+  Cluster 1:
+PDB 6klo_3_DEH - Resolution 2.8 A
+PDB 6klo_5_BCH - Resolution 2.8 A
+PDB 6klo_7_CDH - Resolution 2.8 A
+
+Superfamily g.3.11:
+  Cluster 13:
+PDB 6r2w_1_L - Resolution 1.25 A
+PDB 6r2w_2_L - Resolution 1.25 A
+  Cluster 14:
+PDB 6r2w_3_LT - Resolution 1.25 A
+  Cluster 8:
+PDB 1g1t_1_A - Resolution 1.5 A
+  Cluster 1:
+PDB 1jv2_3_B - Resolution 3.1 A
+PDB 1u8c_5_B - Resolution 3.1 A
+  Cluster 25:
+PDB 1n7d_10_A - Resolution 3.7 A
+  Cluster 2:
+PDB 1n7d_11_A - Resolution 3.7 A
+  Cluster 18:
+PDB 1n7d_2_A - Resolution 3.7 A
+  Cluster 20:
+PDB 1n7d_5_A - Resolution 3.7 A
+  Cluster 23:
+PDB 1n7d_6_A - Resolution 3.7 A
+  Cluster 24:
+PDB 1n7d_7_A - Resolution 3.7 A
+  Cluster 22:
+PDB 1n7d_8_A - Resolution 3.7 A
+  Cluster 26:
+PDB 1n7d_9_A - Resolution 3.7 A
+  Cluster 6:
+PDB 1nub_1_A - Resolution 2.8 A
+PDB 1nub_5_B - Resolution 2.8 A
+  Cluster 11:
+PDB 3dem_1_A - Resolution 2.3 A
+PDB 3dem_3_A - Resolution 2.3 A
+PDB 3dem_4_B - Resolution 2.3 A
+PDB 3dem_6_B - Resolution 2.3 A
+  Cluster 17:
+PDB 1xkb_3_A - Resolution 2.4 A
+  Cluster 27:
+PDB 2ec9_2_L - Resolution 2.0 A
+  Cluster 21:
+PDB 3kl6_3_AB - Resolution 1.45 A
+  Cluster 15:
+PDB 4xl1_6_AB - Resolution 2.3 A
+
+Superfamily a.43.1:
+  Cluster 1:
+PDB 1mjo_1_B - Resolution 2.1 A
+
+Superfamily a.115.1:
+  Cluster 4:
+PDB 1qhd_1_A - Resolution 1.95 A
+  Cluster 1:
+PDB 1qhd_3_A - Resolution 1.95 A
+  Cluster 2:
+PDB 1qhd_4_A - Resolution 1.95 A
+  Cluster 5:
+PDB 1qhd_5_A - Resolution 1.95 A
+  Cluster 3:
+PDB 1qhd_6_A - Resolution 1.95 A
+
+Superfamily c.150.1:
+  Cluster 1:
+PDB 3b55_1_A - Resolution 2.3 A
+
+Superfamily b.34.13:
+  Cluster 1:
+PDB 5ufe_10_AB - Resolution 2.302 A
+  Cluster 2:
+PDB 5ufq_6_AC - Resolution 2.199 A
+
+Superfamily b.16.1:
+  Cluster 1:
+PDB 1id5_1_HI - Resolution 2.5 A
+
+Superfamily b.126.1:
+  Cluster 1:
+PDB 1n7v_1_A - Resolution 2.2 A
+
+Superfamily d.82.2:
+  Cluster 1:
+PDB 3i9v_6_379 - Resolution 3.1 A
+PDB 3i9v_8_CGH - Resolution 3.1 A
+PDB 3iam_12_37 - Resolution 3.1 A
+PDB 3iam_27_CH - Resolution 3.1 A
+
+Superfamily b.38.1:
+  Cluster 2:
+PDB 1m8v_1_EFIR - Resolution 2.6 A
+PDB 1m8v_2_CKLP - Resolution 2.6 A
+PDB 1m8v_3_DEJS - Resolution 2.6 A
+PDB 1m8v_4_AMNO - Resolution 2.6 A
+PDB 1m8v_5_FGHQ - Resolution 2.6 A
+PDB 1m8v_6_AGNU - Resolution 2.6 A
+PDB 1m8v_7_BLT - Resolution 2.6 A
+  Cluster 3:
+PDB 5mki_10_D - Resolution 2.048 A
+PDB 5mki_2_EFG - Resolution 2.048 A
+PDB 5mki_5_HIJ - Resolution 2.048 A
+PDB 5mki_7_M - Resolution 2.048 A
+PDB 5mki_8_DEF - Resolution 2.048 A
+PDB 5mki_9_IJK - Resolution 2.048 A
+  Cluster 1:
+PDB 5mki_3_AG - Resolution 2.048 A
+PDB 5mki_4_L - Resolution 2.048 A
+PDB 5mki_6_CD - Resolution 2.048 A
+
+Superfamily b.6.1:
+  Cluster 4:
+PDB 5i5m_1_AB - Resolution 1.37 A
+PDB 5i5m_2_AB - Resolution 1.37 A
+  Cluster 2:
+PDB 1fwx_13_AB - Resolution 1.6 A
+PDB 1fwx_18_AB - Resolution 1.6 A
+PDB 1fwx_19_CD - Resolution 1.6 A
+PDB 1fwx_4_CD - Resolution 1.6 A
+  Cluster 6:
+PDB 2hrg_1_A - Resolution 1.58 A
+  Cluster 8:
+PDB 2hrg_5_A - Resolution 1.58 A
+  Cluster 1:
+PDB 2iwk_30_AB - Resolution 1.7 A
+  Cluster 10:
+PDB 2iwk_10_AB - Resolution 1.7 A
+  Cluster 3:
+PDB 2iwk_17_A - Resolution 1.7 A
+PDB 2iwk_37_B - Resolution 1.7 A
+  Cluster 9:
+PDB 2iwk_24_AB - Resolution 1.7 A
+  Cluster 7:
+PDB 2iwk_29_AB - Resolution 1.7 A
+  Cluster 11:
+PDB 2iwk_4_AB - Resolution 1.7 A
+  Cluster 5:
+PDB 4l0p_1_B - Resolution 2.26 A
+
+Superfamily c.45.1:
+  Cluster 1:
+PDB 2cnh_1_A - Resolution 1.8 A
+
+Superfamily d.58.3:
+  Cluster 1:
+PDB 1t1e_1_A - Resolution 1.18 A
+
+Superfamily c.1.14:
+  Cluster 2:
+PDB 4nas_1_AB - Resolution 1.92 A
+PDB 4nas_2_AB - Resolution 1.92 A
+PDB 4nas_5_CD - Resolution 1.92 A
+PDB 4nas_7_CD - Resolution 1.92 A
+  Cluster 1:
+PDB 4nas_3_B - Resolution 1.92 A
+PDB 4nas_4_A - Resolution 1.92 A
+PDB 4nas_6_C - Resolution 1.92 A
+  Cluster 3:
+PDB 6hun_1_A - Resolution 1.802 A
+
+Superfamily b.62.1:
+  Cluster 2:
+PDB 2esl_1_F - Resolution 1.9 A
+  Cluster 1:
+PDB 2esl_2_DEF - Resolution 1.9 A
+PDB 2esl_4_ABC - Resolution 1.9 A
+
+Superfamily d.20.1:
+  Cluster 1:
+PDB 3e46_1_A - Resolution 1.86 A
+
+Superfamily a.85.1:
+  Cluster 1:
+PDB 1nol_2_A - Resolution 2.4 A
+
+Superfamily a.211.1:
+  Cluster 1:
+PDB 3w5e_1_A - Resolution 2.3 A
+PDB 3w5e_2_B - Resolution 2.3 A
+
+Superfamily a.60.6:
+  Cluster 10:
+PDB 8ica_3_AP - Resolution 3.0 A
+  Cluster 5:
+PDB 1zqc_2_A - Resolution 3.2 A
+  Cluster 2:
+PDB 4k4h_10_MNP - Resolution 2.1 A
+PDB 4k4h_12_EFG - Resolution 2.1 A
+PDB 4k4h_13_ABD - Resolution 2.1 A
+PDB 4k4h_17_ABC - Resolution 2.1 A
+PDB 4k4h_18_MNO - Resolution 2.1 A
+PDB 4k4h_6_IJK - Resolution 2.1 A
+  Cluster 8:
+PDB 4kld_3_APT - Resolution 1.916 A
+  Cluster 6:
+PDB 4k4h_8_ABM - Resolution 2.1 A
+  Cluster 1:
+PDB 4k4h_14_IJKL - Resolution 2.1 A
+PDB 4k4h_1_MNOP - Resolution 2.1 A
+  Cluster 7:
+PDB 4k4g_1_EFG - Resolution 2.15 A
+  Cluster 9:
+PDB 4k4g_4_AJK - Resolution 2.15 A
+  Cluster 11:
+PDB 4k4g_8_IJL - Resolution 2.15 A
+  Cluster 4:
+PDB 4k4h_11_M - Resolution 2.1 A
+  Cluster 3:
+PDB 4k4h_2_E - Resolution 2.1 A
+PDB 4k4h_9_A - Resolution 2.1 A
+  Cluster 12:
+PDB 4k4i_13_MN - Resolution 2.25 A
+  Cluster 13:
+PDB 4k4i_21_IJ - Resolution 2.25 A
+
+Superfamily b.11.1:
+  Cluster 6:
+PDB 4iau_1_A - Resolution 0.99 A
+  Cluster 2:
+PDB 3hzb_12_EF - Resolution 1.74 A
+PDB 3hzb_17_GH - Resolution 1.74 A
+PDB 3hzb_3_CD - Resolution 1.74 A
+PDB 3hzb_9_AB - Resolution 1.74 A
+
+Superfamily c.25.1:
+  Cluster 2:
+PDB 3fpk_3_B - Resolution 1.7 A
+  Cluster 1:
+PDB 3qe2_1_A - Resolution 1.75 A
+
+Superfamily d.4.1:
+  Cluster 2:
+PDB 1en7_2_AB - Resolution 2.4 A
+PDB 1en7_4_AB - Resolution 2.4 A
+  Cluster 3:
+PDB 1en7_1_B - Resolution 2.4 A
+  Cluster 1:
+PDB 1oup_1_AEFG - Resolution 2.3 A
+PDB 1oup_2_BC - Resolution 2.3 A
+  Cluster 4:
+PDB 3u43_2_B - Resolution 1.72 A
+
+Superfamily c.61.1:
+  Cluster 7:
+PDB 1vch_1_C - Resolution 1.94 A
+  Cluster 3:
+PDB 2geb_1_A - Resolution 1.7 A
+  Cluster 5:
+PDB 2geb_2_A - Resolution 1.7 A
+  Cluster 1:
+PDB 2jbh_1_A - Resolution 1.7 A
+PDB 2jbh_2_B - Resolution 1.7 A
+  Cluster 2:
+PDB 2jbh_5_A - Resolution 1.7 A
+PDB 2jbh_6_B - Resolution 1.7 A
+  Cluster 4:
+PDB 4m0k_1_BC - Resolution 1.4 A
+PDB 4m0k_2_AB - Resolution 1.4 A
+PDB 4m0k_3_D - Resolution 1.4 A
+  Cluster 6:
+PDB 4m0k_4_AB - Resolution 1.4 A
+
+Superfamily b.84.1:
+  Cluster 1:
+PDB 3ab9_1_A - Resolution 1.65 A
+
+Superfamily c.32.1:
+  Cluster 1:
+PDB 5xdt_1_A - Resolution 1.3 A
+  Cluster 2:
+PDB 5jh7_4_CD - Resolution 2.25 A
+  Cluster 3:
+PDB 5jh7_5_A - Resolution 2.25 A
+  Cluster 4:
+PDB 5lyj_1_AE - Resolution 2.397 A
+  Cluster 5:
+PDB 5m7e_1_B - Resolution 2.046 A
+  Cluster 6:
+PDB 5m7g_6_C - Resolution 2.248 A
+  Cluster 7:
+PDB 5m8d_1_B - Resolution 2.25 A
+  Cluster 8:
+PDB 6f7c_4_C - Resolution 2.002 A
+
+Superfamily c.71.1:
+  Cluster 1:
+PDB 4kjk_2_A - Resolution 1.351 A
+PDB 4p3q_1_A - Resolution 1.351 A
+PDB 5uii_2_A - Resolution 1.351 A
+  Cluster 3:
+PDB 3qyo_3_A - Resolution 2.09 A
+  Cluster 4:
+PDB 3qyo_6_A - Resolution 2.09 A
+  Cluster 5:
+PDB 3r33_3_A - Resolution 2.09 A
+  Cluster 2:
+PDB 4kak_2_AB - Resolution 1.8 A
+  Cluster 6:
+PDB 4kjk_1_A - Resolution 1.351 A
+
+Superfamily b.67.2:
+  Cluster 1:
+PDB 1oyg_1_A - Resolution 1.5 A
+  Cluster 3:
+PDB 3cu9_1_A - Resolution 1.06 A
+  Cluster 2:
+PDB 1y7b_1_C - Resolution 1.6 A
+PDB 1y7b_2_B - Resolution 1.6 A
+PDB 1y7b_3_A - Resolution 1.6 A
+PDB 1y7b_4_D - Resolution 1.6 A
+
+Superfamily a.140.4:
+  Cluster 1:
+PDB 1en7_2_AB - Resolution 2.4 A
+PDB 1en7_4_AB - Resolution 2.4 A
+  Cluster 2:
+PDB 1en7_1_B - Resolution 2.4 A
+
+Superfamily a.64.1:
+  Cluster 1:
+PDB 2dob_1_A - Resolution 2.0 A
+
+Superfamily d.87.2:
+  Cluster 1:
+PDB 1v97_2_A - Resolution 1.94 A
+PDB 1v97_8_B - Resolution 1.94 A
+  Cluster 2:
+PDB 1vdv_5_B - Resolution 1.98 A
+PDB 1vdv_7_A - Resolution 1.98 A
+
+Superfamily b.44.2:
+  Cluster 1:
+PDB 1vly_1_A - Resolution 1.3 A
+
+Superfamily a.138.1:
+  Cluster 1:
+PDB 3bnj_3_A - Resolution 1.3 A
+  Cluster 3:
+PDB 2rdz_16_B - Resolution 1.74 A
+PDB 2rdz_1_D - Resolution 1.74 A
+PDB 2rdz_2_A - Resolution 1.74 A
+PDB 2rdz_3_C - Resolution 1.74 A
+  Cluster 4:
+PDB 2bq4_1_B - Resolution 1.68 A
+PDB 2bq4_7_A - Resolution 1.68 A
+  Cluster 2:
+PDB 7c52_4_CM - Resolution 2.89 A
+
+Superfamily d.1.1:
+  Cluster 1:
+PDB 3agn_1_A - Resolution 0.96 A
+
+Superfamily b.55.1:
+  Cluster 2:
+PDB 2cy5_1_A - Resolution 1.9 A
+  Cluster 1:
+PDB 2zkm_1_X - Resolution 1.62 A
+
+Superfamily c.14.1:
+  Cluster 5:
+PDB 1nzy_1_AC - Resolution 1.8 A
+PDB 1nzy_2_BC - Resolution 1.8 A
+PDB 1nzy_3_AB - Resolution 1.8 A
+PDB 3h81_2_ABC - Resolution 1.8 A
+PDB 3kqf_3_AF - Resolution 1.8 A
+PDB 3kqf_4_F - Resolution 1.8 A
+PDB 3kqf_5_BE - Resolution 1.8 A
+  Cluster 2:
+PDB 1szo_1_DEF - Resolution 1.9 A
+PDB 1szo_2_GHI - Resolution 1.9 A
+PDB 1szo_3_ABC - Resolution 1.9 A
+PDB 1szo_4_JKL - Resolution 1.9 A
+  Cluster 3:
+PDB 3h81_1_AC - Resolution 1.8 A
+PDB 3h81_3_BC - Resolution 1.8 A
+  Cluster 1:
+PDB 3kqf_1_DEF - Resolution 1.8 A
+PDB 3kqf_2_ABC - Resolution 1.8 A
+  Cluster 4:
+PDB 3rrv_2_F - Resolution 2.45 A
+PDB 3rrv_3_A - Resolution 2.45 A
+PDB 3rrv_4_AB - Resolution 2.45 A
+PDB 3rrv_5_C - Resolution 2.45 A
+PDB 3rrv_6_DE - Resolution 2.45 A
+PDB 3rrv_7_D - Resolution 2.45 A
+
+Superfamily b.82.2:
+  Cluster 1:
+PDB 5c3o_1_A - Resolution 2.3 A
+
+Superfamily b.86.1:
+  Cluster 3:
+PDB 1lws_1_ABC - Resolution 3.5 A
+  Cluster 1:
+PDB 1zde_2_A - Resolution 1.95 A
+  Cluster 2:
+PDB 1zde_3_A - Resolution 1.95 A
+
+Superfamily d.19.1:
+  Cluster 4:
+PDB 1lqv_1_AC - Resolution 1.6 A
+PDB 1lqv_3_BD - Resolution 1.6 A
+PDB 3jtc_1_BD - Resolution 1.6 A
+PDB 3jtc_2_AC - Resolution 1.6 A
+  Cluster 3:
+PDB 3c6l_1_ACD - Resolution 3.4 A
+PDB 3c6l_2_EFGH - Resolution 3.4 A
+  Cluster 5:
+PDB 4p57_1_CD - Resolution 2.6 A
+PDB 4p57_2_AB - Resolution 2.6 A
+  Cluster 2:
+PDB 5ksa_1_AB - Resolution 2.0 A
+  Cluster 1:
+PDB 5mer_1_A - Resolution 1.88 A
+PDB 5mer_2_BD - Resolution 1.88 A
+
+Superfamily f.43.1:
+  Cluster 1:
+PDB 5l8r_25_3A - Resolution 2.6 A
+
+Superfamily b.71.1:
+  Cluster 19:
+PDB 5z0u_2_A - Resolution 1.37 A
+  Cluster 17:
+PDB 5u3a_1_A - Resolution 0.95 A
+  Cluster 6:
+PDB 1ht6_2_A - Resolution 1.5 A
+  Cluster 30:
+PDB 2qpu_3_B - Resolution 1.7 A
+PDB 2qpu_4_A - Resolution 1.7 A
+PDB 2qpu_7_C - Resolution 1.7 A
+  Cluster 8:
+PDB 1ua7_1_A - Resolution 2.21 A
+  Cluster 14:
+PDB 1ua7_2_A - Resolution 2.21 A
+  Cluster 5:
+PDB 2fhf_2_A - Resolution 1.65 A
+  Cluster 9:
+PDB 1e43_3_A - Resolution 1.7 A
+  Cluster 13:
+PDB 1d3c_2_A - Resolution 1.78 A
+  Cluster 32:
+PDB 1dhk_1_AB - Resolution 1.85 A
+  Cluster 27:
+PDB 1dhk_3_AB - Resolution 1.85 A
+  Cluster 12:
+PDB 1e43_2_A - Resolution 1.7 A
+  Cluster 3:
+PDB 6jqb_1_A - Resolution 1.101 A
+  Cluster 1:
+PDB 5z0u_1_A - Resolution 1.37 A
+  Cluster 10:
+PDB 5z0u_3_A - Resolution 1.37 A
+  Cluster 4:
+PDB 1qho_3_A - Resolution 1.7 A
+PDB 1qhp_3_A - Resolution 1.7 A
+  Cluster 28:
+PDB 1wza_1_A - Resolution 1.6 A
+  Cluster 31:
+PDB 6taa_1_A - Resolution 2.1 A
+  Cluster 2:
+PDB 2fhf_5_A - Resolution 1.65 A
+  Cluster 16:
+PDB 2fhf_3_A - Resolution 1.65 A
+  Cluster 7:
+PDB 2fhf_1_A - Resolution 1.65 A
+  Cluster 22:
+PDB 2fhf_4_A - Resolution 1.65 A
+  Cluster 15:
+PDB 2taa_1_B - Resolution 3.0 A
+PDB 2taa_2_A - Resolution 3.0 A
+PDB 2taa_3_C - Resolution 3.0 A
+  Cluster 18:
+PDB 4xb3_2_A - Resolution 2.093 A
+  Cluster 21:
+PDB 4xb3_4_A - Resolution 2.093 A
+  Cluster 26:
+PDB 3qgv_1_A - Resolution 2.1 A
+  Cluster 33:
+PDB 3qgv_3_A - Resolution 2.1 A
+  Cluster 25:
+PDB 3qgv_5_A - Resolution 2.1 A
+  Cluster 23:
+PDB 4jcl_1_A - Resolution 1.7 A
+  Cluster 24:
+PDB 4jcl_4_A - Resolution 1.7 A
+  Cluster 29:
+PDB 4jcm_7_A - Resolution 1.65 A
+  Cluster 20:
+PDB 5zcc_3_A - Resolution 1.704 A
+  Cluster 11:
+PDB 5zcc_2_A - Resolution 1.704 A
+
+Superfamily c.48.1:
+  Cluster 4:
+PDB 5xvt_1_A - Resolution 0.85 A
+  Cluster 1:
+PDB 2c42_7_B - Resolution 1.78 A
+PDB 2c42_8_A - Resolution 1.78 A
+  Cluster 2:
+PDB 5vrb_10_CD - Resolution 1.85 A
+PDB 5vrb_2_ABC - Resolution 1.85 A
+PDB 5vrb_6_AB - Resolution 1.85 A
+PDB 5vrb_8_CD - Resolution 1.85 A
+  Cluster 5:
+PDB 5vrb_11_A - Resolution 1.85 A
+  Cluster 3:
+PDB 5vrb_4_C - Resolution 1.85 A
+PDB 5vrb_7_D - Resolution 1.85 A
+
+Superfamily l.1.1:
+  Cluster 17:
+PDB 6tj8_1_AB - Resolution 0.921 A
+PDB 6tj8_2_AB - Resolution 0.921 A
+  Cluster 12:
+PDB 1jg8_6_AD - Resolution 1.8 A
+PDB 1jg8_7_AD - Resolution 1.8 A
+PDB 1m6s_5_AD - Resolution 1.8 A
+PDB 1m6s_6_AD - Resolution 1.8 A
+  Cluster 41:
+PDB 1lww_1_AE - Resolution 2.1 A
+  Cluster 3:
+PDB 1m8v_4_AMNO - Resolution 2.6 A
+PDB 1m8v_6_AGNU - Resolution 2.6 A
+  Cluster 42:
+PDB 1n39_1_AC - Resolution 2.2 A
+  Cluster 43:
+PDB 1n3a_1_AC - Resolution 2.2 A
+  Cluster 44:
+PDB 1o6t_2_A - Resolution 1.6 A
+  Cluster 34:
+PDB 1uis_1_AB - Resolution 2.0 A
+  Cluster 45:
+PDB 1x8c_1_B - Resolution 2.1 A
+  Cluster 14:
+PDB 1yqm_2_ABC - Resolution 2.5 A
+  Cluster 7:
+PDB 2aef_1_AB - Resolution 1.7 A
+PDB 2aef_2_AB - Resolution 1.7 A
+  Cluster 32:
+PDB 2g18_1_DE - Resolution 2.5 A
+  Cluster 38:
+PDB 2hzy_8_AB - Resolution 1.35 A
+  Cluster 46:
+PDB 2i52_4_EF - Resolution 2.08 A
+  Cluster 47:
+PDB 2i5w_2_A - Resolution 2.6 A
+  Cluster 24:
+PDB 2noh_2_ABC - Resolution 2.01 A
+  Cluster 31:
+PDB 2omx_1_AB - Resolution 1.7 A
+  Cluster 18:
+PDB 3e11_1_AB - Resolution 1.8 A
+  Cluster 33:
+PDB 3hjb_7_AB - Resolution 1.5 A
+  Cluster 2:
+PDB 3is5_2_CD - Resolution 2.55 A
+PDB 3is5_3_AB - Resolution 2.55 A
+PDB 3is5_6_EF - Resolution 2.55 A
+  Cluster 19:
+PDB 3n1f_5_ABCD - Resolution 1.6 A
+  Cluster 16:
+PDB 3q3g_1_ABE - Resolution 2.7 A
+PDB 3q3g_2_JKL - Resolution 2.7 A
+PDB 3q3g_4_FHI - Resolution 2.7 A
+PDB 3q3g_5_CDG - Resolution 2.7 A
+  Cluster 29:
+PDB 3v64_3_ABD - Resolution 2.85 A
+  Cluster 27:
+PDB 4dxw_2_ABCD - Resolution 3.052 A
+  Cluster 48:
+PDB 4hap_3_A - Resolution 1.6 A
+  Cluster 22:
+PDB 4haq_1_AB - Resolution 1.9 A
+  Cluster 49:
+PDB 4i00_1_A - Resolution 1.6 A
+  Cluster 5:
+PDB 4ief_10_EF - Resolution 2.3 A
+PDB 4ief_16_GH - Resolution 2.3 A
+PDB 4ief_4_AB - Resolution 2.3 A
+PDB 4ief_8_CD - Resolution 2.3 A
+  Cluster 13:
+PDB 4ief_13_BD - Resolution 2.3 A
+PDB 4ief_14_FH - Resolution 2.3 A
+PDB 4ief_19_BD - Resolution 2.3 A
+PDB 4ief_1_FH - Resolution 2.3 A
+  Cluster 1:
+PDB 4k4h_14_IJKL - Resolution 2.1 A
+PDB 4k4h_1_MNOP - Resolution 2.1 A
+  Cluster 20:
+PDB 4k4g_1_EFG - Resolution 2.15 A
+  Cluster 50:
+PDB 4k4i_13_MN - Resolution 2.25 A
+  Cluster 51:
+PDB 4k4i_21_IJ - Resolution 2.25 A
+  Cluster 10:
+PDB 4ln1_1_BD - Resolution 1.9 A
+PDB 4ln1_5_AC - Resolution 1.9 A
+  Cluster 11:
+PDB 4ln1_2_AC - Resolution 1.9 A
+PDB 4ln1_3_AC - Resolution 1.9 A
+PDB 4ln1_4_BD - Resolution 1.9 A
+PDB 4ln1_6_BD - Resolution 1.9 A
+  Cluster 6:
+PDB 4lvn_3_AC - Resolution 2.25 A
+  Cluster 40:
+PDB 4oul_2_ABC - Resolution 1.949 A
+  Cluster 36:
+PDB 4oul_3_ABC - Resolution 1.949 A
+  Cluster 52:
+PDB 4r5j_4_D - Resolution 2.361 A
+  Cluster 35:
+PDB 4r5j_5_AC - Resolution 2.361 A
+  Cluster 8:
+PDB 5e4w_1_AD - Resolution 2.8 A
+PDB 5e4w_2_BC - Resolution 2.8 A
+  Cluster 28:
+PDB 5jdj_2_AHKO - Resolution 1.738 A
+  Cluster 30:
+PDB 5jdj_5_BDN - Resolution 1.738 A
+  Cluster 53:
+PDB 5l8g_54_P - Resolution 2.974 A
+  Cluster 25:
+PDB 5mer_2_BD - Resolution 1.88 A
+  Cluster 23:
+PDB 5olw_5_A - Resolution 2.28 A
+  Cluster 9:
+PDB 5uve_1_AH - Resolution 2.5 A
+PDB 5uve_2_EG - Resolution 2.5 A
+PDB 5uve_3_BD - Resolution 2.5 A
+PDB 5uve_4_CF - Resolution 2.5 A
+PDB 5uve_5_BD - Resolution 2.5 A
+PDB 5uve_6_CF - Resolution 2.5 A
+PDB 5uve_7_AH - Resolution 2.5 A
+PDB 5uve_8_EG - Resolution 2.5 A
+  Cluster 4:
+PDB 5v4d_3_ABCEF - Resolution 1.6 A
+PDB 5v4d_5_ABDEF - Resolution 1.6 A
+  Cluster 15:
+PDB 5xem_3_AB - Resolution 1.84 A
+PDB 5xem_7_AB - Resolution 1.84 A
+  Cluster 54:
+PDB 5xen_7_A - Resolution 1.94 A
+  Cluster 55:
+PDB 5xeo_2_A - Resolution 2.03 A
+  Cluster 39:
+PDB 5ybz_1_ACD - Resolution 1.711 A
+  Cluster 26:
+PDB 5zno_2_AB - Resolution 1.60264346898 A
+  Cluster 21:
+PDB 6fc2_1_AC - Resolution 1.92 A
+  Cluster 37:
+PDB 7deo_1_AB - Resolution 2.5 A
+
+Superfamily f.14.1:
+  Cluster 1:
+PDB 1lnq_1_BF - Resolution 3.3 A
+PDB 1lnq_2_CE - Resolution 3.3 A
+PDB 1lnq_3_CE - Resolution 3.3 A
+PDB 1lnq_4_AG - Resolution 3.3 A
+PDB 1lnq_5_AG - Resolution 3.3 A
+PDB 1lnq_6_BF - Resolution 3.3 A
+PDB 1lnq_7_DH - Resolution 3.3 A
+PDB 1lnq_8_DH - Resolution 3.3 A
+  Cluster 5:
+PDB 2wlj_2_AB - Resolution 2.6 A
+  Cluster 6:
+PDB 4dxw_1_A - Resolution 3.052 A
+  Cluster 3:
+PDB 4dxw_2_ABCD - Resolution 3.052 A
+  Cluster 4:
+PDB 4ms2_1_ABCD - Resolution 2.75 A
+  Cluster 2:
+PDB 6bqv_1_B - Resolution 3.1 A
+PDB 6bqv_2_D - Resolution 3.1 A
+PDB 6bqv_3_C - Resolution 3.1 A
+PDB 6bqv_4_A - Resolution 3.1 A
+
+Superfamily b.50.1:
+  Cluster 1:
+PDB 2apr_1_A - Resolution 1.8 A
+
+Superfamily c.33.1:
+  Cluster 1:
+PDB 3tb4_1_A - Resolution 1.35 A
+
+Superfamily b.42.1:
+  Cluster 1:
+PDB 4jpz_6_CE - Resolution 3.02 A
+PDB 4jpz_8_AI - Resolution 3.02 A
+
+Superfamily d.58.17:
+  Cluster 1:
+PDB 2qif_2_B - Resolution 1.5 A
+
+Superfamily d.90.1:
+  Cluster 1:
+PDB 1zch_1_A - Resolution 1.85 A
+  Cluster 2:
+PDB 3gbh_2_D - Resolution 2.0 A
+
+Superfamily g.17.1:
+  Cluster 1:
+PDB 5tx6_1_A - Resolution 2.746 A
+
+Superfamily c.68.1:
+  Cluster 1:
+PDB 1i52_2_A - Resolution 1.5 A
+  Cluster 3:
+PDB 1hm0_6_B - Resolution 2.3 A
+  Cluster 2:
+PDB 1xhb_3_A - Resolution 2.5 A
+  Cluster 4:
+PDB 2vsh_1_A - Resolution 2.0 A
+
+Superfamily b.2.5:
+  Cluster 1:
+PDB 2j1y_3_B - Resolution 1.69 A
+PDB 2j1y_5_A - Resolution 1.69 A
+PDB 2j1y_6_C - Resolution 1.69 A
+PDB 2j1y_8_D - Resolution 1.69 A
+
+Superfamily a.40.1:
+  Cluster 1:
+PDB 5nl7_1_A - Resolution 2.48 A
+
+Superfamily b.29.1:
+  Cluster 18:
+PDB 4bpz_1_A - Resolution 1.13 A
+PDB 4bpz_2_B - Resolution 1.13 A
+  Cluster 21:
+PDB 1nls_1_A - Resolution 0.94 A
+PDB 2uu8_1_A - Resolution 0.94 A
+  Cluster 24:
+PDB 4avs_1_A - Resolution 1.399 A
+PDB 4avs_2_B - Resolution 1.399 A
+PDB 4avs_3_D - Resolution 1.399 A
+PDB 4avs_4_C - Resolution 1.399 A
+PDB 4avs_5_E - Resolution 1.399 A
+  Cluster 10:
+PDB 1q2e_1_B - Resolution 1.75 A
+  Cluster 7:
+PDB 1d2s_1_A - Resolution 1.55 A
+  Cluster 36:
+PDB 1d2s_2_A - Resolution 1.55 A
+  Cluster 45:
+PDB 1dhk_1_AB - Resolution 1.85 A
+  Cluster 4:
+PDB 1dhk_2_AB - Resolution 1.85 A
+  Cluster 22:
+PDB 1dhk_3_AB - Resolution 1.85 A
+  Cluster 14:
+PDB 5ik4_1_A - Resolution 1.27 A
+PDB 5ik4_2_A - Resolution 1.27 A
+  Cluster 27:
+PDB 1w0p_3_A - Resolution 1.6 A
+  Cluster 41:
+PDB 1j1t_1_A - Resolution 2.0 A
+  Cluster 43:
+PDB 1jhn_1_A - Resolution 2.9 A
+  Cluster 25:
+PDB 1w0p_4_A - Resolution 1.6 A
+  Cluster 17:
+PDB 1s0e_2_A - Resolution 1.9 A
+  Cluster 19:
+PDB 1s0e_3_A - Resolution 1.9 A
+  Cluster 11:
+PDB 1ux6_1_A - Resolution 1.9 A
+PDB 1ux6_3_A - Resolution 1.9 A
+PDB 1ux6_4_A - Resolution 1.9 A
+  Cluster 12:
+PDB 1ux6_2_A - Resolution 1.9 A
+  Cluster 44:
+PDB 1ux6_5_A - Resolution 1.9 A
+  Cluster 13:
+PDB 1ux6_6_A - Resolution 1.9 A
+  Cluster 48:
+PDB 1ux6_7_A - Resolution 1.9 A
+  Cluster 3:
+PDB 1w0p_1_A - Resolution 1.6 A
+  Cluster 9:
+PDB 1w0p_2_A - Resolution 1.6 A
+  Cluster 1:
+PDB 1xyn_1_A - Resolution 2.0 A
+  Cluster 40:
+PDB 2np0_1_A - Resolution 2.62 A
+  Cluster 33:
+PDB 2nyy_1_A - Resolution 2.61 A
+  Cluster 23:
+PDB 4ygb_1_CD - Resolution 1.6 A
+PDB 4ygb_2_AB - Resolution 1.6 A
+PDB 4ygb_3_CD - Resolution 1.6 A
+PDB 4ygb_4_AB - Resolution 1.6 A
+  Cluster 15:
+PDB 3h0o_2_A - Resolution 1.4 A
+  Cluster 32:
+PDB 3axd_3_A - Resolution 1.53 A
+  Cluster 26:
+PDB 3h0o_1_A - Resolution 1.4 A
+  Cluster 28:
+PDB 3axd_5_A - Resolution 1.53 A
+PDB 3axe_1_A - Resolution 1.53 A
+  Cluster 30:
+PDB 3axd_6_A - Resolution 1.53 A
+  Cluster 39:
+PDB 3mw3_1_A - Resolution 2.33 A
+  Cluster 35:
+PDB 3pvn_17_F - Resolution 1.98 A
+  Cluster 46:
+PDB 3v64_3_ABD - Resolution 2.85 A
+  Cluster 8:
+PDB 4cel_1_B - Resolution 2.2 A
+PDB 4cel_4_A - Resolution 2.2 A
+  Cluster 16:
+PDB 4hap_1_A - Resolution 1.6 A
+  Cluster 37:
+PDB 4hap_2_AB - Resolution 1.6 A
+  Cluster 49:
+PDB 4hap_3_A - Resolution 1.6 A
+  Cluster 38:
+PDB 4hap_4_A - Resolution 1.6 A
+  Cluster 20:
+PDB 4hap_5_A - Resolution 1.6 A
+  Cluster 34:
+PDB 4haq_1_AB - Resolution 1.9 A
+  Cluster 2:
+PDB 4hkw_1_A - Resolution 1.65 A
+  Cluster 42:
+PDB 4ipm_1_A - Resolution 1.14 A
+  Cluster 6:
+PDB 4xzp_1_A - Resolution 1.48 A
+  Cluster 5:
+PDB 5duv_1_A - Resolution 1.9 A
+PDB 5duv_2_C - Resolution 1.9 A
+PDB 5duv_3_B - Resolution 1.9 A
+PDB 5duv_4_BD - Resolution 1.9 A
+  Cluster 29:
+PDB 5z5p_3_B - Resolution 1.4 A
+  Cluster 47:
+PDB 6xt6_3_AB - Resolution 2.103 A
+  Cluster 31:
+PDB 6xt6_6_B - Resolution 2.103 A
+
+Superfamily d.58.6:
+  Cluster 1:
+PDB 1ucn_1_AC - Resolution 2.0 A
+PDB 1ucn_4_BC - Resolution 2.0 A
+PDB 1ucn_5_AB - Resolution 2.0 A
+  Cluster 2:
+PDB 1ucn_2_B - Resolution 2.0 A
+PDB 1ucn_3_C - Resolution 2.0 A
+  Cluster 3:
+PDB 2az1_3_A - Resolution 2.35 A
+
+Superfamily a.1.1:
+  Cluster 1:
+PDB 2gtl_11_FN - Resolution 3.5 A
+PDB 2gtl_12_BM - Resolution 3.5 A
+PDB 2gtl_2_JO - Resolution 3.5 A
+  Cluster 7:
+PDB 2gtl_1_AFGM - Resolution 3.5 A
+  Cluster 3:
+PDB 2zs0_3_A - Resolution 1.6 A
+PDB 2zs0_6_B - Resolution 1.6 A
+  Cluster 5:
+PDB 2zs0_4_BC - Resolution 1.6 A
+  Cluster 6:
+PDB 2zs0_8_ABCD - Resolution 1.6 A
+  Cluster 2:
+PDB 3wcv_10_B - Resolution 2.6 A
+PDB 3wcv_4_F - Resolution 2.6 A
+  Cluster 4:
+PDB 3wcv_13_F - Resolution 2.6 A
+
+Superfamily g.103.1:
+  Cluster 1:
+PDB 4g26_2_A - Resolution 1.75 A
+  Cluster 2:
+PDB 4g26_5_A - Resolution 1.75 A
+  Cluster 3:
+PDB 4g26_6_A - Resolution 1.75 A
+
+Superfamily i.20.1:
+  Cluster 3:
+PDB 1q55_10_C - Resolution 30.0 A
+PDB 1q55_13_B - Resolution 30.0 A
+PDB 1q55_14_D - Resolution 30.0 A
+PDB 1q55_15_C - Resolution 30.0 A
+PDB 1q55_17_A - Resolution 30.0 A
+PDB 1q55_19_D - Resolution 30.0 A
+PDB 1q55_20_A - Resolution 30.0 A
+PDB 1q55_2_A - Resolution 30.0 A
+PDB 1q55_3_C - Resolution 30.0 A
+PDB 1q55_4_B - Resolution 30.0 A
+PDB 1q55_5_D - Resolution 30.0 A
+PDB 1q55_7_B - Resolution 30.0 A
+PDB 1q5a_10_A - Resolution 30.0 A
+PDB 1q5a_1_B - Resolution 30.0 A
+PDB 1q5a_4_B - Resolution 30.0 A
+PDB 1q5a_5_A - Resolution 30.0 A
+PDB 1q5a_6_B - Resolution 30.0 A
+PDB 1q5a_9_A - Resolution 30.0 A
+PDB 1q5b_11_B - Resolution 30.0 A
+PDB 1q5b_12_A - Resolution 30.0 A
+PDB 1q5b_14_A - Resolution 30.0 A
+PDB 1q5b_15_C - Resolution 30.0 A
+PDB 1q5b_1_B - Resolution 30.0 A
+PDB 1q5b_2_B - Resolution 30.0 A
+PDB 1q5b_3_A - Resolution 30.0 A
+PDB 1q5b_4_C - Resolution 30.0 A
+PDB 1q5b_8_C - Resolution 30.0 A
+PDB 1q5c_10_A - Resolution 30.0 A
+PDB 1q5c_12_A - Resolution 30.0 A
+PDB 1q5c_13_C - Resolution 30.0 A
+PDB 1q5c_19_C - Resolution 30.0 A
+PDB 1q5c_1_C - Resolution 30.0 A
+PDB 1q5c_20_D - Resolution 30.0 A
+PDB 1q5c_2_B - Resolution 30.0 A
+PDB 1q5c_4_D - Resolution 30.0 A
+PDB 1q5c_5_A - Resolution 30.0 A
+PDB 1q5c_6_D - Resolution 30.0 A
+PDB 1q5c_7_B - Resolution 30.0 A
+PDB 1q5c_8_B - Resolution 30.0 A
+  Cluster 2:
+PDB 1q55_11_B - Resolution 30.0 A
+PDB 1q55_6_D - Resolution 30.0 A
+PDB 1q55_8_C - Resolution 30.0 A
+PDB 1q55_9_A - Resolution 30.0 A
+PDB 1q5a_3_B - Resolution 30.0 A
+PDB 1q5a_8_A - Resolution 30.0 A
+PDB 1q5b_5_C - Resolution 30.0 A
+PDB 1q5b_6_A - Resolution 30.0 A
+PDB 1q5b_7_B - Resolution 30.0 A
+PDB 1q5c_15_A - Resolution 30.0 A
+PDB 1q5c_17_C - Resolution 30.0 A
+PDB 1q5c_18_B - Resolution 30.0 A
+PDB 1q5c_9_D - Resolution 30.0 A
+  Cluster 1:
+PDB 1q55_12_C - Resolution 30.0 A
+PDB 1q55_16_D - Resolution 30.0 A
+PDB 1q55_18_B - Resolution 30.0 A
+PDB 1q55_1_A - Resolution 30.0 A
+PDB 1q5a_2_A - Resolution 30.0 A
+PDB 1q5a_7_B - Resolution 30.0 A
+PDB 1q5b_10_B - Resolution 30.0 A
+PDB 1q5b_13_A - Resolution 30.0 A
+PDB 1q5b_9_C - Resolution 30.0 A
+PDB 1q5c_11_C - Resolution 30.0 A
+PDB 1q5c_14_D - Resolution 30.0 A
+PDB 1q5c_16_B - Resolution 30.0 A
+PDB 1q5c_3_A - Resolution 30.0 A
+
+Superfamily b.30.2:
+  Cluster 2:
+PDB 1w7c_4_A - Resolution 1.23 A
+  Cluster 1:
+PDB 1w7c_6_A - Resolution 1.23 A
+
+Superfamily d.82.1:
+  Cluster 2:
+PDB 1oac_1_A - Resolution 2.0 A
+PDB 1oac_3_B - Resolution 2.0 A
+PDB 1qak_1_A - Resolution 2.0 A
+PDB 1qak_5_B - Resolution 2.0 A
+PDB 1spu_1_B - Resolution 2.0 A
+PDB 1spu_3_A - Resolution 2.0 A
+  Cluster 1:
+PDB 6grr_2_B - Resolution 1.7 A
+PDB 6grr_3_A - Resolution 1.7 A
+
+Superfamily c.37.1:
+  Cluster 4:
+PDB 2j45_1_A - Resolution 1.14 A
+PDB 2j45_2_AB - Resolution 1.14 A
+  Cluster 1:
+PDB 1rrc_1_A - Resolution 2.46 A
+  Cluster 8:
+PDB 1t9h_3_A - Resolution 1.6 A
+  Cluster 5:
+PDB 1t9h_5_A - Resolution 1.6 A
+  Cluster 13:
+PDB 1z29_1_A - Resolution 2.4 A
+  Cluster 2:
+PDB 2yc4_1_BD - Resolution 2.8 A
+PDB 2yc4_2_AC - Resolution 2.8 A
+  Cluster 3:
+PDB 4dlr_1_A - Resolution 1.319 A
+  Cluster 14:
+PDB 3l8y_3_A - Resolution 2.02 A
+  Cluster 7:
+PDB 3lv8_1_A - Resolution 1.8 A
+  Cluster 6:
+PDB 3q7q_2_A - Resolution 2.3 A
+  Cluster 11:
+PDB 4b7b_2_A - Resolution 2.5 A
+  Cluster 10:
+PDB 5x2b_3_D - Resolution 2.08 A
+  Cluster 12:
+PDB 5x2b_6_B - Resolution 2.08 A
+  Cluster 9:
+PDB 5x7j_8_A - Resolution 1.84 A
+
+Superfamily h.3.1:
+  Cluster 1:
+PDB 6twi_1_BEF - Resolution 2.27 A
+PDB 6twi_2_ABD - Resolution 2.27 A
+PDB 6twi_3_CDEF - Resolution 2.27 A
+
+Superfamily b.1.5:
+  Cluster 3:
+PDB 4kty_4_A - Resolution 1.98 A
+PDB 4kty_5_B - Resolution 1.98 A
+  Cluster 2:
+PDB 4kty_1_B - Resolution 1.98 A
+PDB 4kty_3_A - Resolution 1.98 A
+  Cluster 1:
+PDB 4kty_2_BD - Resolution 1.98 A
+PDB 4kty_6_AC - Resolution 1.98 A
+
+Superfamily d.93.1:
+  Cluster 2:
+PDB 2c0t_1_AB - Resolution 2.15 A
+PDB 2c0t_2_AB - Resolution 2.15 A
+  Cluster 3:
+PDB 2c0t_3_A - Resolution 2.15 A
+PDB 2c0t_4_B - Resolution 2.15 A
+  Cluster 1:
+PDB 3vrn_1_A - Resolution 1.64 A
+
+Superfamily c.70.1:
+  Cluster 1:
+PDB 4i71_3_A - Resolution 1.28 A
+
+Superfamily e.69.1:
+  Cluster 1:
+PDB 3er9_1_B - Resolution 2.06 A
+
+Superfamily a.23.3:
+  Cluster 1:
+PDB 1fz1_2_AE - Resolution 1.96 A
+PDB 1fz7_4_AE - Resolution 1.96 A
+PDB 1xvg_5_AE - Resolution 1.96 A
+
+Superfamily c.1.10:
+  Cluster 3:
+PDB 1o5k_1_A - Resolution 1.8 A
+  Cluster 1:
+PDB 5ud0_4_B - Resolution 1.647 A
+  Cluster 4:
+PDB 3tqk_2_A - Resolution 2.3 A
+  Cluster 2:
+PDB 5ud6_1_C - Resolution 2.4 A
+PDB 5ud6_2_B - Resolution 2.4 A
+PDB 5ud6_3_A - Resolution 2.4 A
+PDB 5ud6_4_D - Resolution 2.4 A
+
+Superfamily f.4.2:
+  Cluster 2:
+PDB 1fw2_1_A - Resolution 2.6 A
+  Cluster 1:
+PDB 1qd6_1_CD - Resolution 2.1 A
+PDB 1qd6_2_CD - Resolution 2.1 A
+
+Superfamily d.169.1:
+  Cluster 5:
+PDB 6pws_1_A - Resolution 1.0 A
+  Cluster 4:
+PDB 1byf_11_B - Resolution 2.0 A
+PDB 1byf_4_A - Resolution 2.0 A
+  Cluster 2:
+PDB 1j34_3_ABC - Resolution 1.55 A
+  Cluster 7:
+PDB 1t61_1_BCEF - Resolution 1.5 A
+  Cluster 1:
+PDB 1z70_2_X - Resolution 1.15 A
+  Cluster 3:
+PDB 1z70_1_X - Resolution 1.15 A
+  Cluster 6:
+PDB 1yu0_1_A - Resolution 1.56 A
+
+Superfamily b.3.4:
+  Cluster 2:
+PDB 4mrb_1_B - Resolution 1.27 A
+PDB 4mrb_2_A - Resolution 1.27 A
+  Cluster 1:
+PDB 4n85_1_A - Resolution 1.6 A
+PDB 4n85_3_B - Resolution 1.6 A
+  Cluster 3:
+PDB 4y9b_1_A - Resolution 1.4 A
+
+Superfamily d.17.4:
+  Cluster 7:
+PDB 2bng_1_AB - Resolution 2.5 A
+  Cluster 3:
+PDB 6std_1_A - Resolution 1.8 A
+PDB 6std_4_C - Resolution 1.8 A
+PDB 7std_1_C - Resolution 1.8 A
+PDB 7std_2_B - Resolution 1.8 A
+PDB 7std_3_A - Resolution 1.8 A
+  Cluster 5:
+PDB 3en8_1_A - Resolution 1.85 A
+  Cluster 2:
+PDB 3std_1_B - Resolution 1.65 A
+PDB 3std_2_C - Resolution 1.65 A
+  Cluster 1:
+PDB 4nhf_1_EF - Resolution 2.0 A
+PDB 4nhf_3_AB - Resolution 2.0 A
+PDB 4nhf_4_CD - Resolution 2.0 A
+  Cluster 6:
+PDB 4nhf_2_EF - Resolution 2.0 A
+  Cluster 4:
+PDB 7std_5_B - Resolution 1.8 A
+
+Superfamily d.391.1:
+  Cluster 1:
+PDB 4xga_1_AB - Resolution 2.15 A
+
+Superfamily d.162.1:
+  Cluster 1:
+PDB 4b7u_1_C - Resolution 1.88 A
+PDB 4b7u_2_D - Resolution 1.88 A
+PDB 4b7u_3_B - Resolution 1.88 A
+PDB 4b7u_4_A - Resolution 1.88 A
+  Cluster 3:
+PDB 4ln1_1_BD - Resolution 1.9 A
+PDB 4ln1_5_AC - Resolution 1.9 A
+  Cluster 4:
+PDB 4ln1_2_AC - Resolution 1.9 A
+PDB 4ln1_3_AC - Resolution 1.9 A
+PDB 4ln1_4_BD - Resolution 1.9 A
+PDB 4ln1_6_BD - Resolution 1.9 A
+  Cluster 2:
+PDB 5ujk_1_A - Resolution 1.53 A
+  Cluster 5:
+PDB 5ujk_2_A - Resolution 1.53 A
+
+Superfamily d.94.1:
+  Cluster 1:
+PDB 1kkl_1_CJ - Resolution 2.8 A
+PDB 1kkl_3_AH - Resolution 2.8 A
+PDB 1kkm_1_BCJ - Resolution 2.8 A
+PDB 1kkm_2_ACH - Resolution 2.8 A
+PDB 1kkm_3_ABI - Resolution 2.8 A
+
+Superfamily a.29.3:
+  Cluster 3:
+PDB 1w07_1_A - Resolution 2.0 A
+  Cluster 2:
+PDB 4o5m_1_A - Resolution 2.2 A
+  Cluster 1:
+PDB 5ol2_2_F - Resolution 3.1 A
+PDB 5ol2_3_C - Resolution 3.1 A
+
+Superfamily a.160.1:
+  Cluster 2:
+PDB 1uet_1_A - Resolution 2.0 A
+  Cluster 3:
+PDB 1uet_2_A - Resolution 2.0 A
+  Cluster 1:
+PDB 4lt6_1_A - Resolution 2.79 A
+PDB 4lt6_2_B - Resolution 2.79 A
+
+Superfamily b.34.8:
+  Cluster 1:
+PDB 1hyo_1_AB - Resolution 1.3 A
+PDB 1hyo_2_AB - Resolution 1.3 A
+  Cluster 2:
+PDB 2hzy_8_AB - Resolution 1.35 A
+
+Superfamily d.157.1:
+  Cluster 2:
+PDB 2bib_1_A - Resolution 1.92 A
+  Cluster 4:
+PDB 4awy_3_B - Resolution 1.6 A
+  Cluster 5:
+PDB 4ax1_2_B - Resolution 1.4 A
+  Cluster 6:
+PDB 4ax1_5_B - Resolution 1.4 A
+  Cluster 7:
+PDB 5acr_1_A - Resolution 1.9 A
+  Cluster 3:
+PDB 6q2y_3_A - Resolution 1.0 A
+PDB 6q2y_5_B - Resolution 1.0 A
+  Cluster 1:
+PDB 6q2y_2_AB - Resolution 1.0 A
+PDB 6q2y_6_AB - Resolution 1.0 A
+
+Superfamily b.35.1:
+  Cluster 1:
+PDB 1p3h_1_ABC - Resolution 2.8 A
+
+Superfamily i.24.1:
+  Cluster 1:
+PDB 1tzn_12_LM - Resolution 4.3 A
+PDB 1tzn_13_IJ - Resolution 4.3 A
+PDB 1tzn_14_AF - Resolution 4.3 A
+PDB 1tzn_16_EF - Resolution 4.3 A
+PDB 1tzn_17_GM - Resolution 4.3 A
+PDB 1tzn_18_DE - Resolution 4.3 A
+PDB 1tzn_19_AB - Resolution 4.3 A
+PDB 1tzn_20_JK - Resolution 4.3 A
+PDB 1tzn_21_GH - Resolution 4.3 A
+PDB 1tzn_22_CO - Resolution 4.3 A
+PDB 1tzn_23_HI - Resolution 4.3 A
+PDB 1tzn_3_DO - Resolution 4.3 A
+PDB 1tzn_5_BC - Resolution 4.3 A
+PDB 1tzn_7_KL - Resolution 4.3 A
+
+Superfamily a.102.5:
+  Cluster 1:
+PDB 1gxo_1_A - Resolution 2.05 A
+
+Superfamily a.281.1:
+  Cluster 1:
+PDB 2oee_1_AB - Resolution 1.96 A
+PDB 2oee_2_AB - Resolution 1.96 A
+
+Superfamily c.55.3:
+  Cluster 19:
+PDB 1clq_1_ADE - Resolution 2.7 A
+  Cluster 4:
+PDB 3nci_1_A - Resolution 1.79 A
+PDB 3nci_2_AT - Resolution 1.79 A
+  Cluster 15:
+PDB 1clq_4_A - Resolution 2.7 A
+  Cluster 6:
+PDB 3mxm_1_ABD - Resolution 1.75 A
+PDB 3mxm_2_ABC - Resolution 1.75 A
+  Cluster 10:
+PDB 1clq_6_A - Resolution 2.7 A
+  Cluster 17:
+PDB 1clq_8_ADE - Resolution 2.7 A
+  Cluster 8:
+PDB 4j2a_5_A - Resolution 1.8 A
+  Cluster 13:
+PDB 1vsi_1_A - Resolution 2.2 A
+  Cluster 14:
+PDB 1yvu_1_A - Resolution 2.9 A
+  Cluster 7:
+PDB 2g8k_1_ABC - Resolution 1.65 A
+PDB 2g8k_2_AB - Resolution 1.65 A
+  Cluster 5:
+PDB 2g8k_3_A - Resolution 1.65 A
+  Cluster 9:
+PDB 3cq8_7_A - Resolution 2.5 A
+  Cluster 1:
+PDB 3ngi_3_A - Resolution 1.886 A
+  Cluster 11:
+PDB 3ndk_1_A - Resolution 2.0 A
+  Cluster 3:
+PDB 3o3g_1_ACD - Resolution 2.1 A
+  Cluster 16:
+PDB 3o3g_2_ACD - Resolution 2.1 A
+  Cluster 12:
+PDB 3s9h_4_A - Resolution 1.95 A
+  Cluster 18:
+PDB 4dtu_3_APT - Resolution 1.86 A
+  Cluster 2:
+PDB 4khw_7_A - Resolution 2.371 A
+  Cluster 20:
+PDB 4ki6_5_A - Resolution 2.55 A
+
+Superfamily a.20.1:
+  Cluster 1:
+PDB 1su3_6_A - Resolution 2.2 A
+PDB 1su3_7_B - Resolution 2.2 A
+  Cluster 2:
+PDB 1slm_1_A - Resolution 1.9 A
+  Cluster 3:
+PDB 1slm_4_A - Resolution 1.9 A
+
+Superfamily c.72.1:
+  Cluster 5:
+PDB 2afb_2_A - Resolution 2.05 A
+  Cluster 3:
+PDB 2afb_6_AB - Resolution 2.05 A
+  Cluster 2:
+PDB 2afb_7_B - Resolution 2.05 A
+PDB 2afb_8_A - Resolution 2.05 A
+  Cluster 4:
+PDB 2nwh_2_A - Resolution 1.86 A
+  Cluster 6:
+PDB 2nwh_3_A - Resolution 1.86 A
+  Cluster 1:
+PDB 5eyn_2_A - Resolution 1.289 A
+
+Superfamily d.143.1:
+  Cluster 1:
+PDB 6cn2_1_A - Resolution 3.102 A
+
+Superfamily b.22.1:
+  Cluster 2:
+PDB 2wnv_1_ABC - Resolution 1.25 A
+PDB 2wnv_2_DEF - Resolution 1.25 A
+  Cluster 3:
+PDB 1gr3_1_A - Resolution 2.0 A
+  Cluster 1:
+PDB 4ous_1_A - Resolution 1.05 A
+  Cluster 4:
+PDB 5ybz_1_ACD - Resolution 1.711 A
+
+Superfamily g.14.1:
+  Cluster 4:
+PDB 1ck7_1_A - Resolution 2.8 A
+  Cluster 1:
+PDB 1l6j_3_A - Resolution 2.5 A
+  Cluster 2:
+PDB 1l6j_2_A - Resolution 2.5 A
+  Cluster 3:
+PDB 1nl1_1_A - Resolution 1.9 A
+PDB 1nl1_2_A - Resolution 1.9 A
+
+Superfamily c.77.1:
+  Cluster 1:
+PDB 5i95_1_A - Resolution 1.54 A
+
+Superfamily c.79.1:
+  Cluster 3:
+PDB 6c2z_1_A - Resolution 1.37 A
+  Cluster 1:
+PDB 5xem_11_B - Resolution 1.84 A
+  Cluster 2:
+PDB 5xem_3_AB - Resolution 1.84 A
+PDB 5xem_7_AB - Resolution 1.84 A
+  Cluster 4:
+PDB 5xen_7_A - Resolution 1.94 A
+  Cluster 5:
+PDB 5xeo_2_A - Resolution 2.03 A
+
+Superfamily a.128.1:
+  Cluster 3:
+PDB 3vj9_1_A - Resolution 1.52 A
+  Cluster 2:
+PDB 4lls_1_AB - Resolution 1.5 A
+PDB 4lls_2_AB - Resolution 1.5 A
+  Cluster 1:
+PDB 5ilh_1_A - Resolution 2.1 A
+
+Superfamily a.48.1:
+  Cluster 1:
+PDB 3vrn_1_A - Resolution 1.64 A
+
+Superfamily k.21.1:
+  Cluster 1:
+PDB 1qtx_1_A - Resolution 1.65 A
+PDB 1qtx_2_A - Resolution 1.65 A
+PDB 1qtx_3_A - Resolution 1.65 A
+PDB 1qtx_4_A - Resolution 1.65 A
+
+Superfamily c.74.1:
+  Cluster 1:
+PDB 2v9m_1_A - Resolution 1.3 A
+
+Superfamily d.110.6:
+  Cluster 1:
+PDB 2w27_1_B - Resolution 2.8 A
+PDB 2w27_2_A - Resolution 2.8 A
+  Cluster 2:
+PDB 6iou_1_A - Resolution 2.1 A
+PDB 6iou_2_AB - Resolution 2.1 A
+
+Superfamily b.121.7:
+  Cluster 2:
+PDB 4bcu_1_A - Resolution 2.29 A
+  Cluster 1:
+PDB 4bcu_2_A - Resolution 2.29 A
+  Cluster 3:
+PDB 2buk_3_A - Resolution 2.45 A
+
+Superfamily d.24.1:
+  Cluster 4:
+PDB 3ci0_1_IJ - Resolution 2.2 A
+  Cluster 1:
+PDB 5vtm_2_WX - Resolution 2.041 A
+  Cluster 2:
+PDB 3g20_1_B - Resolution 1.78 A
+PDB 3g20_5_A - Resolution 1.78 A
+
+Superfamily c.43.1:
+  Cluster 1:
+PDB 1q23_1_A - Resolution 2.18 A
+
+Superfamily a.45.1:
+  Cluster 3:
+PDB 1iyi_1_AD - Resolution 1.8 A
+PDB 1iyi_2_BC - Resolution 1.8 A
+  Cluster 9:
+PDB 1px7_1_B - Resolution 2.03 A
+  Cluster 2:
+PDB 2a2r_1_B - Resolution 1.4 A
+  Cluster 1:
+PDB 5djl_3_B - Resolution 1.8 A
+  Cluster 7:
+PDB 3hkr_1_A - Resolution 1.8 A
+PDB 3kmn_1_A - Resolution 1.8 A
+PDB 3kmn_2_B - Resolution 1.8 A
+  Cluster 4:
+PDB 3hkr_2_AB - Resolution 1.8 A
+PDB 3hkr_5_AB - Resolution 1.8 A
+  Cluster 8:
+PDB 4hoj_1_A - Resolution 1.4 A
+  Cluster 5:
+PDB 4hoj_2_A - Resolution 1.4 A
+  Cluster 10:
+PDB 4k0g_1_A - Resolution 1.4 A
+  Cluster 6:
+PDB 5jcw_2_B - Resolution 1.945 A
+PDB 5jcw_3_A - Resolution 1.945 A
+
+Superfamily b.69.8:
+  Cluster 1:
+PDB 3ije_4_A - Resolution 2.9 A
+PDB 4g1m_3_A - Resolution 2.9 A
+  Cluster 3:
+PDB 4wjk_1_A - Resolution 1.85 A
+PDB 4wjk_2_A - Resolution 1.85 A
+PDB 4wjk_3_A - Resolution 1.85 A
+PDB 4wjk_5_A - Resolution 1.85 A
+  Cluster 2:
+PDB 4wjk_4_AB - Resolution 1.85 A
+
+Superfamily b.2.3:
+  Cluster 1:
+PDB 1r17_1_A - Resolution 1.86 A
+PDB 1r17_2_B - Resolution 1.86 A
+  Cluster 3:
+PDB 3kpt_1_B - Resolution 2.102 A
+  Cluster 2:
+PDB 6gtw_1_D - Resolution 2.5 A
+PDB 6gtw_2_B - Resolution 2.5 A
+PDB 6gtw_3_A - Resolution 2.5 A
+  Cluster 4:
+PDB 5cf3_2_A - Resolution 2.031 A
+
+Superfamily d.60.1:
+  Cluster 1:
+PDB 5gqq_1_AC - Resolution 2.2 A
+PDB 5gqq_3_AD - Resolution 2.2 A
+PDB 5gqq_5_BD - Resolution 2.2 A
+PDB 5gqq_6_BC - Resolution 2.2 A
+
+Superfamily d.128.1:
+  Cluster 1:
+PDB 1qh4_1_D - Resolution 1.41 A
+
+Superfamily d.35.1:
+  Cluster 1:
+PDB 1b2v_1_A - Resolution 1.9 A
+
+Superfamily c.1.11:
+  Cluster 1:
+PDB 4hpn_1_A - Resolution 1.6 A
+PDB 4hpn_2_A - Resolution 1.6 A
+
+Superfamily c.1.12:
+  Cluster 2:
+PDB 3lye_1_A - Resolution 1.3 A
+  Cluster 5:
+PDB 3lye_2_A - Resolution 1.3 A
+  Cluster 1:
+PDB 3lye_3_A - Resolution 1.3 A
+  Cluster 3:
+PDB 4tv5_1_A - Resolution 1.85 A
+  Cluster 4:
+PDB 4tv5_2_A - Resolution 1.85 A
+
+Superfamily d.2.1:
+  Cluster 2:
+PDB 1b9o_1_A - Resolution 1.15 A
+  Cluster 1:
+PDB 1d0l_1_A - Resolution 1.97 A
+
+Superfamily d.17.2:
+  Cluster 2:
+PDB 1w7c_4_A - Resolution 1.23 A
+  Cluster 1:
+PDB 1w7c_6_A - Resolution 1.23 A
+
+Superfamily d.58.16:
+  Cluster 2:
+PDB 1uet_1_A - Resolution 2.0 A
+  Cluster 3:
+PDB 1uet_2_A - Resolution 2.0 A
+  Cluster 1:
+PDB 4lt6_1_A - Resolution 2.79 A
+PDB 4lt6_2_B - Resolution 2.79 A
+
+Superfamily b.1.18:
+  Cluster 13:
+PDB 5z0u_2_A - Resolution 1.37 A
+  Cluster 21:
+PDB 3bmv_2_A - Resolution 1.6 A
+PDB 3bmw_1_A - Resolution 1.6 A
+  Cluster 11:
+PDB 2fhf_2_A - Resolution 1.65 A
+  Cluster 26:
+PDB 1clc_1_A - Resolution 1.9 A
+  Cluster 31:
+PDB 1clc_2_A - Resolution 1.9 A
+  Cluster 28:
+PDB 4oy7_1_BC - Resolution 1.5 A
+PDB 4oy7_5_FH - Resolution 1.5 A
+  Cluster 23:
+PDB 1cvr_2_A - Resolution 2.0 A
+  Cluster 1:
+PDB 1cvr_6_A - Resolution 2.0 A
+  Cluster 29:
+PDB 1cvr_7_A - Resolution 2.0 A
+  Cluster 35:
+PDB 1cvr_8_A - Resolution 2.0 A
+  Cluster 12:
+PDB 1d3c_2_A - Resolution 1.78 A
+  Cluster 5:
+PDB 5z0u_1_A - Resolution 1.37 A
+  Cluster 17:
+PDB 5z0u_3_A - Resolution 1.37 A
+  Cluster 33:
+PDB 1k3i_1_A - Resolution 1.4 A
+  Cluster 9:
+PDB 6xlr_2_A - Resolution 1.23 A
+  Cluster 27:
+PDB 4kty_1_B - Resolution 1.98 A
+PDB 4kty_3_A - Resolution 1.98 A
+  Cluster 14:
+PDB 4kty_2_BD - Resolution 1.98 A
+PDB 4kty_6_AC - Resolution 1.98 A
+  Cluster 39:
+PDB 1nol_2_A - Resolution 2.4 A
+  Cluster 3:
+PDB 2omy_2_AB - Resolution 1.7 A
+  Cluster 40:
+PDB 1o6t_2_A - Resolution 1.6 A
+  Cluster 8:
+PDB 1o6v_1_A - Resolution 1.5 A
+PDB 1o6v_2_B - Resolution 1.5 A
+  Cluster 10:
+PDB 1qho_3_A - Resolution 1.7 A
+PDB 1qhp_3_A - Resolution 1.7 A
+  Cluster 19:
+PDB 1ulv_1_A - Resolution 2.42 A
+  Cluster 2:
+PDB 1ulv_2_A - Resolution 2.42 A
+PDB 1ulv_4_A - Resolution 2.42 A
+  Cluster 6:
+PDB 1ulv_3_A - Resolution 2.42 A
+  Cluster 18:
+PDB 1ulv_5_A - Resolution 2.42 A
+  Cluster 7:
+PDB 2fhf_5_A - Resolution 1.65 A
+  Cluster 15:
+PDB 2fhf_3_A - Resolution 1.65 A
+  Cluster 16:
+PDB 2fhf_1_A - Resolution 1.65 A
+  Cluster 22:
+PDB 2fhf_4_A - Resolution 1.65 A
+  Cluster 34:
+PDB 2omv_2_A - Resolution 1.9 A
+  Cluster 4:
+PDB 2omx_1_AB - Resolution 1.7 A
+  Cluster 32:
+PDB 2wlj_2_AB - Resolution 2.6 A
+  Cluster 36:
+PDB 4gsq_1_A - Resolution 1.8 A
+  Cluster 20:
+PDB 4ief_13_BD - Resolution 2.3 A
+PDB 4ief_14_FH - Resolution 2.3 A
+PDB 4ief_19_BD - Resolution 2.3 A
+PDB 4ief_1_FH - Resolution 2.3 A
+  Cluster 24:
+PDB 4ief_6_FH - Resolution 2.3 A
+PDB 4ief_9_BD - Resolution 2.3 A
+  Cluster 25:
+PDB 4jcl_1_A - Resolution 1.7 A
+  Cluster 37:
+PDB 4jcm_7_A - Resolution 1.65 A
+  Cluster 30:
+PDB 4oy7_6_EG - Resolution 1.5 A
+  Cluster 41:
+PDB 5emw_1_AC - Resolution 2.55 A
+  Cluster 42:
+PDB 5emw_2_AC - Resolution 2.55 A
+  Cluster 38:
+PDB 5iju_1_B - Resolution 1.7 A
+
+Superfamily b.42.2:
+  Cluster 1:
+PDB 1ups_1_B - Resolution 1.82 A
+PDB 1ups_2_A - Resolution 1.82 A
+  Cluster 4:
+PDB 1vcl_10_B - Resolution 1.7 A
+PDB 1vcl_11_B - Resolution 1.7 A
+PDB 1vcl_12_B - Resolution 1.7 A
+PDB 1vcl_1_A - Resolution 1.7 A
+PDB 1vcl_2_A - Resolution 1.7 A
+PDB 1vcl_3_A - Resolution 1.7 A
+PDB 1vcl_6_B - Resolution 1.7 A
+PDB 1vcl_7_A - Resolution 1.7 A
+PDB 1vcl_8_AB - Resolution 1.7 A
+PDB 1vcl_9_A - Resolution 1.7 A
+PDB 2z48_11_B - Resolution 1.7 A
+PDB 2z48_13_A - Resolution 1.7 A
+PDB 2z48_14_B - Resolution 1.7 A
+PDB 2z48_1_A - Resolution 1.7 A
+PDB 2z48_2_B - Resolution 1.7 A
+PDB 2z48_3_A - Resolution 1.7 A
+PDB 2z48_4_B - Resolution 1.7 A
+PDB 2z48_5_A - Resolution 1.7 A
+PDB 2z48_6_A - Resolution 1.7 A
+PDB 2z48_9_AB - Resolution 1.7 A
+  Cluster 6:
+PDB 1xhb_3_A - Resolution 2.5 A
+  Cluster 2:
+PDB 5mu9_1_A - Resolution 1.3 A
+  Cluster 3:
+PDB 3w9t_12_BC - Resolution 2.9 A
+PDB 3w9t_36_EF - Resolution 2.9 A
+PDB 3w9t_37_DE - Resolution 2.9 A
+PDB 3w9t_40_AB - Resolution 2.9 A
+PDB 3w9t_53_CD - Resolution 2.9 A
+PDB 3w9t_54_FG - Resolution 2.9 A
+PDB 3w9t_58_AG - Resolution 2.9 A
+  Cluster 5:
+PDB 5mu9_2_A - Resolution 1.3 A
+
+Superfamily a.118.14:
+  Cluster 1:
+PDB 1lkv_1_X - Resolution 2.8 A
+
+Superfamily d.248.2:
+  Cluster 1:
+PDB 2g18_1_DE - Resolution 2.5 A
+
+Superfamily a.3.1:
+  Cluster 8:
+PDB 1e29_2_A - Resolution 1.21 A
+  Cluster 4:
+PDB 1e29_3_A - Resolution 1.21 A
+  Cluster 3:
+PDB 2c1v_1_A - Resolution 1.2 A
+PDB 2c1v_4_B - Resolution 1.2 A
+  Cluster 6:
+PDB 1iqc_5_A - Resolution 1.8 A
+  Cluster 1:
+PDB 1kb0_2_A - Resolution 1.44 A
+  Cluster 7:
+PDB 2c8s_2_A - Resolution 1.6 A
+  Cluster 2:
+PDB 3wu2_73_AEFJV - Resolution 1.9 A
+  Cluster 5:
+PDB 5b66_74_AEFV - Resolution 1.85 A
+  Cluster 9:
+PDB 7c90_16_AB - Resolution 2.13 A
+
+Superfamily c.107.1:
+  Cluster 1:
+PDB 6ll8_2_AB - Resolution 1.3 A
+
+Superfamily d.15.3:
+  Cluster 1:
+PDB 1zud_1_12 - Resolution 1.98 A
+
+Superfamily c.1.2:
+  Cluster 2:
+PDB 3cu2_2_B - Resolution 1.91 A
+PDB 3cu2_3_AB - Resolution 1.91 A
+  Cluster 1:
+PDB 4nt0_1_B - Resolution 1.769 A
+PDB 4nt0_2_A - Resolution 1.769 A
+
+Superfamily f.69.1:
+  Cluster 1:
+PDB 2qp2_2_A - Resolution 2.0 A
+
+Superfamily h.1.8:
+  Cluster 1:
+PDB 1fzc_1_BI - Resolution 2.3 A
+PDB 1fzc_2_CG - Resolution 2.3 A
+PDB 1fzc_3_FH - Resolution 2.3 A
+PDB 1fzc_4_EJ - Resolution 2.3 A
+  Cluster 3:
+PDB 1fzg_4_ABC - Resolution 2.5 A
+PDB 1fzg_7_DEF - Resolution 2.5 A
+  Cluster 2:
+PDB 1re3_1_CG - Resolution 2.45 A
+
+Superfamily a.195.1:
+  Cluster 1:
+PDB 1y9i_1_ABD - Resolution 1.8 A
+PDB 1y9i_2_ACD - Resolution 1.8 A
+PDB 1y9i_3_ABC - Resolution 1.8 A
+PDB 1y9i_4_BCD - Resolution 1.8 A
+
+Superfamily a.102.3:
+  Cluster 1:
+PDB 1cb8_1_A - Resolution 1.9 A
+  Cluster 2:
+PDB 1x1j_1_A - Resolution 2.1 A
+
+Superfamily c.86.1:
+  Cluster 1:
+PDB 1zmr_1_A - Resolution 2.4 A
+PDB 1zmr_3_A - Resolution 2.4 A
+  Cluster 2:
+PDB 1zmr_2_A - Resolution 2.4 A
+
+Superfamily f.33.1:
+  Cluster 1:
+PDB 1su4_1_A - Resolution 2.4 A
+PDB 2zbd_1_A - Resolution 2.4 A
+  Cluster 2:
+PDB 3ar2_1_A - Resolution 2.5 A
+
+Superfamily d.281.1:
+  Cluster 2:
+PDB 1vcl_10_B - Resolution 1.7 A
+PDB 1vcl_11_B - Resolution 1.7 A
+PDB 1vcl_12_B - Resolution 1.7 A
+PDB 1vcl_1_A - Resolution 1.7 A
+PDB 1vcl_2_A - Resolution 1.7 A
+PDB 1vcl_3_A - Resolution 1.7 A
+PDB 1vcl_6_B - Resolution 1.7 A
+PDB 1vcl_7_A - Resolution 1.7 A
+PDB 1vcl_8_AB - Resolution 1.7 A
+PDB 1vcl_9_A - Resolution 1.7 A
+PDB 2z48_11_B - Resolution 1.7 A
+PDB 2z48_13_A - Resolution 1.7 A
+PDB 2z48_14_B - Resolution 1.7 A
+PDB 2z48_1_A - Resolution 1.7 A
+PDB 2z48_2_B - Resolution 1.7 A
+PDB 2z48_3_A - Resolution 1.7 A
+PDB 2z48_4_B - Resolution 1.7 A
+PDB 2z48_5_A - Resolution 1.7 A
+PDB 2z48_6_A - Resolution 1.7 A
+PDB 2z48_9_AB - Resolution 1.7 A
+  Cluster 1:
+PDB 3w9t_12_BC - Resolution 2.9 A
+PDB 3w9t_36_EF - Resolution 2.9 A
+PDB 3w9t_37_DE - Resolution 2.9 A
+PDB 3w9t_40_AB - Resolution 2.9 A
+PDB 3w9t_53_CD - Resolution 2.9 A
+PDB 3w9t_54_FG - Resolution 2.9 A
+PDB 3w9t_58_AG - Resolution 2.9 A
+
+Superfamily c.92.2:
+  Cluster 1:
+PDB 3u7q_4_ABD - Resolution 1.0 A
+PDB 3u7q_5_BCD - Resolution 1.0 A
+  Cluster 2:
+PDB 5y8a_3_B - Resolution 2.001 A
+
+Superfamily g.23.1:
+  Cluster 1:
+PDB 1uzk_1_A - Resolution 1.35 A
+
+Superfamily b.23.3:
+  Cluster 5:
+PDB 2ii1_10_B - Resolution 1.95 A
+  Cluster 2:
+PDB 2ii1_11_BC - Resolution 1.95 A
+PDB 2ii1_3_BC - Resolution 1.95 A
+PDB 2ii1_8_AD - Resolution 1.95 A
+  Cluster 4:
+PDB 2ii1_1_B - Resolution 1.95 A
+  Cluster 1:
+PDB 2ii1_2_A - Resolution 1.95 A
+PDB 2ii1_4_B - Resolution 1.95 A
+PDB 2ii1_6_D - Resolution 1.95 A
+PDB 2ii1_9_C - Resolution 1.95 A
+  Cluster 7:
+PDB 2ii1_5_BCD - Resolution 1.95 A
+  Cluster 6:
+PDB 2ii1_7_BC - Resolution 1.95 A
+  Cluster 3:
+PDB 3tkk_5_A - Resolution 1.99 A
+
+Superfamily b.113.1:
+  Cluster 3:
+PDB 1q39_1_A - Resolution 2.8 A
+  Cluster 1:
+PDB 1q39_2_A - Resolution 2.8 A
+  Cluster 2:
+PDB 1q39_4_A - Resolution 2.8 A
+
+Superfamily b.1.27:
+  Cluster 1:
+PDB 3e9t_1_A - Resolution 1.6 A
+PDB 3e9t_2_B - Resolution 1.6 A
+
+Superfamily h.4.2:
+  Cluster 1:
+PDB 1s0e_2_A - Resolution 1.9 A
+  Cluster 2:
+PDB 1s0e_3_A - Resolution 1.9 A
+  Cluster 4:
+PDB 2np0_1_A - Resolution 2.62 A
+  Cluster 3:
+PDB 2nyy_1_A - Resolution 2.61 A
+
+Superfamily c.56.5:
+  Cluster 2:
+PDB 1tkj_2_A - Resolution 1.15 A
+  Cluster 3:
+PDB 5o5t_2_A - Resolution 1.43 A
+  Cluster 4:
+PDB 4ihm_3_A - Resolution 1.29 A
+  Cluster 1:
+PDB 4ihm_1_A - Resolution 1.29 A
+  Cluster 5:
+PDB 3lms_1_AB - Resolution 2.5 A
+
+Superfamily c.44.3:
+  Cluster 1:
+PDB 1yvu_1_A - Resolution 2.9 A
+
+Superfamily a.102.1:
+  Cluster 7:
+PDB 4zh5_3_B - Resolution 1.35 A
+PDB 4zh5_6_A - Resolution 1.35 A
+  Cluster 8:
+PDB 1clc_2_A - Resolution 1.9 A
+  Cluster 4:
+PDB 4jjj_20_A - Resolution 1.6 A
+  Cluster 15:
+PDB 1g9j_2_A - Resolution 1.9 A
+  Cluster 6:
+PDB 1ulv_1_A - Resolution 2.42 A
+  Cluster 2:
+PDB 1ulv_2_A - Resolution 2.42 A
+PDB 1ulv_4_A - Resolution 2.42 A
+  Cluster 1:
+PDB 1ulv_3_A - Resolution 2.42 A
+  Cluster 5:
+PDB 1ulv_5_A - Resolution 2.42 A
+  Cluster 13:
+PDB 1v7w_2_A - Resolution 1.6 A
+  Cluster 11:
+PDB 1v7v_2_A - Resolution 1.8 A
+  Cluster 12:
+PDB 1v7w_3_A - Resolution 1.6 A
+  Cluster 14:
+PDB 1v7w_1_A - Resolution 1.6 A
+  Cluster 10:
+PDB 4jjj_14_A - Resolution 1.6 A
+  Cluster 9:
+PDB 4jjj_15_A - Resolution 1.6 A
+  Cluster 3:
+PDB 4xwm_2_A - Resolution 1.703 A
+
+Superfamily b.24.1:
+  Cluster 1:
+PDB 1cb8_1_A - Resolution 1.9 A
+  Cluster 2:
+PDB 1x1j_1_A - Resolution 2.1 A
+
+Superfamily c.62.1:
+  Cluster 6:
+PDB 1jv2_3_B - Resolution 3.1 A
+PDB 1u8c_5_B - Resolution 3.1 A
+  Cluster 4:
+PDB 1m1u_1_A - Resolution 2.3 A
+  Cluster 2:
+PDB 1tye_1_AB - Resolution 2.9 A
+PDB 1tye_5_EF - Resolution 2.9 A
+PDB 1tye_7_CD - Resolution 2.9 A
+  Cluster 8:
+PDB 2nvo_1_A - Resolution 1.89 A
+  Cluster 1:
+PDB 3zqk_1_A - Resolution 1.7 A
+PDB 3zqk_2_C - Resolution 1.7 A
+PDB 3zqk_3_B - Resolution 1.7 A
+  Cluster 3:
+PDB 3q3g_1_ABE - Resolution 2.7 A
+PDB 3q3g_2_JKL - Resolution 2.7 A
+PDB 3q3g_4_FHI - Resolution 2.7 A
+PDB 3q3g_5_CDG - Resolution 2.7 A
+  Cluster 5:
+PDB 4c29_1_B - Resolution 2.202 A
+PDB 4c29_2_A - Resolution 2.202 A
+  Cluster 7:
+PDB 4c2a_2_A - Resolution 2.081 A
+
+Superfamily d.220.1:
+  Cluster 1:
+PDB 1su4_1_A - Resolution 2.4 A
+PDB 2zbd_1_A - Resolution 2.4 A
+  Cluster 2:
+PDB 3ar2_1_A - Resolution 2.5 A
+
+Superfamily g.18.1:
+  Cluster 1:
+PDB 2o39_2_C - Resolution 2.85 A
+PDB 2o39_3_D - Resolution 2.85 A
+  Cluster 3:
+PDB 2o39_1_D - Resolution 2.85 A
+
+Superfamily c.23.14:
+  Cluster 1:
+PDB 3f6y_2_A - Resolution 1.45 A
+  Cluster 2:
+PDB 3f6y_3_A - Resolution 1.45 A
+
+Superfamily b.1.7:
+  Cluster 1:
+PDB 2mcm_1_A - Resolution 1.5 A
+
+Superfamily h.1.13:
+  Cluster 1:
+PDB 1g1i_1_AB - Resolution 2.0 A
+  Cluster 2:
+PDB 2o1k_1_AB - Resolution 1.67 A
+
+Superfamily a.101.1:
+  Cluster 2:
+PDB 2ejn_1_AB - Resolution 1.64 A
+  Cluster 1:
+PDB 2ejn_2_A - Resolution 1.64 A
+PDB 2ejn_3_B - Resolution 1.64 A
+PDB 2ejn_4_A - Resolution 1.64 A
+
+Superfamily d.177.1:
+  Cluster 1:
+PDB 1hyo_1_AB - Resolution 1.3 A
+PDB 1hyo_2_AB - Resolution 1.3 A
+  Cluster 3:
+PDB 2hzy_8_AB - Resolution 1.35 A
+  Cluster 2:
+PDB 5d2i_1_A - Resolution 1.78 A
+
+Superfamily d.328.1:
+  Cluster 2:
+PDB 2hn2_12_BC - Resolution 3.7 A
+PDB 2hn2_1_AB - Resolution 3.7 A
+PDB 2hn2_4_AE - Resolution 3.7 A
+PDB 2hn2_7_CD - Resolution 3.7 A
+  Cluster 3:
+PDB 2hn2_13_A - Resolution 3.7 A
+  Cluster 1:
+PDB 2hn2_2_AE - Resolution 3.7 A
+PDB 2hn2_3_DE - Resolution 3.7 A
+PDB 2hn2_5_AB - Resolution 3.7 A
+PDB 2hn2_6_CD - Resolution 3.7 A
+PDB 2hn2_8_BC - Resolution 3.7 A
+
+Superfamily a.118.7:
+  Cluster 2:
+PDB 1ywt_1_B - Resolution 2.4 A
+  Cluster 1:
+PDB 3mhr_3_A - Resolution 1.15 A
+
+Superfamily b.163.1:
+  Cluster 1:
+PDB 1yu0_1_A - Resolution 1.56 A
+
+Superfamily b.34.2:
+  Cluster 3:
+PDB 2c0t_1_AB - Resolution 2.15 A
+PDB 2c0t_2_AB - Resolution 2.15 A
+  Cluster 2:
+PDB 2c0t_3_A - Resolution 2.15 A
+PDB 2c0t_4_B - Resolution 2.15 A
+  Cluster 4:
+PDB 2iim_1_A - Resolution 1.0 A
+  Cluster 1:
+PDB 1yn8_2_BCE - Resolution 1.7 A
+PDB 1yn8_3_BE - Resolution 1.7 A
+PDB 1yn8_4_D - Resolution 1.7 A
+PDB 1yn8_5_D - Resolution 1.7 A
+PDB 1yn8_7_E - Resolution 1.7 A
+
+Superfamily a.60.4:
+  Cluster 1:
+PDB 2i1q_1_A - Resolution 1.9 A
+  Cluster 2:
+PDB 2i1q_3_A - Resolution 1.9 A
+
+Superfamily b.1.9:
+  Cluster 6:
+PDB 1i82_1_A - Resolution 1.9 A
+PDB 1i8a_3_A - Resolution 1.9 A
+PDB 1i8u_1_A - Resolution 1.9 A
+  Cluster 7:
+PDB 1i82_2_A - Resolution 1.9 A
+PDB 1i8a_1_A - Resolution 1.9 A
+PDB 1i8u_2_A - Resolution 1.9 A
+  Cluster 4:
+PDB 1i82_3_A - Resolution 1.9 A
+PDB 1i8a_2_A - Resolution 1.9 A
+PDB 1i8u_3_A - Resolution 1.9 A
+  Cluster 1:
+PDB 1ulv_1_A - Resolution 2.42 A
+  Cluster 3:
+PDB 1ulv_2_A - Resolution 2.42 A
+PDB 1ulv_4_A - Resolution 2.42 A
+  Cluster 2:
+PDB 1ulv_3_A - Resolution 2.42 A
+  Cluster 5:
+PDB 1ulv_5_A - Resolution 2.42 A
+
+Superfamily a.4.6:
+  Cluster 1:
+PDB 1ys6_1_AB - Resolution 1.77 A
+PDB 1ys6_2_A - Resolution 1.77 A
+
+Superfamily e.19.1:
+  Cluster 2:
+PDB 4kn9_11_MT - Resolution 1.4 A
+PDB 4kn9_13_LS - Resolution 1.4 A
+  Cluster 1:
+PDB 4kl8_12_MT - Resolution 1.52 A
+  Cluster 3:
+PDB 4kn9_15_T - Resolution 1.4 A
+  Cluster 5:
+PDB 4kn9_9_S - Resolution 1.4 A
+  Cluster 4:
+PDB 4kn9_14_T - Resolution 1.4 A
+  Cluster 6:
+PDB 4ko2_15_MS - Resolution 1.6 A
+  Cluster 7:
+PDB 4upe_12_BR - Resolution 1.8 A
+
+Superfamily d.145.1:
+  Cluster 2:
+PDB 1v97_2_A - Resolution 1.94 A
+PDB 1v97_8_B - Resolution 1.94 A
+  Cluster 3:
+PDB 1vdv_5_B - Resolution 1.98 A
+PDB 1vdv_7_A - Resolution 1.98 A
+  Cluster 1:
+PDB 2oai_1_A - Resolution 1.8 A
+
+Superfamily g.24.1:
+  Cluster 2:
+PDB 4i9x_1_BC - Resolution 2.1 A
+  Cluster 1:
+PDB 4i9x_3_D - Resolution 2.1 A
+PDB 4i9x_5_AD - Resolution 2.1 A
+
+Superfamily a.246.1:
+  Cluster 2:
+PDB 2cho_1_B - Resolution 1.85 A
+PDB 2cho_2_A - Resolution 1.85 A
+  Cluster 1:
+PDB 2v5c_4_B - Resolution 2.1 A
+PDB 2v5c_8_A - Resolution 2.1 A
+
+Superfamily a.24.13:
+  Cluster 1:
+PDB 2j45_1_A - Resolution 1.14 A
+PDB 2j45_2_AB - Resolution 1.14 A
+
+Superfamily d.152.1:
+  Cluster 1:
+PDB 1b4n_1_B - Resolution 2.4 A
+PDB 1b4n_4_A - Resolution 2.4 A
+PDB 1b4n_6_C - Resolution 2.4 A
+PDB 1b4n_8_D - Resolution 2.4 A
+
+Superfamily d.174.1:
+  Cluster 1:
+PDB 5uo9_5_AC - Resolution 2.19 A
+
+Superfamily b.82.6:
+  Cluster 1:
+PDB 3s4y_1_AB - Resolution 1.8 A
+PDB 3s4y_2_AB - Resolution 1.8 A
+
+Superfamily d.219.1:
+  Cluster 2:
+PDB 2j82_1_A - Resolution 1.28 A
+  Cluster 1:
+PDB 5d2u_2_A - Resolution 1.8 A
+
+Superfamily b.179.1:
+  Cluster 2:
+PDB 3tew_1_A - Resolution 1.45 A
+  Cluster 1:
+PDB 2xjp_3_A - Resolution 0.95 A
+  Cluster 3:
+PDB 2xjp_4_A - Resolution 0.95 A
+
+Superfamily f.29.1:
+  Cluster 1:
+PDB 1jb0_21_AL - Resolution 2.5 A
+  Cluster 2:
+PDB 5l8r_145_B - Resolution 2.6 A
+  Cluster 3:
+PDB 5l8r_25_3A - Resolution 2.6 A
+
+Superfamily b.1.6:
+  Cluster 2:
+PDB 4zmy_1_A - Resolution 1.5 A
+PDB 4zmy_2_A - Resolution 1.5 A
+PDB 4zmy_3_A - Resolution 1.5 A
+  Cluster 1:
+PDB 2omy_2_AB - Resolution 1.7 A
+  Cluster 5:
+PDB 2omx_1_AB - Resolution 1.7 A
+  Cluster 6:
+PDB 5jym_4_AB - Resolution 2.45 A
+  Cluster 4:
+PDB 6cgu_5_D - Resolution 1.9 A
+  Cluster 3:
+PDB 6cgu_6_C - Resolution 1.9 A
+
+Superfamily c.55.2:
+  Cluster 1:
+PDB 1w2m_1_B - Resolution 2.4 A
+PDB 1w2m_2_D - Resolution 2.4 A
+PDB 1w2m_3_C - Resolution 2.4 A
+PDB 1w2m_4_F - Resolution 2.4 A
+PDB 1w2m_5_A - Resolution 2.4 A
+PDB 1w2m_6_E - Resolution 2.4 A
+  Cluster 2:
+PDB 5wze_9_AB - Resolution 1.783 A
+
+Superfamily b.96.1:
+  Cluster 2:
+PDB 1i9b_1_C - Resolution 2.7 A
+PDB 1i9b_2_D - Resolution 2.7 A
+PDB 1i9b_3_A - Resolution 2.7 A
+PDB 1i9b_6_E - Resolution 2.7 A
+PDB 1i9b_7_B - Resolution 2.7 A
+  Cluster 1:
+PDB 4xhe_1_DE - Resolution 1.9 A
+PDB 4xhe_3_I - Resolution 1.9 A
+  Cluster 3:
+PDB 4xhe_2_B - Resolution 1.9 A
+
+Superfamily d.58.28:
+  Cluster 1:
+PDB 4gwb_1_A - Resolution 1.2 A
+
+Superfamily d.240.1:
+  Cluster 1:
+PDB 1jx4_2_APT - Resolution 1.7 A
+  Cluster 3:
+PDB 1rys_3_ACD - Resolution 2.03 A
+  Cluster 7:
+PDB 2jej_1_AP - Resolution 1.86 A
+  Cluster 9:
+PDB 1s0m_6_BEF - Resolution 2.7 A
+  Cluster 6:
+PDB 3gv5_1_D - Resolution 2.0 A
+  Cluster 8:
+PDB 2wtf_4_B - Resolution 2.5 A
+  Cluster 5:
+PDB 2wtf_5_B - Resolution 2.5 A
+PDB 2wtf_9_A - Resolution 2.5 A
+  Cluster 4:
+PDB 2wtf_6_B - Resolution 2.5 A
+  Cluster 2:
+PDB 2xgp_2_A - Resolution 2.7 A
+  Cluster 10:
+PDB 3gv5_3_DEF - Resolution 2.0 A
+  Cluster 11:
+PDB 3gv5_4_BT - Resolution 2.0 A
+
+Superfamily d.250.1:
+  Cluster 1:
+PDB 1vly_1_A - Resolution 1.3 A
+
+Superfamily a.24.9:
+  Cluster 1:
+PDB 1h6g_1_A - Resolution 2.2 A
+  Cluster 2:
+PDB 1h6g_2_AB - Resolution 2.2 A
+
+Superfamily c.108.1:
+  Cluster 5:
+PDB 1kyt_2_A - Resolution 1.7 A
+  Cluster 2:
+PDB 3qxg_1_AB - Resolution 1.24 A
+PDB 3qxg_2_A - Resolution 1.24 A
+PDB 3qxg_3_B - Resolution 1.24 A
+PDB 3qxg_4_B - Resolution 1.24 A
+PDB 3qxg_5_A - Resolution 1.24 A
+PDB 3qxg_7_B - Resolution 1.24 A
+  Cluster 3:
+PDB 1kyt_4_B - Resolution 1.7 A
+  Cluster 4:
+PDB 3qxg_6_B - Resolution 1.24 A
+  Cluster 1:
+PDB 3s6j_1_BF - Resolution 2.198 A
+PDB 3s6j_2_AE - Resolution 2.198 A
+PDB 3s6j_4_CD - Resolution 2.198 A
+  Cluster 6:
+PDB 5olw_4_AB - Resolution 2.28 A
+  Cluster 7:
+PDB 5olw_5_A - Resolution 2.28 A
+
+Superfamily d.68.2:
+  Cluster 3:
+PDB 3kqa_1_D - Resolution 2.25 A
+  Cluster 1:
+PDB 3kqa_2_AB - Resolution 2.25 A
+PDB 3kqa_4_B - Resolution 2.25 A
+  Cluster 4:
+PDB 3kqa_3_B - Resolution 2.25 A
+  Cluster 5:
+PDB 3kqa_5_B - Resolution 2.25 A
+  Cluster 2:
+PDB 3kqa_6_CD - Resolution 2.25 A
+
+Superfamily c.23.10:
+  Cluster 1:
+PDB 7c23_1_A - Resolution 1.9 A
+PDB 7c23_2_AB - Resolution 1.9 A
+PDB 7c23_3_AB - Resolution 1.9 A
+  Cluster 2:
+PDB 7c29_3_A - Resolution 2.18 A
+
+Superfamily d.369.1:
+  Cluster 1:
+PDB 2pag_1_A - Resolution 1.6 A
+
+Superfamily g.3.2:
+  Cluster 1:
+PDB 1clv_1_AI - Resolution 2.0 A
+
+Superfamily c.27.1:
+  Cluster 1:
+PDB 1brw_1_A - Resolution 2.1 A
+PDB 1brw_2_B - Resolution 2.1 A
+
+Superfamily d.218.1:
+  Cluster 7:
+PDB 1uet_1_A - Resolution 2.0 A
+PDB 1uet_2_A - Resolution 2.0 A
+  Cluster 10:
+PDB 1zqv_1_A - Resolution 2.7 A
+  Cluster 3:
+PDB 1zqc_2_A - Resolution 3.2 A
+  Cluster 6:
+PDB 4k4h_10_MNP - Resolution 2.1 A
+PDB 4k4h_12_EFG - Resolution 2.1 A
+PDB 4k4h_13_ABD - Resolution 2.1 A
+PDB 4k4h_17_ABC - Resolution 2.1 A
+PDB 4k4h_18_MNO - Resolution 2.1 A
+PDB 4k4h_6_IJK - Resolution 2.1 A
+  Cluster 8:
+PDB 4kld_3_APT - Resolution 1.916 A
+  Cluster 4:
+PDB 4k4h_8_ABM - Resolution 2.1 A
+  Cluster 1:
+PDB 4k4h_14_IJKL - Resolution 2.1 A
+PDB 4k4h_1_MNOP - Resolution 2.1 A
+  Cluster 5:
+PDB 4k4g_1_EFG - Resolution 2.15 A
+  Cluster 9:
+PDB 4k4g_4_AJK - Resolution 2.15 A
+  Cluster 11:
+PDB 4k4g_8_IJL - Resolution 2.15 A
+  Cluster 12:
+PDB 4k4i_13_MN - Resolution 2.25 A
+  Cluster 13:
+PDB 4k4i_21_IJ - Resolution 2.25 A
+  Cluster 2:
+PDB 4lt6_1_A - Resolution 2.79 A
+PDB 4lt6_2_B - Resolution 2.79 A
+
+Superfamily d.58.64:
+  Cluster 1:
+PDB 4wis_2_A - Resolution 3.3 A
+
+Superfamily d.286.1:
+  Cluster 1:
+PDB 2aef_1_AB - Resolution 1.7 A
+PDB 2aef_2_AB - Resolution 1.7 A
+  Cluster 3:
+PDB 2bko_1_A - Resolution 1.9 A
+PDB 2bko_4_A - Resolution 1.9 A
+  Cluster 6:
+PDB 2bko_2_A - Resolution 1.9 A
+  Cluster 4:
+PDB 2bko_3_A - Resolution 1.9 A
+  Cluster 5:
+PDB 2bko_5_A - Resolution 1.9 A
+  Cluster 2:
+PDB 4l73_5_AB - Resolution 2.5 A
+
+Superfamily d.15.2:
+  Cluster 1:
+PDB 2c60_1_A - Resolution 1.25 A
+
+Superfamily a.60.16:
+  Cluster 1:
+PDB 3ci0_2_JK - Resolution 2.2 A
+
+Superfamily h.1.15:
+  Cluster 1:
+PDB 1n7s_1_ABCD - Resolution 1.45 A
+PDB 1n7s_2_C - Resolution 1.45 A
+
+Superfamily a.190.1:
+  Cluster 1:
+PDB 1sfk_1_G - Resolution 3.2 A
+PDB 1sfk_2_F - Resolution 3.2 A
+PDB 1sfk_3_A - Resolution 3.2 A
+
+Superfamily a.118.3:
+  Cluster 1:
+PDB 3ltl_1_A - Resolution 2.2 A
+
+Superfamily f.23.36:
+  Cluster 1:
+PDB 2axt_70_CKX - Resolution 3.0 A
+  Cluster 2:
+PDB 5ws5_60_cky - Resolution 2.35 A
+
+Superfamily b.47.1:
+  Cluster 5:
+PDB 4i8h_1_A - Resolution 0.75 A
+  Cluster 1:
+PDB 1dva_5_HLM - Resolution 3.0 A
+PDB 1dva_6_ILM - Resolution 3.0 A
+  Cluster 2:
+PDB 1dx5_11_JN - Resolution 2.3 A
+PDB 1dx5_12_KO - Resolution 2.3 A
+PDB 1dx5_3_IM - Resolution 2.3 A
+PDB 1dx5_5_LP - Resolution 2.3 A
+  Cluster 3:
+PDB 3kl6_2_A - Resolution 1.45 A
+  Cluster 12:
+PDB 1kdq_1_AB - Resolution 2.55 A
+  Cluster 4:
+PDB 3beu_1_A - Resolution 1.05 A
+PDB 3beu_4_B - Resolution 1.05 A
+  Cluster 9:
+PDB 1spj_2_A - Resolution 1.7 A
+  Cluster 17:
+PDB 3gyl_1_B - Resolution 1.3 A
+  Cluster 7:
+PDB 3kl6_3_AB - Resolution 1.45 A
+  Cluster 14:
+PDB 3s69_2_A - Resolution 1.43 A
+  Cluster 8:
+PDB 4ic5_1_ABC - Resolution 2.607 A
+  Cluster 6:
+PDB 4ic5_4_ABC - Resolution 2.607 A
+  Cluster 10:
+PDB 4nsy_1_B - Resolution 1.1 A
+  Cluster 13:
+PDB 4nsy_2_AB - Resolution 1.1 A
+  Cluster 15:
+PDB 4sgb_1_E - Resolution 2.1 A
+  Cluster 11:
+PDB 5wkj_1_A - Resolution 2.05 A
+  Cluster 16:
+PDB 5wkj_2_A - Resolution 2.05 A
+
+Superfamily b.121.4:
+  Cluster 10:
+PDB 1c8n_1_AC - Resolution 2.25 A
+PDB 1c8n_4_AB - Resolution 2.25 A
+  Cluster 6:
+PDB 1c8n_2_AB - Resolution 2.25 A
+PDB 1c8n_3_BC - Resolution 2.25 A
+PDB 1c8n_5_AC - Resolution 2.25 A
+  Cluster 11:
+PDB 1f8v_1_ABC - Resolution 3.0 A
+  Cluster 7:
+PDB 2tbv_1_AC - Resolution 2.9 A
+PDB 2tbv_2_BC - Resolution 2.9 A
+PDB 2tbv_3_AB - Resolution 2.9 A
+PDB 2tbv_4_BC - Resolution 2.9 A
+  Cluster 14:
+PDB 1v9u_1_15 - Resolution 3.6 A
+  Cluster 5:
+PDB 2bbv_1_AB - Resolution 2.8 A
+PDB 2bbv_2_AC - Resolution 2.8 A
+PDB 2bbv_4_BC - Resolution 2.8 A
+  Cluster 12:
+PDB 2bbv_3_ABC - Resolution 2.8 A
+  Cluster 8:
+PDB 2df7_1_IJQ - Resolution 2.6 A
+PDB 2df7_2_CEL - Resolution 2.6 A
+PDB 2df7_3_RST - Resolution 2.6 A
+PDB 2df7_4_HNO - Resolution 2.6 A
+PDB 2df7_5_B - Resolution 2.6 A
+PDB 2df7_6_AF - Resolution 2.6 A
+PDB 2df7_7_P - Resolution 2.6 A
+PDB 2df7_8_GKM - Resolution 2.6 A
+PDB 2gsy_10_L - Resolution 2.6 A
+PDB 2gsy_11_MR - Resolution 2.6 A
+PDB 2gsy_1_AE - Resolution 2.6 A
+PDB 2gsy_2_B - Resolution 2.6 A
+PDB 2gsy_3_FIK - Resolution 2.6 A
+PDB 2gsy_4_S - Resolution 2.6 A
+PDB 2gsy_5_T - Resolution 2.6 A
+PDB 2gsy_6_D - Resolution 2.6 A
+PDB 2gsy_7_OPQ - Resolution 2.6 A
+PDB 2gsy_8_CJ - Resolution 2.6 A
+PDB 2gsy_9_GHN - Resolution 2.6 A
+  Cluster 1:
+PDB 4q4w_1_134 - Resolution 1.4 A
+  Cluster 9:
+PDB 4q4w_3_13 - Resolution 1.4 A
+  Cluster 2:
+PDB 4q4w_4_13 - Resolution 1.4 A
+  Cluster 13:
+PDB 4q4x_2_1 - Resolution 1.65 A
+  Cluster 15:
+PDB 5neu_1_1AB - Resolution 12.3 A
+  Cluster 3:
+PDB 6e48_1_AF - Resolution 1.801 A
+PDB 6e48_2_BG - Resolution 1.801 A
+  Cluster 4:
+PDB 6e48_3_AB - Resolution 1.801 A
+PDB 6e48_4_AB - Resolution 1.801 A
+
+Superfamily a.24.5:
+  Cluster 1:
+PDB 2tmv_1_PR - Resolution 2.9 A
+
+Superfamily a.102.4:
+  Cluster 2:
+PDB 3dss_2_B - Resolution 1.8 A
+  Cluster 3:
+PDB 3dss_1_B - Resolution 1.8 A
+  Cluster 1:
+PDB 5ilh_1_A - Resolution 2.1 A
+
+Superfamily b.40.1:
+  Cluster 1:
+PDB 4eqp_1_A - Resolution 1.35 A
+PDB 4hmj_1_A - Resolution 1.35 A
+
+Superfamily c.81.1:
+  Cluster 2:
+PDB 1g8k_12_EG - Resolution 1.64 A
+PDB 1g8k_28_AC - Resolution 1.64 A
+PDB 1g8k_31_EG - Resolution 1.64 A
+PDB 1g8k_3_AC - Resolution 1.64 A
+  Cluster 3:
+PDB 1g8k_15_CD - Resolution 1.64 A
+PDB 1g8k_24_AB - Resolution 1.64 A
+PDB 1g8k_32_EF - Resolution 1.64 A
+PDB 1g8k_6_GH - Resolution 1.64 A
+  Cluster 6:
+PDB 1h0h_10_K - Resolution 1.8 A
+PDB 1h0h_12_A - Resolution 1.8 A
+  Cluster 7:
+PDB 3i9v_6_379 - Resolution 3.1 A
+PDB 3i9v_8_CGH - Resolution 3.1 A
+PDB 3iam_12_37 - Resolution 3.1 A
+PDB 3iam_27_CH - Resolution 3.1 A
+  Cluster 1:
+PDB 3ias_15_U - Resolution 3.15 A
+PDB 3ias_37_3 - Resolution 3.15 A
+PDB 3ias_3_C - Resolution 3.15 A
+PDB 3ias_9_L - Resolution 3.15 A
+
+Superfamily b.68.4:
+  Cluster 2:
+PDB 2ivz_1_BF - Resolution 2.0 A
+PDB 2ivz_2_AE - Resolution 2.0 A
+PDB 2ivz_3_DH - Resolution 2.0 A
+PDB 2ivz_7_CG - Resolution 2.0 A
+  Cluster 1:
+PDB 2ivz_4_A - Resolution 2.0 A
+PDB 2ivz_5_C - Resolution 2.0 A
+PDB 2ivz_6_D - Resolution 2.0 A
+
+Superfamily a.118.6:
+  Cluster 1:
+PDB 4ydo_2_A - Resolution 3.0 A
+
+Superfamily c.51.4:
+  Cluster 1:
+PDB 2q16_1_B - Resolution 1.95 A
+PDB 2q16_2_AB - Resolution 1.95 A
+  Cluster 2:
+PDB 3tqu_1_C - Resolution 1.9 A
+PDB 3tqu_2_D - Resolution 1.9 A
+PDB 3tqu_4_B - Resolution 1.9 A
+PDB 3tqu_5_A - Resolution 1.9 A
+  Cluster 3:
+PDB 3tqu_3_CD - Resolution 1.9 A
+
+Superfamily d.58.1:
+  Cluster 2:
+PDB 2c42_7_B - Resolution 1.78 A
+PDB 2c42_8_A - Resolution 1.78 A
+  Cluster 4:
+PDB 3i9v_6_379 - Resolution 3.1 A
+PDB 3i9v_8_CGH - Resolution 3.1 A
+PDB 3iam_12_37 - Resolution 3.1 A
+PDB 3iam_27_CH - Resolution 3.1 A
+  Cluster 1:
+PDB 3ias_15_U - Resolution 3.15 A
+PDB 3ias_37_3 - Resolution 3.15 A
+PDB 3ias_3_C - Resolution 3.15 A
+PDB 3ias_9_L - Resolution 3.15 A
+
+Superfamily c.17.1:
+  Cluster 3:
+PDB 1cvr_2_A - Resolution 2.0 A
+  Cluster 5:
+PDB 1cvr_3_A - Resolution 2.0 A
+PDB 1cvr_5_A - Resolution 2.0 A
+  Cluster 1:
+PDB 1cvr_6_A - Resolution 2.0 A
+  Cluster 6:
+PDB 1cvr_7_A - Resolution 2.0 A
+  Cluster 7:
+PDB 1cvr_8_A - Resolution 2.0 A
+  Cluster 2:
+PDB 4ief_13_BD - Resolution 2.3 A
+PDB 4ief_14_FH - Resolution 2.3 A
+PDB 4ief_19_BD - Resolution 2.3 A
+PDB 4ief_1_FH - Resolution 2.3 A
+  Cluster 4:
+PDB 4ief_6_FH - Resolution 2.3 A
+PDB 4ief_9_BD - Resolution 2.3 A
+
+Superfamily b.82.5:
+  Cluster 1:
+PDB 1pg6_1_A - Resolution 1.7 A
+  Cluster 2:
+PDB 1pg6_2_A - Resolution 1.7 A
+
+Superfamily a.60.1:
+  Cluster 1:
+PDB 4mhv_1_A - Resolution 2.45 A
+
+Superfamily a.5.2:
+  Cluster 1:
+PDB 3e46_1_A - Resolution 1.86 A
+
+Superfamily d.40.1:
+  Cluster 1:
+PDB 5fbz_1_BC - Resolution 1.9 A
+PDB 5fbz_5_AD - Resolution 1.9 A
+  Cluster 2:
+PDB 5fbz_2_ACD - Resolution 1.9 A
+PDB 5fbz_6_ABC - Resolution 1.9 A
+
+Superfamily b.80.7:
+  Cluster 2:
+PDB 5d7w_1_A - Resolution 1.1 A
+PDB 5d7w_4_A - Resolution 1.1 A
+  Cluster 1:
+PDB 5d7w_2_A - Resolution 1.1 A
+  Cluster 3:
+PDB 1kap_4_P - Resolution 1.64 A
+  Cluster 4:
+PDB 1g9k_5_A - Resolution 1.96 A
+
+Superfamily d.95.2:
+  Cluster 2:
+PDB 1t9i_2_ABCD - Resolution 1.6 A
+  Cluster 3:
+PDB 1lws_1_ABC - Resolution 3.5 A
+  Cluster 1:
+PDB 2vbo_2_ABE - Resolution 1.8 A
+PDB 2vbo_4_ABC - Resolution 1.8 A
+
+Superfamily c.3.1:
+  Cluster 1:
+PDB 1qlb_10_A - Resolution 2.33 A
+PDB 1qlb_11_D - Resolution 2.33 A
+
+Superfamily b.160.1:
+  Cluster 1:
+PDB 4gsq_1_A - Resolution 1.8 A
+
+Superfamily g.65.1:
+
+Superfamily b.136.1:
+  Cluster 1:
+PDB 1ou9_1_AB - Resolution 1.8 A
+PDB 1ou9_2_A - Resolution 1.8 A
+
+Superfamily a.121.1:
+  Cluster 1:
+PDB 2id3_1_A - Resolution 1.7 A
+PDB 2id3_2_AB - Resolution 1.7 A
+PDB 2id3_3_B - Resolution 1.7 A
+PDB 2id3_4_A - Resolution 1.7 A
+PDB 2id3_5_B - Resolution 1.7 A
+PDB 2id3_6_A - Resolution 1.7 A
+PDB 2id3_7_B - Resolution 1.7 A
+
+Superfamily a.111.1:
+  Cluster 1:
+PDB 1up8_1_AB - Resolution 2.2 A
+PDB 1up8_2_CD - Resolution 2.2 A
+PDB 1up8_3_AB - Resolution 2.2 A
+PDB 1up8_4_ACD - Resolution 2.2 A
+
+Superfamily a.26.1:
+  Cluster 4:
+PDB 1scf_1_D - Resolution 2.2 A
+PDB 1scf_2_C - Resolution 2.2 A
+PDB 1scf_3_D - Resolution 2.2 A
+  Cluster 1:
+PDB 3lb6_1_BD - Resolution 3.05 A
+PDB 3lb6_2_AC - Resolution 3.05 A
+  Cluster 3:
+PDB 3uf5_1_A - Resolution 2.8 A
+  Cluster 5:
+PDB 3uf5_3_B - Resolution 2.8 A
+  Cluster 2:
+PDB 3uf5_4_B - Resolution 2.8 A
+
+Superfamily b.80.8:
+  Cluster 1:
+PDB 2g0y_1_A - Resolution 2.3 A
+  Cluster 2:
+PDB 2g0y_2_A - Resolution 2.3 A
+
+Superfamily c.54.1:
+  Cluster 1:
+PDB 3ipr_10_D - Resolution 2.5 A
+PDB 3ipr_2_E - Resolution 2.5 A
+PDB 3ipr_4_A - Resolution 2.5 A
+PDB 3ipr_5_B - Resolution 2.5 A
+PDB 3ipr_6_F - Resolution 2.5 A
+PDB 3ipr_9_C - Resolution 2.5 A
+  Cluster 3:
+PDB 3ipr_1_D - Resolution 2.5 A
+  Cluster 2:
+PDB 3ipr_3_F - Resolution 2.5 A
+PDB 3ipr_8_C - Resolution 2.5 A
+
+Superfamily b.30.5:
+  Cluster 3:
+PDB 1cb8_1_A - Resolution 1.9 A
+  Cluster 10:
+PDB 1x1j_1_A - Resolution 2.1 A
+  Cluster 5:
+PDB 1k1x_1_AB - Resolution 2.4 A
+PDB 1k1x_3_AB - Resolution 2.4 A
+PDB 1k1y_1_AB - Resolution 2.4 A
+PDB 1k1y_2_AB - Resolution 2.4 A
+  Cluster 13:
+PDB 1k1x_2_B - Resolution 2.4 A
+PDB 1k1y_3_B - Resolution 2.4 A
+  Cluster 1:
+PDB 1nkg_1_A - Resolution 1.5 A
+  Cluster 12:
+PDB 1ulv_1_A - Resolution 2.42 A
+  Cluster 9:
+PDB 1ulv_2_A - Resolution 2.42 A
+PDB 1ulv_4_A - Resolution 2.42 A
+  Cluster 2:
+PDB 1ulv_3_A - Resolution 2.42 A
+  Cluster 11:
+PDB 1ulv_5_A - Resolution 2.42 A
+  Cluster 8:
+PDB 1v7w_2_A - Resolution 1.6 A
+  Cluster 6:
+PDB 1v7v_2_A - Resolution 1.8 A
+  Cluster 4:
+PDB 1v7w_3_A - Resolution 1.6 A
+  Cluster 7:
+PDB 1v7w_1_A - Resolution 1.6 A
+
+Superfamily a.93.1:
+  Cluster 3:
+PDB 3m5q_1_A - Resolution 0.93 A
+  Cluster 2:
+PDB 3m5q_2_A - Resolution 0.93 A
+  Cluster 1:
+PDB 1d2v_2_AC - Resolution 1.75 A
+PDB 1d2v_4_BD - Resolution 1.75 A
+  Cluster 6:
+PDB 1yyg_3_A - Resolution 1.6 A
+  Cluster 5:
+PDB 5abq_2_A - Resolution 2.293 A
+  Cluster 4:
+PDB 5abq_4_A - Resolution 2.293 A
+
